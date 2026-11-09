@@ -4,8 +4,18 @@
     "title": "Using robots to help people",
     "originalTitle": "Lehigh Engineering: Using robots to help people",
     "category": "featured",
-    "project": "Lab overview",
-    "youtubeTitle": "Using robots to help people"
+    "project": "Lehigh Engineering",
+    "youtubeTitle": "Using robots to help people",
+    "description": "Meet the researchers behind our cooperative aerial robots and see how they work together to manipulate and transport objects."
+  },
+  {
+    "id": "FBfTVM0NLOU",
+    "title": "ModQuad on Discovery Channel: trailer",
+    "category": "featured",
+    "project": "Discovery Channel",
+    "youtubeTitle": "ModQuad in Discovery Channel - trailer",
+    "robot": "modquad",
+    "description": "A Discovery Channel trailer featuring ModQuad, our self-assembling modular aerial robot."
   },
   {
     "id": "3SaKKjl6os0",
@@ -232,13 +242,5 @@
     "category": "outreach",
     "project": "Lab highlights",
     "youtubeTitle": "Swams lab - papers 2021"
-  },
-  {
-    "id": "FBfTVM0NLOU",
-    "title": "ModQuad on Discovery Channel: trailer",
-    "category": "outreach",
-    "project": "Discovery Channel",
-    "youtubeTitle": "ModQuad in Discovery Channel - trailer",
-    "robot": "modquad"
   }
 ]

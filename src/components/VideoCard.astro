@@ -1,7 +1,7 @@
 ---
 import { withBase } from '../lib/paths';
 interface Props {
-  video: { id: string; title: string; project: string; robot?: string; externalOnly?: boolean };
+  video: { id: string; title: string; project: string; robot?: string; externalOnly?: boolean; description?: string };
   paper?: { title: string; url: string };
   featured?: boolean;
 }
@@ -20,9 +20,9 @@ const youtube=`https://www.youtube.com/watch?v=${video.id}`;
     </a>
   </lab-video>}
   <div class:list={[!featured&&'mt-4']}>
-    <p class="eyebrow">{featured?'Featured / Lehigh Engineering':video.project}</p>
+    <p class="eyebrow">{featured?`Featured / ${video.project}`:video.project}</p>
     <Heading class:list={['mt-2 font-serif leading-snug',featured?'text-3xl sm:text-4xl':'text-xl']}>{video.title}</Heading>
-    {featured&&<p class="mt-4 max-w-lg leading-relaxed text-slate-600">Meet the researchers behind our cooperative aerial robots and see how they work together to manipulate and transport objects.</p>}
+    {featured&&video.description&&<p class="mt-4 max-w-lg leading-relaxed text-slate-600">{video.description}</p>}
     <div class="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-xs font-semibold text-primary-700">
       <a href={youtube} target="_blank" rel="noopener noreferrer" class="hover:underline">Watch on YouTube ↗</a>
       {video.robot&&<a href={withBase(`/robots/#${video.robot}`)} class="hover:underline">Meet the robot →</a>}

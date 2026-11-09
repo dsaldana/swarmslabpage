@@ -24,15 +24,15 @@ for(const video of videos){
   if(!url)throw new Error(`Missing paper link for video: ${video.id}`);
   paperForVideo.set(video.id,{title:d.title,url});
 }
-const featured=videos.find(v=>v.category==='featured')!;
+const featured=videos.filter(v=>v.category==='featured');
 const sections=categories.map(c=>({...c,videos:videos.filter(v=>v.category===c.slug)}));
 if(videos.some(v=>v.category!=='featured'&&!categories.some(c=>c.slug===v.category)))throw new Error('Uncategorized video');
 ---
 <BaseLayout title="Videos" description="Explore SwarmsLab videos by project: collaborative manipulation, modular aerial robots, LTA swarms, resilient teams, and outreach.">
   <PageHeader eyebrow="Robots in action" title="Videos" lead="Explore our robots in action, from research demonstrations to competition highlights. Choose a research area or start with a look inside the lab." />
   <div class="container-page pb-16">
-    <section aria-label="Featured video" class="border-b border-slate-200 py-10">
-      <VideoCard video={featured} featured />
+    <section aria-label="Featured videos" class="space-y-10 border-b border-slate-200 py-10">
+      {featured.map(video=><VideoCard video={video} featured />)}
     </section>
     <nav aria-label="Video categories" class="py-8">
       <p class="eyebrow mb-4">Browse by research area</p>
