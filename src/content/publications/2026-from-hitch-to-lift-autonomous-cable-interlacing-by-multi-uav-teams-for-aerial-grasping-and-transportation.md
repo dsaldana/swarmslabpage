@@ -6,7 +6,7 @@ journal: "IEEE Transactions on Robotics"
 doi: "10.1109/tro.2026.3677011"
 publicationType: "journal"
 metadataSources: ["https://api.crossref.org/works/10.1109/tro.2026.3677011"]
-resources: []
+resources: [{"label": "YouTube", "url": "https://www.youtube.com/watch?v=4ltpRIiyk5E"}]
 areas: ["aerial-manipulation"]
 scholarIds: ["mlAyqtXpCwEC"]
 scholarUrl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VU1s_Z8AAAAJ&citation_for_view=VU1s_Z8AAAAJ:mlAyqtXpCwEC"
