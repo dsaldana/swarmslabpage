@@ -176,6 +176,14 @@
     "paper": "2023-sblimp-design-model-and-translational-motion-control-for-a-swing-blimp"
   },
   {
+    "id": "luJXxDGCFt8",
+    "title": "KT-Imitation: learning visual navigation",
+    "category": "robotic-blimps",
+    "project": "KT-Imitation",
+    "youtubeTitle": "KT-Imitation: Efficient Visual Imitation for Autonomous Navigation Based on Keypoint Timeline",
+    "paper": "2024-kt-imitation-efficient-visual-imitation-for-autonomous-navigation-based-on-keypoint-timeline"
+  },
+  {
     "id": "dj2afGyhBB4",
     "title": "Modular robot formation and routing",
     "originalTitle": "Resilient Consensus in Robot Swarms With Periodic Motion and Intermittent Communication",

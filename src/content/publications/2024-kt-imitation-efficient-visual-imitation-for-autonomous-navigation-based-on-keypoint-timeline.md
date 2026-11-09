@@ -7,7 +7,7 @@ doi: "10.1109/lars64411.2024.10786409"
 publicationType: "conference"
 metadataSources: ["https://api.crossref.org/works/10.1109/lars64411.2024.10786409"]
 resources: [{"label": "YouTube", "url": "https://www.youtube.com/watch?v=luJXxDGCFt8"}]
-areas: ["robot-learning"]
+areas: ["robot-learning", "robotic-blimps"]
 scholarIds: ["HtEfBTGE9r8C"]
 scholarUrl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VU1s_Z8AAAAJ&citation_for_view=VU1s_Z8AAAAJ:HtEfBTGE9r8C"
 scholarChecked: "2026-11-08"
