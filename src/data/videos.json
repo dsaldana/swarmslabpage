@@ -234,10 +234,11 @@
     "youtubeTitle": "Swams lab - papers 2021"
   },
   {
-    "id": "OHMvz1UageA",
-    "title": "Using robots to help people",
+    "id": "FBfTVM0NLOU",
+    "title": "ModQuad on Discovery Channel: trailer",
     "category": "outreach",
-    "project": "Media feature",
-    "externalOnly": true
+    "project": "Discovery Channel",
+    "youtubeTitle": "ModQuad in Discovery Channel - trailer",
+    "robot": "modquad"
   }
 ]
