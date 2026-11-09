@@ -1,0 +1,1204 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 7641766,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              15
+            ]
+          ],
+          "date-time": "2024-12-15T05:05:11Z",
+          "timestamp": 1734239111314,
+          "version": "3.30.2"
+        },
+        "reference-count": 30,
+        "publisher": "IEEE",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  11,
+                  11
+                ]
+              ],
+              "date-time": "2024-11-11T00:00:00Z",
+              "timestamp": 1731283200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  11,
+                  11
+                ]
+              ],
+              "date-time": "2024-11-11T00:00:00Z",
+              "timestamp": 1731283200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              11
+            ]
+          ]
+        },
+        "DOI": "10.1109/lars64411.2024.10786409",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              13
+            ]
+          ],
+          "date-time": "2024-12-13T18:50:12Z",
+          "timestamp": 1734115812000
+        },
+        "page": "1-6",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "KT-Imitation: Efficient Visual Imitation for Autonomous Navigation Based on Keypoint Timeline"
+        ],
+        "prefix": "10.1109",
+        "author": [
+          {
+            "given": "Karen",
+            "family": "Li",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Lehigh University,Department of Computer Science and Engineering,Bethlehem,PA,USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hanqing",
+            "family": "Qi",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Lehigh University,Department of Computer Science and Engineering,Bethlehem,PA,USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Jiawei",
+            "family": "Xu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Lehigh University,Department of Computer Science and Engineering,Bethlehem,PA,USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Edward",
+            "family": "Jeffs",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Lehigh University,Department of Computer Science and Engineering,Bethlehem,PA,USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "David",
+            "family": "Saldaña",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Lehigh University,Department of Computer Science and Engineering,Bethlehem,PA,USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "263",
+        "reference": [
+          {
+            "key": "ref1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.286.5449.2526"
+          },
+          {
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1098/rstb.2013.0620"
+          },
+          {
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/s21041278"
+          },
+          {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.21236/ADA528601"
+          },
+          {
+            "key": "ref5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA48506.2021.9561411"
+          },
+          {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s41315-019-00103-5"
+          },
+          {
+            "key": "ref7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/0278364911410755"
+          },
+          {
+            "key": "ref8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/LRA.2020.3026970"
+          },
+          {
+            "key": "ref9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TRO.2015.2463671"
+          },
+          {
+            "key": "ref10",
+            "article-title": "Robot see, robot do: An overview of robot imitation",
+            "volume-title": "AISB96 Workshop on Learning in Robots and Animals",
+            "volume": "5",
+            "author": "Bakker"
+          },
+          {
+            "key": "ref11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/10597123030112004"
+          },
+          {
+            "key": "ref12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/robotics7020017"
+          },
+          {
+            "key": "ref13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TNNLS.2020.3043505"
+          },
+          {
+            "key": "ref14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.1003111107"
+          },
+          {
+            "key": "ref15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ACCESS.2021.3107041"
+          },
+          {
+            "key": "ref16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2018.8460487"
+          },
+          {
+            "key": "ref17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.15607/rss.2017.xiii.050"
+          },
+          {
+            "key": "ref18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3054912"
+          },
+          {
+            "key": "ref19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2018.8462901"
+          },
+          {
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TRO.2023.3286074"
+          },
+          {
+            "key": "ref21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA46639.2022.9812316"
+          },
+          {
+            "issue": "1",
+            "key": "ref22",
+            "first-page": "1437",
+            "article-title": "A comprehensive survey on safe reinforcement learning",
+            "volume": "16",
+            "author": "Garcia",
+            "year": "2015",
+            "journal-title": "Journal of Machine Learning Research"
+          },
+          {
+            "key": "ref23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICHR.2006.321361"
+          },
+          {
+            "key": "ref24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ROBOT.1996.503577"
+          },
+          {
+            "key": "ref25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICCV.2011.6126544"
+          },
+          {
+            "key": "ref26",
+            "article-title": "Image matching using sift, surf, brief and orb: performance comparison for distorted images",
+            "author": "Karami",
+            "year": "2017",
+            "journal-title": "arXiv:1710.02726"
+          },
+          {
+            "key": "ref27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.23919/ELMAR.2018.8534641"
+          },
+          {
+            "key": "ref28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/WACV.2017.13"
+          },
+          {
+            "key": "ref29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-540-74048-3_4"
+          },
+          {
+            "key": "ref30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS55552.2023.10341796"
+          }
+        ],
+        "event": {
+          "name": "2024 Latin American Robotics Symposium (LARS)",
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                11
+              ]
+            ]
+          },
+          "location": "Arequipa, Peru",
+          "end": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                14
+              ]
+            ]
+          }
+        },
+        "container-title": [
+          "2024 Latin American Robotics Symposium (LARS)"
+        ],
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/10786329/10786390/10786409.pdf?arnumber=10786409",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              12,
+              14
+            ]
+          ],
+          "date-time": "2024-12-14T06:52:06Z",
+          "timestamp": 1734159126000
+        },
+        "score": 86.54414,
+        "resource": {
+          "primary": {
+            "URL": "https://ieeexplore.ieee.org/document/10786409/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              11
+            ]
+          ]
+        },
+        "references-count": 30,
+        "URL": "https://doi.org/10.1109/lars64411.2024.10786409",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              11,
+              11
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              20
+            ]
+          ],
+          "date-time": "2026-10-20T16:27:33Z",
+          "timestamp": 1792513653603,
+          "version": "4.5.0"
+        },
+        "reference-count": 31,
+        "publisher": "IEEE",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  23
+                ]
+              ],
+              "date-time": "2022-05-23T00:00:00Z",
+              "timestamp": 1653264000000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2022,
+                  5,
+                  23
+                ]
+              ],
+              "date-time": "2022-05-23T00:00:00Z",
+              "timestamp": 1653264000000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/100000001",
+            "name": "NSF",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "CPS-1739964,IIS-1724157,NRI-1925082"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "CPS-1739964,IIS-1724157,NRI-1925082"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000001",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100000006",
+            "name": "ONR",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "N00014-18-2243"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "N00014-18-2243"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000006",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100000183",
+            "name": "ARO",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "W911NF-19-2-0333"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "W911NF-19-2-0333"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000183",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              23
+            ]
+          ]
+        },
+        "DOI": "10.1109/icra46639.2022.9812316",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              12
+            ]
+          ],
+          "date-time": "2022-07-12T19:36:40Z",
+          "timestamp": 1657654600000
+        },
+        "page": "2497-2503",
+        "source": "Crossref",
+        "is-referenced-by-count": 40,
+        "title": [
+          "VOILA: Visual-Observation-Only Imitation Learning for Autonomous Navigation"
+        ],
+        "prefix": "10.1109",
+        "author": [
+          {
+            "given": "Haresh",
+            "family": "Karnan",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "The University of Texas at Austin,Department of Mechanical Engineering"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Garrett",
+            "family": "Warnell",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Army Research Laboratory"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Xuesu",
+            "family": "Xiao",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Texas at Austin,Department of Computer Science"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Peter",
+            "family": "Stone",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "The University of Texas at Austin,Department of Computer Science"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "263",
+        "reference": [
+          {
+            "key": "ref31",
+            "year": "0",
+            "journal-title": "ROS movebase navigation stack"
+          },
+          {
+            "key": "ref30",
+            "author": "karnan",
+            "year": "2021",
+            "journal-title": "Voila Visual-observation-only imitation learning for autonomous navigation"
+          },
+          {
+            "key": "ref10",
+            "author": "sermanet",
+            "year": "0",
+            "journal-title": "Time-Contrastive Networks Self-Supervised Learning from Multi-View Observation"
+          },
+          {
+            "key": "ref11",
+            "volume": "abs 1909 12971",
+            "author": "pan",
+            "year": "2019",
+            "journal-title": "Zero-shot imitation learning from demonstrations for legged robot visual navigation"
+          },
+          {
+            "key": "ref12",
+            "article-title": "Navigation by imitation in a pedestrian-rich environment",
+            "volume": "abs 1811 506",
+            "author": "bi",
+            "year": "2018",
+            "journal-title": "ArXiv"
+          },
+          {
+            "key": "ref13",
+            "author": "xiao",
+            "year": "2020",
+            "journal-title": "Motion control for mobile robot navigation using machine learning a survey"
+          },
+          {
+            "key": "ref14",
+            "volume": "abs 2006 10034",
+            "author": "chang",
+            "year": "2020",
+            "journal-title": "Semantic visual navigation by watching youtube videos"
+          },
+          {
+            "key": "ref15",
+            "first-page": "305",
+            "author": "pomerleau",
+            "year": "1989",
+            "journal-title": "ALVINN An Autonomous Land Vehicle in a Neural Network"
+          },
+          {
+            "key": "ref16",
+            "volume": "abs 1707 3374",
+            "author": "liu",
+            "year": "2017",
+            "journal-title": "Imitation from observation Learning to imitate behaviors from raw video via context translation"
+          },
+          {
+            "key": "ref17",
+            "author": "gaskett",
+            "year": "2000",
+            "journal-title": "Reinforcement learning for visual servoing of a mobile robot"
+          },
+          {
+            "key": "ref18",
+            "author": "kendall",
+            "year": "2018",
+            "journal-title": "Learning to drive in a day"
+          },
+          {
+            "key": "ref19",
+            "author": "torabi",
+            "year": "2019",
+            "journal-title": "Imitation learning from video by leveraging proprioception"
+          },
+          {
+            "key": "ref28",
+            "author": "haarnoja",
+            "year": "2018",
+            "journal-title": "Soft actor-critic Off-policy maximum entropy deep reinforcement learning with a stochastic actor"
+          },
+          {
+            "key": "ref4",
+            "author": "lecun",
+            "year": "2005",
+            "journal-title": "Off-road obstacle avoidance through end-to-end learning"
+          },
+          {
+            "key": "ref27",
+            "article-title": "From variational to deterministic autoencoders",
+            "author": "ghosh",
+            "year": "2020",
+            "journal-title": "International Conference on Learning Representations"
+          },
+          {
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.15607/RSS.2018.XIV.056"
+          },
+          {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-319-54190-7_9"
+          },
+          {
+            "key": "ref29",
+            "article-title": "Airsim: High-fidelity visual and physical simulation for autonomous vehicles",
+            "author": "shah",
+            "year": "2017",
+            "journal-title": "Field and Service Robotics"
+          },
+          {
+            "key": "ref5",
+            "author": "tampuu",
+            "year": "0",
+            "journal-title": "A survey of end-to-end driving Architectures and training methods"
+          },
+          {
+            "key": "ref8",
+            "article-title": "RIDM: reinforced inverse dynamics modeling for learning from a single observed demonstration",
+            "volume": "abs 1906 7372",
+            "author": "pavse",
+            "year": "2019",
+            "journal-title": "CoRR"
+          },
+          {
+            "key": "ref7",
+            "author": "torabi",
+            "year": "2019",
+            "journal-title": "Recent advances in imitation learning from observation"
+          },
+          {
+            "key": "ref2",
+            "author": "codevilla",
+            "year": "2017",
+            "journal-title": "End-to-end driving via conditional imitation learning"
+          },
+          {
+            "key": "ref9",
+            "article-title": "Generative adversarial imitation from observation",
+            "author": "torabi",
+            "year": "2018",
+            "journal-title": "ArXiv Preprint"
+          },
+          {
+            "key": "ref1",
+            "author": "bojarski",
+            "year": "0",
+            "journal-title": "End to End Learning for Self-Driving Cars"
+          },
+          {
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICCV.1999.790410"
+          },
+          {
+            "key": "ref22",
+            "author": "arandjelovic",
+            "year": "2016",
+            "journal-title": "NetVLAD CNN architecture for weakly supervised place recognition"
+          },
+          {
+            "key": "ref21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/CVPRW.2018.00060"
+          },
+          {
+            "key": "ref24",
+            "volume": "abs 2010 9034",
+            "author": "das",
+            "year": "2020",
+            "journal-title": "Model-based inverse reinforcement learning from visual demonstrations"
+          },
+          {
+            "key": "ref23",
+            "volume": "abs 1812 3506",
+            "author": "sarlin",
+            "year": "2018",
+            "journal-title": "From coarse to fine Robust hierarchical localization at large scale"
+          },
+          {
+            "key": "ref26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/rob.20342"
+          },
+          {
+            "key": "ref25",
+            "volume": "abs 2009 5085",
+            "author": "manuelli",
+            "year": "2020",
+            "journal-title": "Keypoints into the future Self-supervised correspondence in model-based reinforcement learning"
+          }
+        ],
+        "event": {
+          "name": "2022 IEEE International Conference on Robotics and Automation (ICRA)",
+          "location": "Philadelphia, PA, USA",
+          "start": {
+            "date-parts": [
+              [
+                2022,
+                5,
+                23
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2022,
+                5,
+                27
+              ]
+            ]
+          }
+        },
+        "container-title": [
+          "2022 International Conference on Robotics and Automation (ICRA)"
+        ],
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/9811522/9811357/09812316.pdf?arnumber=9812316",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              11,
+              3
+            ]
+          ],
+          "date-time": "2022-11-03T23:05:44Z",
+          "timestamp": 1667516744000
+        },
+        "score": 43.373005,
+        "resource": {
+          "primary": {
+            "URL": "https://ieeexplore.ieee.org/document/9812316/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              23
+            ]
+          ]
+        },
+        "references-count": 31,
+        "URL": "https://doi.org/10.1109/icra46639.2022.9812316",
+        "published": {
+          "date-parts": [
+            [
+              2022,
+              5,
+              23
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              15
+            ]
+          ],
+          "date-time": "2024-09-15T00:16:47Z",
+          "timestamp": 1726359407078
+        },
+        "reference-count": 20,
+        "publisher": "IEEE",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  6,
+                  24
+                ]
+              ],
+              "date-time": "2024-06-24T00:00:00Z",
+              "timestamp": 1719187200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2024,
+                  6,
+                  24
+                ]
+              ],
+              "date-time": "2024-06-24T00:00:00Z",
+              "timestamp": 1719187200000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100005195",
+            "name": "China University of Mining and Technology",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/501100005195",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              24
+            ]
+          ]
+        },
+        "DOI": "10.1109/rcar61438.2024.10671241",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              13
+            ]
+          ],
+          "date-time": "2024-09-13T17:36:25Z",
+          "timestamp": 1726248985000
+        },
+        "page": "659-664",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Oracle-Based Conditional Imitation Learning for Autonomous Navigation"
+        ],
+        "prefix": "10.1109",
+        "author": [
+          {
+            "given": "Hongqian",
+            "family": "Zhang",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "China University of Mining and Technology,School of Information and Control Engineering,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yanzi",
+            "family": "Miao",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "China University of Mining and Technology,School of Information and Control Engineering,China"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "263",
+        "reference": [
+          {
+            "article-title": "End to end learning for self-driving cars",
+            "year": "2016",
+            "author": "Bojarski",
+            "key": "ref1"
+          },
+          {
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS45743.2020.9340639"
+          },
+          {
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/CVPR52688.2022.01671"
+          },
+          {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/JPROC.2019.2952735"
+          },
+          {
+            "key": "ref5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICCASIT55263.2022.9986726"
+          },
+          {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICCV48922.2021.01550"
+          },
+          {
+            "key": "ref7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TPAMI.2022.3200245"
+          },
+          {
+            "key": "ref8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2018.8460487"
+          },
+          {
+            "key": "ref9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/CVPR52729.2023.00105"
+          },
+          {
+            "key": "ref10",
+            "first-page": "1",
+            "article-title": "Carla: An open urban driving simulator",
+            "volume-title": "Conference on robot learning",
+            "author": "Dosovitskiy"
+          },
+          {
+            "key": "ref11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICTIS.2019.8883761"
+          },
+          {
+            "key": "ref12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-031-19839-7_31"
+          },
+          {
+            "key": "ref13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA48506.2021.9561299"
+          },
+          {
+            "key": "ref14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/CVPR46437.2021.00700"
+          },
+          {
+            "key": "ref15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA46639.2022.9811576"
+          },
+          {
+            "article-title": "Trajectory-guided control prediction for end-to-end autonomous driving: A simple yet strong baseline",
+            "year": "2022",
+            "author": "Wu",
+            "key": "ref16"
+          },
+          {
+            "key": "ref17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICIVC47709.2019.8980828"
+          },
+          {
+            "key": "ref18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TITS.2020.3013234"
+          },
+          {
+            "key": "ref19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICOT51877.2020.9468738"
+          },
+          {
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS47612.2022.9981775"
+          }
+        ],
+        "event": {
+          "name": "2024 IEEE International Conference on Real-time Computing and Robotics (RCAR)",
+          "start": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                24
+              ]
+            ]
+          },
+          "location": "Alesund, Norway",
+          "end": {
+            "date-parts": [
+              [
+                2024,
+                6,
+                28
+              ]
+            ]
+          }
+        },
+        "container-title": [
+          "2024 IEEE International Conference on Real-time Computing and Robotics (RCAR)"
+        ],
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/10670697/10670719/10671241.pdf?arnumber=10671241",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2024,
+              9,
+              14
+            ]
+          ],
+          "date-time": "2024-09-14T06:20:48Z",
+          "timestamp": 1726294848000
+        },
+        "score": 41.724125,
+        "resource": {
+          "primary": {
+            "URL": "https://ieeexplore.ieee.org/document/10671241/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              24
+            ]
+          ]
+        },
+        "references-count": 20,
+        "URL": "https://doi.org/10.1109/rcar61438.2024.10671241",
+        "published": {
+          "date-parts": [
+            [
+              2024,
+              6,
+              24
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

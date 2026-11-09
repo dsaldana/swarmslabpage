@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import videos from '../data/videos.json';
+---
+<BaseLayout title="Videos" description="Watch SwarmsLab robots in action: modular aerial robots, robotic blimps, cable manipulation, and competition highlights.">
+  <PageHeader eyebrow="Robots in action" title="Videos" lead="Research demonstrations, competition highlights, and a closer look at the robots we build." />
+  <div class="container-page grid gap-x-8 gap-y-12 py-12 md:grid-cols-2">
+    {videos.map(v=><article><div class="overflow-hidden rounded-xl border border-slate-200 bg-slate-100">
+      <iframe src={`https://www.youtube-nocookie.com/embed/${v.id}`} title={v.title} loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="aspect-video w-full border-0"></iframe>
+      </div><h2 class="mt-4 font-serif text-xl leading-snug">{v.title}</h2><a href={`https://www.youtube.com/watch?v=${v.id}`} target="_blank" rel="noopener noreferrer" class="mt-2 inline-block text-xs font-semibold text-primary-700 hover:underline">Watch on YouTube ↗</a></article>)}
+  </div>
+</BaseLayout>

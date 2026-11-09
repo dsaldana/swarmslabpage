@@ -1,0 +1,172 @@
+{
+  "checked": "2026-11-08",
+  "papersWithYouTube": 26,
+  "newPaperLinks": 16,
+  "method": "Retained original publication links. Added links explicitly associated with papers on lab or author pages, author bibliographies, or conference exhibitor paper lists. Confirmed all newly added video IDs against YouTube oEmbed titles. Did not use the old video-gallery captions, which contain mismatched titles.",
+  "notes": [
+    "The 2015 Searching for Regions chapter and its 2014 conference predecessor explicitly share a video in the author bibliography.",
+    "The Customizable-ModQuad video link on the coauthor lab page points to a general 2021 lab compilation; omitted because the paper-specific association was not sufficiently clear.",
+    "No verified YouTube link was found for the other papers in the reviewed sources; absence of a link is not a claim that no video exists."
+  ],
+  "videos": [
+    {
+      "slug": "2014-searching-and-tracking-anomalies-with-multiple-robots-a-probabilistic-approach",
+      "url": "https://www.youtube.com/watch?v=wG8WdsW_JiM",
+      "source": "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js",
+      "added": true
+    },
+    {
+      "slug": "2015-searching-for-regions-out-of-normal-conditions-using-a-team-of-robots",
+      "url": "https://www.youtube.com/watch?v=wG8WdsW_JiM",
+      "source": "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js",
+      "added": true
+    },
+    {
+      "slug": "2016-dynamic-perimeter-surveillance-with-a-team-of-robots",
+      "url": "https://www.youtube.com/watch?v=Ug5Ne6v34iQ",
+      "source": "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js",
+      "added": true
+    },
+    {
+      "slug": "2016-predicting-environmental-boundary-behaviors-with-a-mobile-robot",
+      "url": "https://www.youtube.com/watch?v=1bF9U3nbXJ8",
+      "source": "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js",
+      "added": true
+    },
+    {
+      "slug": "2017-a-decentralized-algorithm-for-assembling-structures-with-modular-robots",
+      "url": "https://www.youtube.com/watch?v=r9UDHhCWRQw",
+      "source": "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js",
+      "added": true
+    },
+    {
+      "slug": "2017-cooperative-prediction-of-time-varying-boundaries-with-a-team-of-robots",
+      "url": "https://www.youtube.com/watch?v=Zwc6vNuUFDw",
+      "source": "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js",
+      "added": true
+    },
+    {
+      "slug": "2018-a-flying-gripper-based-on-cuboid-modular-robots",
+      "url": "https://youtu.be/43RSgWRLhJc",
+      "source": "https://swarmslab.com/publications/",
+      "added": false
+    },
+    {
+      "slug": "2018-modquad-the-flying-modular-structure-that-self-assembles-in-midair",
+      "url": "https://youtu.be/t9kXrhDwXf0",
+      "source": "https://swarmslab.com/publications/",
+      "added": false
+    },
+    {
+      "slug": "2019-design-and-control-of-aerial-modules-for-inflight-self-disassembly",
+      "url": "https://www.youtube.com/watch?v=N80_sG0gjhE",
+      "source": "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js",
+      "added": true
+    },
+    {
+      "slug": "2021-adaptive-control-for-cooperative-aerial-transportation-using-catenary-robots",
+      "url": "https://youtu.be/MeEGL_PUBx4",
+      "source": "https://swarmslab.com/publications/",
+      "added": false
+    },
+    {
+      "slug": "2021-h-modquad-modular-multi-rotors-with-4-5-and-6-controllable-dof",
+      "url": "https://youtu.be/olKYuWPWxHo",
+      "source": "https://swarmslab.com/publications/",
+      "added": false
+    },
+    {
+      "slug": "2021-non-prehensile-manipulation-of-cuboid-objects-using-a-catenary-robot",
+      "url": "https://youtu.be/Ou6DPlXPE7A",
+      "source": "https://swarmslab.com/publications/",
+      "added": false
+    },
+    {
+      "slug": "2021-resilient-consensus-in-robot-swarms-with-periodic-motion-and-intermittent-communication",
+      "url": "https://youtu.be/dj2afGyhBB4",
+      "source": "https://swarmslab.com/publications/",
+      "added": false
+    },
+    {
+      "slug": "2021-resilient-task-allocation-in-heterogeneous-multi-robot-systems",
+      "url": "https://youtu.be/TRceQUiTnik",
+      "source": "https://swarmslab.com/publications/",
+      "added": false
+    },
+    {
+      "slug": "2021-the-catenary-robot-design-and-control-of-a-cable-propelled-by-two-quadrotors",
+      "url": "https://youtu.be/3SaKKjl6os0",
+      "source": "https://swarmslab.com/publications/",
+      "added": false
+    },
+    {
+      "slug": "2023-finding-optimal-modular-robots-for-aerial-tasks",
+      "url": "https://www.youtube.com/watch?v=JtSZSkYx_Rg",
+      "source": "https://swarmslab.com/publications/",
+      "added": false
+    },
+    {
+      "slug": "2023-forming-and-controlling-hitches-in-midair-using-aerial-robots",
+      "url": "https://youtu.be/EFig0cOaFZ4",
+      "source": "https://swarmslab.com/publications/",
+      "added": false
+    },
+    {
+      "slug": "2023-sblimp-design-model-and-translational-motion-control-for-a-swing-blimp",
+      "url": "https://www.youtube.com/watch?v=ytyUnlL1rPA",
+      "source": "https://www.jiawei-xu.dev/media",
+      "added": true
+    },
+    {
+      "slug": "2024-kt-imitation-efficient-visual-imitation-for-autonomous-navigation-based-on-keypoint-timeline",
+      "url": "https://www.youtube.com/watch?v=luJXxDGCFt8",
+      "source": "https://www.jiawei-xu.dev/media",
+      "added": true
+    },
+    {
+      "slug": "2025-airbender-adaptive-transportation-of-bendable-objects-using-dual-uavs",
+      "url": "https://www.youtube.com/watch?v=lhTVIWSjhvQ",
+      "source": "https://www.jiawei-xu.dev/media",
+      "added": true
+    },
+    {
+      "slug": "2025-mochiswarm",
+      "url": "https://www.youtube.com/watch?v=75gfIlPtrBU",
+      "source": "https://www.jiawei-xu.dev/media",
+      "added": true
+    },
+    {
+      "slug": "2025-modular-multirotors-from-quadrotors-to-fully-actuated-aerial-vehicles",
+      "url": "https://www.youtube.com/watch?v=Mxo0QpxU-9A",
+      "source": "https://www.jiawei-xu.dev/media",
+      "added": true
+    },
+    {
+      "slug": "2025-spinning-blimp",
+      "url": "https://www.youtube.com/watch?v=rJcHjy3pBa0",
+      "source": "https://swarmslab.com/",
+      "added": true
+    },
+    {
+      "slug": "2019-modquad-vi-a-vision-based-self-assembling-modular-quadrotor",
+      "url": "https://www.youtube.com/watch?v=xDtqh2jkdtE",
+      "source": "https://lguanrui.github.io/research/multi-robot-collaboration/",
+      "added": true,
+      "verification": "Explicit author or conference exhibitor paper association, with matching YouTube oEmbed title. Added while creating Our Robots."
+    },
+    {
+      "slug": "2022-pogodrone-design-model-and-control-of-a-jumping-quadrotor",
+      "url": "https://www.youtube.com/watch?v=loc_u1HiB0c",
+      "source": "https://www.bitcraze.io/tag/icra2022/",
+      "added": true,
+      "verification": "Explicit author or conference exhibitor paper association, with matching YouTube oEmbed title. Added while creating Our Robots."
+    },
+    {
+      "slug": "2025-flysurf-a-flying-robotic-surface-with-shape-morphing-control",
+      "url": "https://www.youtube.com/watch?v=w8wdwcym3Ds",
+      "source": "http://tiny.cc/FlySurf-ACC2025",
+      "added": true,
+      "verification": "Explicit author or conference exhibitor paper association, with matching YouTube oEmbed title. Added while creating Our Robots."
+    }
+  ]
+}

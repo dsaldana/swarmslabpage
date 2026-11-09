@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "modular-robots",
+    "title": "Modular aerial robots",
+    "subtitle": "ModQuad & H-ModQuad",
+    "body": "The principle behind our modular aerial robots is having minimalistic modules that can fly and self-assemble to form a more capable vehicle that can adapt to different task requirements. Currently, our modular aerial vehicles, H-ModQuad, include two types and four versions. Our work is focused on tasks such as on-flight reconfiguration, increasing controllable DoF, and forming collaborative manipulations. We are also working on integrating tools and different manipulators as part of the modular system.",
+    "image": "/wp-content/uploads/2022/05/mainHModQuad.png"
+  },
+  {
+    "slug": "aerial-manipulation",
+    "title": "Collaborative manipulation",
+    "subtitle": "The Catenary Robot",
+    "body": "From ancient times, humans have been using cables and ropes to carry, tie, and manipulate physical objects. Transporting objects using aerial robots has been widely studied in the literature. Still, those approaches always assume that the connection between the quadrotor and the load is made in a previous stage. We propose a versatile robot called “Catenary Robot.” Our robot is able to navigate in the environment to get attached to objects with a hook-like shape or Drag/Rotate objects. Further, this new platform allows aerial robots to perform non-apprehensive object manipulation and perform actions such as push, drag, and roll.",
+    "image": "/wp-content/uploads/2022/01/real_robot.jpg"
+  },
+  {
+    "slug": "resilient-swarms",
+    "title": "Resilient robot swarms",
+    "subtitle": "Coordination at scale",
+    "body": "The communication network of a distributed system is an essential part of coordination. Robots can achieve agreements by only using nearest neighbor communication, but such systems rely on the fact that all robots in the network are cooperative. As a consequence, large networks, composed of thousands of robots, are susceptible to failure when one or a small number of robots share wrong information. These non-cooperative robots can be defective (e.g., a robot with a malfunctioning location sensor) or attackers (e.g., a malicious outsider controlling a few robots and trying to manipulate the whole network). In both cases, the divergent wrong information in the distributed system directly impacts the possibility to complete the task.",
+    "image": "/wp-content/uploads/2021/11/dense.png"
+  }
+]

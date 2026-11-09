@@ -1,0 +1,521 @@
+[
+  {
+    "scholarIds": [
+      "mlAyqtXpCwEC"
+    ],
+    "title": "From Hitch to Lift: Autonomous Cable Interlacing by Multi-UAV Teams for Aerial Grasping and Transportation",
+    "authors": [
+      "Diego S. D'Antonio",
+      "Tongshu Wu",
+      "Subhrajit Bhattacharya",
+      "David Saldaña"
+    ],
+    "year": 2026,
+    "journal": "IEEE Transactions on Robotics",
+    "doi": "10.1109/tro.2026.3677011",
+    "publicationType": "journal",
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/tro.2026.3677011"
+    ]
+  },
+  {
+    "scholarIds": [
+      "IjCSPb-OGe4C"
+    ],
+    "title": "Improved algorithm for perimeter tracking in robotic sensor networks",
+    "authors": [
+      "David Saldaña",
+      "Demetrio Ovalle",
+      "Alcides Montoya"
+    ],
+    "year": 2012,
+    "journal": "2012 XXXVIII Conferencia Latinoamericana En Informatica (CLEI)",
+    "doi": "10.1109/clei.2012.6427231",
+    "publicationType": "conference",
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/clei.2012.6427231"
+    ]
+  },
+  {
+    "scholarIds": [
+      "_kc_bZDykSQC"
+    ],
+    "title": "A multi-agent model to control robotic sensor networks",
+    "authors": [
+      "David Saldaña",
+      "Demetrio Ovalle",
+      "Alcides Montoya"
+    ],
+    "year": 2012,
+    "journal": "2012 7th Colombian Computing Congress (CCC)",
+    "doi": "10.1109/colombiancc.2012.6398036",
+    "publicationType": "conference",
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/colombiancc.2012.6398036"
+    ]
+  },
+  {
+    "scholarIds": [
+      "WJVC3Jt7v1AC"
+    ],
+    "title": "FlySurf: A Flying Robotic Surface with Shape Morphing Control",
+    "authors": [
+      "Kevin Aubert",
+      "David Saldaña",
+      "Rafael Fierro"
+    ],
+    "year": 2025,
+    "journal": "2025 American Control Conference (ACC)",
+    "doi": "10.23919/acc63710.2025.11107545",
+    "publicationType": "conference",
+    "metadataSources": [
+      "https://api.crossref.org/works/10.23919/acc63710.2025.11107545"
+    ]
+  },
+  {
+    "scholarIds": [
+      "a9-T7VOCCH8C"
+    ],
+    "title": "Rotor Fault Detection and Isolation in Aerial Vehicles with Dozens of Rotors",
+    "authors": [
+      "Neeraj Gandhi",
+      "Jiawei Xu",
+      "David Saldaña",
+      "Linh Thi Xuan Phan"
+    ],
+    "year": 2024,
+    "journal": "2024 Latin American Robotics Symposium (LARS)",
+    "doi": "10.1109/lars64411.2024.10786448",
+    "publicationType": "conference",
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/lars64411.2024.10786448"
+    ],
+    "resources": [
+      {
+        "label": "PDF",
+        "url": "https://www.cis.upenn.edu/~linhphan/papers/gandhi-lars24.pdf"
+      }
+    ]
+  },
+  {
+    "scholarIds": [
+      "HtEfBTGE9r8C"
+    ],
+    "title": "KT-Imitation: Efficient Visual Imitation for Autonomous Navigation Based on Keypoint Timeline",
+    "authors": [
+      "Karen Li",
+      "Hanqing Qi",
+      "Jiawei Xu",
+      "Edward Jeffs",
+      "David Saldaña"
+    ],
+    "year": 2024,
+    "journal": "2024 Latin American Robotics Symposium (LARS)",
+    "doi": "10.1109/lars64411.2024.10786409",
+    "publicationType": "conference",
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/lars64411.2024.10786409"
+    ]
+  },
+  {
+    "scholarIds": [
+      "QIV2ME_5wuYC"
+    ],
+    "title": "Design Guarantees for Resilient Robot Formations on Lattices",
+    "authors": [
+      "Luis Guerrero-Bonilla",
+      "David Saldaña",
+      "Vijay Kumar"
+    ],
+    "year": 2019,
+    "journal": "IEEE Robotics and Automation Letters",
+    "doi": "10.1109/lra.2018.2881231",
+    "publicationType": "journal",
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/lra.2018.2881231"
+    ]
+  },
+  {
+    "scholarIds": [
+      "WF5omc3nYNoC"
+    ],
+    "title": "Searching for Regions Out of Normal Conditions Using a Team of Robots",
+    "authors": [
+      "David Saldaña",
+      "Luiz Chaimowicz",
+      "Mario F. M. Campos"
+    ],
+    "year": 2015,
+    "journal": "Robotics",
+    "doi": "10.1007/978-3-662-48134-9_1",
+    "publicationType": "chapter",
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1007/978-3-662-48134-9_1"
+    ]
+  },
+  {
+    "scholarIds": [
+      "sNmaIFBj_lkC"
+    ],
+    "title": "Reconfigurable Systems",
+    "authors": [
+      "David Saldaña",
+      "Gedaliah Knizhnik",
+      "Bruno Gabrich",
+      "Mark Yim"
+    ],
+    "year": 2025,
+    "journal": "Encyclopedia of Robotics",
+    "publicationType": "chapter",
+    "metadataSources": [
+      "https://www.modlabupenn.org/publications/",
+      "https://link.springer.com/referencework/10.1007/978-3-642-41610-1?page=7"
+    ]
+  },
+  {
+    "title": "Modular Multirotors: From Quadrotors to Fully-Actuated Aerial Vehicles",
+    "authors": [
+      "Jiawei Xu",
+      "Diego S. D'Antonio",
+      "David Saldaña"
+    ],
+    "year": 2025,
+    "journal": "IEEE Transactions on Automation Science and Engineering",
+    "publicationType": "journal",
+    "doi": "10.1109/tase.2025.3594579",
+    "url": "https://doi.org/10.1109/tase.2025.3594579",
+    "pages": "19328-19339",
+    "volume": "22",
+    "scholarIds": [
+      "YohjEiUPhakC"
+    ],
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/tase.2025.3594579"
+    ]
+  },
+  {
+    "title": "Planning for Modular Aerial Robotic Tools with Temporal Logic Constraints",
+    "authors": [
+      "Gustavo A. Cardona",
+      "David Saldaña",
+      "Cristian-Ioan Vasile"
+    ],
+    "year": 2022,
+    "journal": "2022 IEEE 61st Conference on Decision and Control (CDC)",
+    "publicationType": "conference",
+    "doi": "10.1109/cdc51059.2022.9993288",
+    "url": "https://doi.org/10.1109/cdc51059.2022.9993288",
+    "pages": "2878-2883",
+    "scholarIds": [
+      "9pM33mqn1YgC"
+    ],
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/cdc51059.2022.9993288",
+      "https://cristianvasile.com/sites/default/files/articole/CDC2022_MART.pdf"
+    ],
+    "resources": [
+      {
+        "label": "PDF",
+        "url": "https://cristianvasile.com/sites/default/files/articole/CDC2022_MART.pdf"
+      }
+    ]
+  },
+  {
+    "title": "Learning to Navigate in Turbulent Flows With Aerial Robot Swarms: A Cooperative Deep Reinforcement Learning Approach",
+    "authors": [
+      "Diego Patiño",
+      "Siddharth Mayya",
+      "Juan Calderon",
+      "Kostas Daniilidis",
+      "David Saldaña"
+    ],
+    "year": 2023,
+    "journal": "IEEE Robotics and Automation Letters",
+    "publicationType": "journal",
+    "doi": "10.1109/lra.2023.3280806",
+    "url": "https://doi.org/10.1109/lra.2023.3280806",
+    "pages": "4219-4226",
+    "volume": "8",
+    "issue": "7",
+    "scholarIds": [
+      "bz8QjSJIRt4C"
+    ],
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/lra.2023.3280806",
+      "https://arxiv.org/abs/2306.04781"
+    ],
+    "resources": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2306.04781"
+      }
+    ]
+  },
+  {
+    "title": "AirBender: Adaptive Transportation of Bendable Objects Using Dual UAVs",
+    "authors": [
+      "Jiawei Xu",
+      "Longsen Gao",
+      "Rafael Fierro",
+      "David Saldaña"
+    ],
+    "year": 2025,
+    "journal": "IEEE Robotics and Automation Letters",
+    "publicationType": "journal",
+    "doi": "10.1109/lra.2025.3536276",
+    "url": "https://doi.org/10.1109/lra.2025.3536276",
+    "pages": "2790-2797",
+    "volume": "10",
+    "issue": "3",
+    "scholarIds": [
+      "4hFrxpcac9AC"
+    ],
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/lra.2025.3536276",
+      "https://arxiv.org/abs/2605.07003"
+    ],
+    "resources": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2605.07003"
+      }
+    ]
+  },
+  {
+    "title": "Adaptive Malicious Robot Detection in Dynamic Topologies",
+    "authors": [
+      "Matthew Cavorsi",
+      "Ninad Jadhav",
+      "David Saldaña",
+      "Stephanie Gil"
+    ],
+    "year": 2022,
+    "journal": "2022 IEEE 61st Conference on Decision and Control (CDC)",
+    "publicationType": "conference",
+    "doi": "10.1109/cdc51059.2022.9993343",
+    "url": "https://doi.org/10.1109/cdc51059.2022.9993343",
+    "pages": "2236-2243",
+    "scholarIds": [
+      "4fGpz3EwCPoC"
+    ],
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/cdc51059.2022.9993343",
+      "https://react.seas.harvard.edu/publications/adaptive-malicious-robot-detection-in-dynamic-topologies/"
+    ],
+    "resources": [
+      {
+        "label": "Project",
+        "url": "https://react.seas.harvard.edu/publications/adaptive-malicious-robot-detection-in-dynamic-topologies/"
+      }
+    ]
+  },
+  {
+    "title": "A Novel Low-Cost, Recyclable, Easy-to-Build Robot Blimp For Transporting Supplies in Hard-to-Reach Locations",
+    "authors": [
+      "Karen Li",
+      "Shuhang Hou",
+      "Matyas Negash",
+      "Jiawei Xu",
+      "Edward Jeffs",
+      "Diego S. D'Antonio",
+      "David Saldaña"
+    ],
+    "year": 2023,
+    "journal": "2023 IEEE Global Humanitarian Technology Conference (GHTC)",
+    "publicationType": "conference",
+    "doi": "10.1109/ghtc56179.2023.10355047",
+    "url": "https://doi.org/10.1109/ghtc56179.2023.10355047",
+    "pages": "36-42",
+    "scholarIds": [
+      "NXb4pA-qfm4C"
+    ],
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/ghtc56179.2023.10355047",
+      "https://arxiv.org/abs/2309.06682"
+    ],
+    "resources": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2309.06682"
+      }
+    ]
+  },
+  {
+    "title": "Dynamic Crowd Vetting: Collaborative Detection of Malicious Robots in Dynamic Communication Networks",
+    "authors": [
+      "Matthew Cavorsi",
+      "Frederik Mallmann-Trenn",
+      "David Saldaña",
+      "Stephanie Gil"
+    ],
+    "year": 2023,
+    "journal": "2023 62nd IEEE Conference on Decision and Control (CDC)",
+    "publicationType": "conference",
+    "doi": "10.1109/cdc49753.2023.10383774",
+    "url": "https://doi.org/10.1109/cdc49753.2023.10383774",
+    "pages": "7546-7553",
+    "scholarIds": [
+      "8d8msizDQcsC"
+    ],
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/cdc49753.2023.10383774",
+      "https://arxiv.org/abs/2304.00551"
+    ],
+    "resources": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2304.00551"
+      }
+    ]
+  },
+  {
+    "title": "quasi-Dynamic Crowd Vetting: Collaborative Detection of Malicious Robots in Dynamic Communication Networks",
+    "authors": [
+      "Matthew Cavorsi",
+      "Frederik Mallmann-Trenn",
+      "David Saldaña",
+      "Stephanie Gil"
+    ],
+    "year": 2025,
+    "journal": "IEEE Transactions on Robotics",
+    "publicationType": "journal",
+    "doi": "10.1109/tro.2025.3608702",
+    "url": "https://doi.org/10.1109/tro.2025.3608702",
+    "pages": "5533-5549",
+    "volume": "41",
+    "scholarIds": [
+      "DUooU5lO8OsC"
+    ],
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1109/tro.2025.3608702",
+      "https://react.seas.harvard.edu/publications/quasi-dynamic-crowd-vetting-collaborative-detection-of-malicious-robots/"
+    ],
+    "resources": [
+      {
+        "label": "Project",
+        "url": "https://react.seas.harvard.edu/publications/quasi-dynamic-crowd-vetting-collaborative-detection-of-malicious-robots/"
+      }
+    ]
+  },
+  {
+    "scholarIds": [
+      "_5tno0g5mFcC",
+      "6ZxmRoH8BuwC"
+    ],
+    "title": "Decentralized Adaptive Aerospace Transportation of Unknown Loads Using A Team of Robots",
+    "authors": [
+      "Longsen Gao",
+      "Kevin Aubert",
+      "David Saldaña",
+      "Claus Danielson",
+      "Rafael Fierro"
+    ],
+    "year": 2025,
+    "volume": "34",
+    "pages": "28–41",
+    "doi": "10.1007/978-3-032-04584-3_3",
+    "url": "https://doi.org/10.1007/978-3-032-04584-3_3",
+    "journal": "Distributed Autonomous Robotic Systems: 17th International Symposium",
+    "metadataSources": [
+      "https://api.crossref.org/works/10.1007/978-3-032-04584-3_3",
+      "https://link.springer.com/book/10.1007/978-3-032-04584-3",
+      "https://arxiv.org/abs/2407.08084"
+    ],
+    "publicationType": "chapter",
+    "publicationNote": "Presented at DARS 2024; chapter published online in 2025.",
+    "resources": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2407.08084"
+      }
+    ]
+  },
+  {
+    "scholarIds": [
+      "IRz6iEL74y4C"
+    ],
+    "title": "FlySurf: A Flying Robotic Surface with Shape Morphing and Motion Control",
+    "authors": [
+      "Kevin Aubert De Luchi Lomellini"
+    ],
+    "year": 2025,
+    "url": "https://digitalrepository.unm.edu/ece_etds/730/",
+    "journal": "University of New Mexico",
+    "metadataSources": [
+      "https://digitalrepository.unm.edu/ece_etds/730/"
+    ],
+    "publicationType": "thesis",
+    "publicationNote": "Master’s thesis. David Saldaña served on the thesis committee."
+  },
+  {
+    "scholarIds": [
+      "FAceZFleit8C"
+    ],
+    "title": "Customizable-ModQuad: a Versatile Hardware-Software Platform to Develop Lightweight and Low-cost Aerial Vehicles",
+    "authors": [
+      "Diego S. D’Antonio",
+      "Jiawei Xu",
+      "Gustavo A. Cardona",
+      "David Saldaña"
+    ],
+    "year": 2022,
+    "url": "https://www.researchgate.net/publication/368390753_Customizable-ModQuad_a_Versatile_Hardware-Software_Platform_to_Develop_Lightweight_and_Low-cost_Aerial_Vehicles",
+    "journal": "IROS 2022 Workshop: Miniature Robot Platforms for Full Scale Autonomous Vehicle Research",
+    "metadataSources": [
+      "https://wordpress.lehigh.edu/robotics/2023/01/30/latest-papers-to-appear-in-top-conferences-2023/",
+      "https://www.jiawei-xu.dev/",
+      "https://www.researchgate.net/publication/368390753_Customizable-ModQuad_a_Versatile_Hardware-Software_Platform_to_Develop_Lightweight_and_Low-cost_Aerial_Vehicles"
+    ],
+    "publicationType": "workshop"
+  },
+  {
+    "scholarIds": [
+      "eQOLeE2rZwMC"
+    ],
+    "title": "Y-Rescue Team Description Paper",
+    "authors": [
+      "Anderson Tavares",
+      "David Saldaña",
+      "Hector Azpúrua",
+      "Jhielson Pimentel",
+      "Omar Pino",
+      "Rafael Colares",
+      "Douglas Macharet",
+      "Luiz Chaimowicz"
+    ],
+    "year": 2015,
+    "url": "https://cdn.robocup.org/rsim/public/competitions/2015-RSL/info/agent/rsl15-tdp-agent-Y-Rescue.pdf",
+    "journal": "RoboCup Rescue Simulation League",
+    "metadataSources": [
+      "https://cdn.robocup.org/rsim/public/competitions/2015-RSL/info/agent/rsl15-tdp-agent-Y-Rescue.pdf",
+      "https://homepages.dcc.ufmg.br/~chaimo/public.html"
+    ],
+    "publicationType": "report",
+    "publicationNote": "RoboCup team description paper.",
+    "resources": [
+      {
+        "label": "PDF",
+        "url": "https://cdn.robocup.org/rsim/public/competitions/2015-RSL/info/agent/rsl15-tdp-agent-Y-Rescue.pdf"
+      }
+    ]
+  },
+  {
+    "title": "SBlimp: Design, Model, and Translational Motion Control for a Swing-Blimp",
+    "authors": [
+      "Jiawei Xu",
+      "Diego S. D’Antonio",
+      "Dominic J. Ammirato",
+      "David Saldaña"
+    ],
+    "year": 2023,
+    "doi": "10.1109/IROS55552.2023.10341796",
+    "pages": "6977–6982",
+    "scholarIds": [
+      "anf4URPfarAC"
+    ],
+    "metadataSources": [
+      "https://arxiv.org/abs/2308.00259",
+      "https://www.jiawei-xu.dev/"
+    ]
+  }
+]

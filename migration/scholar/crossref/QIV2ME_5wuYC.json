@@ -1,0 +1,1269 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 2182303,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              7,
+              11
+            ]
+          ],
+          "date-time": "2026-07-11T16:41:38Z",
+          "timestamp": 1783788098084,
+          "version": "3.55.0"
+        },
+        "reference-count": 21,
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "issue": "1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2019,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2019-01-01T00:00:00Z",
+              "timestamp": 1546300800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2019,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2019-01-01T00:00:00Z",
+              "timestamp": 1546300800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2019,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2019-01-01T00:00:00Z",
+              "timestamp": 1546300800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          }
+        ],
+        "funder": [
+          {
+            "name": "ARL DCIST CRA",
+            "award": [
+              "W911NF-17-2-0181"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "W911NF-17-2-0181"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "ARL DCIST CRA",
+            "award": [
+              "N00014-14-1-0510"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "N00014-14-1-0510"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "ARL DCIST CRA",
+            "award": [
+              "N00014-15-1-2115"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "N00014-15-1-2115"
+                ]
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "IEEE Robot. Autom. Lett."
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2019,
+              1
+            ]
+          ]
+        },
+        "DOI": "10.1109/lra.2018.2881231",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2018,
+              11,
+              14
+            ]
+          ],
+          "date-time": "2018-11-14T19:45:51Z",
+          "timestamp": 1542224751000
+        },
+        "page": "89-96",
+        "source": "Crossref",
+        "is-referenced-by-count": 28,
+        "title": [
+          "Design Guarantees for Resilient Robot Formations on Lattices"
+        ],
+        "prefix": "10.1109",
+        "volume": "4",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0001-7357-0264",
+            "authenticated-orcid": false,
+            "given": "Luis",
+            "family": "Guerrero-Bonilla",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2442-4257",
+            "authenticated-orcid": false,
+            "given": "David",
+            "family": "Saldana",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-3902-9391",
+            "authenticated-orcid": false,
+            "given": "Vijay",
+            "family": "Kumar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "263",
+        "reference": [
+          {
+            "key": "ref10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.automatica.2013.04.033"
+          },
+          {
+            "key": "ref11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/LRA.2017.2655142"
+          },
+          {
+            "key": "ref12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/JSAC.2013.130413"
+          },
+          {
+            "key": "ref13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TCNS.2015.2413551"
+          },
+          {
+            "key": "ref14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/2461446.2461455"
+          },
+          {
+            "key": "ref15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/LRA.2017.2654550"
+          },
+          {
+            "key": "ref16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3182/20050703-6-CZ-1902.01306"
+          },
+          {
+            "key": "ref17",
+            "first-page": "252",
+            "article-title": "Robustness and algebraic connectivity of random interdependent networks",
+            "volume": "48",
+            "author": "shahrivar",
+            "year": "2015"
+          },
+          {
+            "key": "ref18",
+            "first-page": "252",
+            "article-title": "Resilient consensus for time-varying networks of dynamic\n agents",
+            "author": "saldaña",
+            "year": "0",
+            "journal-title": "Proc Amer Control Conf"
+          },
+          {
+            "key": "ref19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-319-73008-0_11"
+          },
+          {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2015.7353788"
+          },
+          {
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/JPROC.2006.887293"
+          },
+          {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ROBOT.2008.4543418"
+          },
+          {
+            "key": "ref5",
+            "first-page": "1859",
+            "article-title": "A survey of consensus\n problems in multi-agent coordination",
+            "author": "ren",
+            "year": "0",
+            "journal-title": "Proc American Control Conf"
+          },
+          {
+            "key": "ref8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TAC.2005.864190"
+          },
+          {
+            "key": "ref7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10472-009-9125-x"
+          },
+          {
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/CDC.2002.1184304"
+          },
+          {
+            "key": "ref1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/CDC.2006.377041"
+          },
+          {
+            "key": "ref9",
+            "first-page": "5855",
+            "article-title": "Robustness of information diffusion algorithms to locally bounded adversaries",
+            "author": "zhang",
+            "year": "0",
+            "journal-title": "Proc Amer Control Conf"
+          },
+          {
+            "key": "ref20",
+            "author": "saldaña",
+            "year": "2018",
+            "journal-title": "Distributed Autonomous Robotic Systems 2018"
+          },
+          {
+            "key": "ref21",
+            "first-page": "5289",
+            "article-title": "Modquad: The flying modular structure that self-assembles in midair",
+            "author": "saldaña",
+            "year": "0",
+            "journal-title": "Proc IEEE Int Conf Robot Automat"
+          }
+        ],
+        "container-title": [
+          "IEEE Robotics and Automation Letters"
+        ],
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/7083369/8511008/08534374.pdf?arnumber=8534374",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              7,
+              13
+            ]
+          ],
+          "date-time": "2022-07-13T20:45:38Z",
+          "timestamp": 1657745138000
+        },
+        "score": 53.508835,
+        "resource": {
+          "primary": {
+            "URL": "https://ieeexplore.ieee.org/document/8534374/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019,
+              1
+            ]
+          ]
+        },
+        "references-count": 21,
+        "journal-issue": {
+          "issue": "1"
+        },
+        "URL": "https://doi.org/10.1109/lra.2018.2881231",
+        "ISSN": [
+          "2377-3766",
+          "2377-3774"
+        ],
+        "issn-type": [
+          {
+            "value": "2377-3766",
+            "type": "electronic"
+          },
+          {
+            "value": "2377-3774",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2019,
+              1
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              9
+            ]
+          ],
+          "date-time": "2026-10-09T17:35:37Z",
+          "timestamp": 1791567337206,
+          "version": "4.3.4"
+        },
+        "reference-count": 23,
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "issue": "2",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "2017-04-01T00:00:00Z",
+              "timestamp": 1491004800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "2017-04-01T00:00:00Z",
+              "timestamp": 1491004800000
+            },
+            "content-version": "am",
+            "delay-in-days": 0,
+            "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "2017-04-01T00:00:00Z",
+              "timestamp": 1491004800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2017,
+                  4,
+                  1
+                ]
+              ],
+              "date-time": "2017-04-01T00:00:00Z",
+              "timestamp": 1491004800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/100000006",
+            "name": "Office of Naval Research",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "N00014-15-1-2115"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "N00014-15-1-2115"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000006",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100000006",
+            "name": "Office of Naval Research",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "N00014-14-1-0510"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "N00014-14-1-0510"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000006",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100006754",
+            "name": "Army Research Laboratory",
+            "doi-asserted-by": "crossref",
+            "award": [
+              "W911NF-08-2-0004"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "W911NF-08-2-0004"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/100006754",
+                "id-type": "DOI",
+                "asserted-by": "crossref"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "IIS-1426840"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "IIS-1426840"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000001",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "CNS-1521617"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "CNS-1521617"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000001",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100000183",
+            "name": "Army Research Office",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "W911NF-13-1-0350"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "W911NF-13-1-0350"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/100000183",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100002519",
+            "name": "United Technologies",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/100002519",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "name": "TerraSwarm, one of six centers of STARnet, a Semiconductor Research Corporation program sponsored by MARCO and DARPA"
+          },
+          {
+            "DOI": "10.13039/100007245",
+            "name": "MARCO",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/100007245",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/100000185",
+            "name": "DARPA",
+            "doi-asserted-by": "publisher",
+            "id": [
+              {
+                "id": "10.13039/100000185",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "IEEE Robot. Autom. Lett."
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2017,
+              4
+            ]
+          ]
+        },
+        "DOI": "10.1109/lra.2017.2654550",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2017,
+              1,
+              17
+            ]
+          ],
+          "date-time": "2017-01-17T19:40:11Z",
+          "timestamp": 1484682011000
+        },
+        "page": "841-848",
+        "source": "Crossref",
+        "is-referenced-by-count": 78,
+        "title": [
+          "Formations for Resilient Robot Teams"
+        ],
+        "prefix": "10.1109",
+        "volume": "2",
+        "author": [
+          {
+            "given": "Luis",
+            "family": "Guerrero-Bonilla",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Amanda",
+            "family": "Prorok",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Vijay",
+            "family": "Kumar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "263",
+        "reference": [
+          {
+            "key": "ref10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TCNS.2015.2413551"
+          },
+          {
+            "key": "ref11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ifacol.2015.10.339"
+          },
+          {
+            "key": "ref12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TAC.2005.861710"
+          },
+          {
+            "key": "ref13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/CDC.2006.377041"
+          },
+          {
+            "key": "ref14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ROBOT.2008.4543418"
+          },
+          {
+            "key": "ref15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1137/0720013"
+          },
+          {
+            "key": "ref16",
+            "doi-asserted-by": "crossref",
+            "first-page": "298",
+            "DOI": "10.21136/CMJ.1973.101168",
+            "article-title": "Algebraic connectivity of graphs",
+            "volume": "23",
+            "author": "fiedler",
+            "year": "1973",
+            "journal-title": "Czechoslovak Math J"
+          },
+          {
+            "key": "ref17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.laa.2006.08.017"
+          },
+          {
+            "key": "ref18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.1401651112"
+          },
+          {
+            "key": "ref19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1142/S0218001404003228"
+          },
+          {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TAC.2011.2158130"
+          },
+          {
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/CDC.2002.1184304"
+          },
+          {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2015.7353788"
+          },
+          {
+            "key": "ref5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TAC.2010.2088690"
+          },
+          {
+            "key": "ref8",
+            "first-page": "5855",
+            "article-title": "Robustness of information diffusion algorithms to locally bounded adversaries",
+            "author": "zhang",
+            "year": "0",
+            "journal-title": "Proc Amer Control Conf"
+          },
+          {
+            "key": "ref7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/2461446.2461455"
+          },
+          {
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/JPROC.2006.887293"
+          },
+          {
+            "key": "ref1",
+            "first-page": "1859",
+            "article-title": "A survey of consensus problems in multi-agent cordination",
+            "author": "ren",
+            "year": "0",
+            "journal-title": "Proc Amer Control Conf"
+          },
+          {
+            "key": "ref9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/JSAC.2013.130413"
+          },
+          {
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2016.7487665"
+          },
+          {
+            "key": "ref22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/0278364913515307"
+          },
+          {
+            "key": "ref21",
+            "article-title": "Fast approximate quadratic programming for large (brain) graph matching",
+            "author": "vogelstein",
+            "year": "2014"
+          },
+          {
+            "key": "ref23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TRO.2013.2258733"
+          }
+        ],
+        "container-title": [
+          "IEEE Robotics and Automation Letters"
+        ],
+        "link": [
+          {
+            "URL": "http://ieeexplore.ieee.org/ielaam/7083369/7797562/7820067-aam.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx7/7083369/7797562/07820067.pdf?arnumber=7820067",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              4,
+              8
+            ]
+          ],
+          "date-time": "2022-04-08T18:54:52Z",
+          "timestamp": 1649444092000
+        },
+        "score": 30.96885,
+        "resource": {
+          "primary": {
+            "URL": "http://ieeexplore.ieee.org/document/7820067/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2017,
+              4
+            ]
+          ]
+        },
+        "references-count": 23,
+        "journal-issue": {
+          "issue": "2"
+        },
+        "URL": "https://doi.org/10.1109/lra.2017.2654550",
+        "ISSN": [
+          "2377-3766",
+          "2377-3774"
+        ],
+        "issn-type": [
+          {
+            "value": "2377-3766",
+            "type": "electronic"
+          },
+          {
+            "value": "2377-3774",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2017,
+              4
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              1,
+              23
+            ]
+          ],
+          "date-time": "2026-01-23T16:20:59Z",
+          "timestamp": 1769185259637,
+          "version": "3.49.0"
+        },
+        "publisher-location": "Cham",
+        "reference-count": 17,
+        "publisher": "Springer International Publishing",
+        "isbn-type": [
+          {
+            "value": "9783030058159",
+            "type": "print"
+          },
+          {
+            "value": "9783030058166",
+            "type": "electronic"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2019,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2019-01-01T00:00:00Z",
+              "timestamp": 1546300800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.springer.com/tdm"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-030-05816-6_30",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              29
+            ]
+          ],
+          "date-time": "2019-01-29T19:42:46Z",
+          "timestamp": 1548790966000
+        },
+        "page": "427-440",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 4,
+        "title": [
+          "Resilient Backbones in Hexagonal Robot Formations"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "David",
+            "family": "Saldaña",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Luis",
+            "family": "Guerrero-Bonilla",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Vijay",
+            "family": "Kumar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2019,
+              1,
+              30
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "30_CR1",
+            "unstructured": "Fujibayashi, K., Murata, S., Sugawara, K., Yamamura, M.: Self-organizing formation algorithm for active elements. In: 21st IEEE Symposium on Reliable Distributed Systems, 2002. Proceedings, pp. 416–421 (2002)"
+          },
+          {
+            "issue": "2",
+            "key": "30_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "841",
+            "DOI": "10.1109/LRA.2017.2654550",
+            "volume": "2",
+            "author": "L Guerrero-Bonilla",
+            "year": "2017",
+            "unstructured": "Guerrero-Bonilla, L., Prorok, A., Kumar, V.: Formations for resilient robot teams. IEEE Robot. Autom. Lett. 2(2), 841–848 (2017)",
+            "journal-title": "IEEE Robot. Autom. Lett."
+          },
+          {
+            "key": "30_CR3",
+            "unstructured": "Jadbabaie, A., Lin, J., Morse, A.S.: Coordination of groups of mobile autonomous agents using nearest neighbor rules. In: Proceedings of the 41st IEEE Conference on Decision and Control, 2002, vol. 3, pp. 2953–2958 (2002)"
+          },
+          {
+            "key": "30_CR4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "LeBlanc, H.J., Koutsoukos, X.D.: Algorithms for determining network robustness. In: Proceedings of the 2nd ACM International Conference on High Confidence Networked Systems, pp. 57–64. ACM (2013)",
+            "DOI": "10.1145/2461446.2461455"
+          },
+          {
+            "issue": "4",
+            "key": "30_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "766",
+            "DOI": "10.1109/JSAC.2013.130413",
+            "volume": "31",
+            "author": "HJ LeBlanc",
+            "year": "2013",
+            "unstructured": "LeBlanc, H.J., Zhang, H., Koutsoukos, X., Sundaram, S.: Resilient asymptotic consensus in robust networks. IEEE J. Sel. Areas Commun. 31(4), 766–781 (2013)",
+            "journal-title": "IEEE J. Sel. Areas Commun."
+          },
+          {
+            "issue": "3",
+            "key": "30_CR6",
+            "doi-asserted-by": "publisher",
+            "first-page": "401",
+            "DOI": "10.1109/TAC.2005.864190",
+            "volume": "51",
+            "author": "R Olfati-Saber",
+            "year": "2006",
+            "unstructured": "Olfati-Saber, R.: Flocking for multi-agent dynamic systems: algorithms and theory. IEEE Trans. Autom. Control 51(3), 401–420 (2006)",
+            "journal-title": "IEEE Trans. Autom. Control"
+          },
+          {
+            "issue": "1",
+            "key": "30_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "215",
+            "DOI": "10.1109/JPROC.2006.887293",
+            "volume": "95",
+            "author": "R Olfati-Saber",
+            "year": "2007",
+            "unstructured": "Olfati-Saber, R., Fax, J.A., Murray, R.M.: Consensus and cooperation in networked multi-agent systems. Proc. IEEE 95(1), 215–233 (2007)",
+            "journal-title": "Proc. IEEE"
+          },
+          {
+            "key": "30_CR8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Park, H., Hutchinson, S.: An efficient algorithm for fault-tolerant rendezvous of multi-robot systems with controllable sensing range. 2016 IEEE International Conference on Robotics and Automation (ICRA), pp. 358–365. IEEE (2016)",
+            "DOI": "10.1109/ICRA.2016.7487153"
+          },
+          {
+            "key": "30_CR9",
+            "unstructured": "Ren, W., Beard, R.W., Atkins, E.M.: A survey of consensus problems in multi-agent coordination. In: American Control Conference (ACC), pp. 1859–1864. IEEE (2005)"
+          },
+          {
+            "issue": "2",
+            "key": "30_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "71",
+            "DOI": "10.1109/MCS.2007.338264",
+            "volume": "27",
+            "author": "W Ren",
+            "year": "2007",
+            "unstructured": "Ren, W., Beard, R.W., Atkins, E.M.: Information consensus in multivehicle cooperative control. IEEE Control Syst. 27(2), 71–82 (2007)",
+            "journal-title": "IEEE Control Syst."
+          },
+          {
+            "key": "30_CR11",
+            "unstructured": "Saber, R.O., Murray, R.M.: Consensus protocols for networks of dynamic agents. In: Proceedings of the 2003 American Control Conference, 2003, vol. 2, pp. 951–956 (2003)"
+          },
+          {
+            "key": "30_CR12",
+            "doi-asserted-by": "publisher",
+            "first-page": "147",
+            "DOI": "10.1007/978-3-319-73008-0_11",
+            "volume-title": "Distributed Autonomous Robotic Systems",
+            "author": "David Saldaña",
+            "year": "2018",
+            "unstructured": "Saldaña, D., Prorok, A., Campos, M.F.M., Kumar, V.: Triangular Networks for Resilient Formations, pp. 147–159. Springer International Publishing, Berlin (2018)"
+          },
+          {
+            "issue": "2",
+            "key": "30_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "1039",
+            "DOI": "10.1109/LRA.2017.2655142",
+            "volume": "2",
+            "author": "K Saulnier",
+            "year": "2017",
+            "unstructured": "Saulnier, K., Saldaña, D., Prorok, A., Pappas, G.J., Kumar, V.: Resilient flocking for mobile robot teams. IEEE Robot. Autom. Lett. 2(2), 1039–1046 (2017)",
+            "journal-title": "IEEE Robot. Autom. Lett."
+          },
+          {
+            "key": "30_CR14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Shahrivar, E.M., Pirani, M., Sundaram, S.: Robustness and algebraic connectivity of random interdependent networks. CoRR. arXiv:1508.03650 (2015)",
+            "DOI": "10.1016/j.ifacol.2015.10.339"
+          },
+          {
+            "key": "30_CR15",
+            "first-page": "5855",
+            "volume": "ACC",
+            "author": "H Zhang",
+            "year": "2012",
+            "unstructured": "Zhang, H., Sundaram, S.: Robustness of information diffusion algorithms to locally bounded adversaries. Am. Control Conf. ACC, 5855–5861 (2012)",
+            "journal-title": "Am. Control Conf."
+          },
+          {
+            "key": "30_CR16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zhang, H., Sundaram, S.: Robustness of complex networks with implications for consensus and contagion. In: 2012 IEEE 51st Annual Conference on Decision and Control (CDC), pp. 3426–3432. IEEE (2012)",
+            "DOI": "10.1109/CDC.2012.6425841"
+          },
+          {
+            "issue": "3)(11–12",
+            "key": "30_CR17",
+            "doi-asserted-by": "publisher",
+            "first-page": "310",
+            "DOI": "10.1109/TCNS.2015.2413551",
+            "volume": "2",
+            "author": "H Zhang",
+            "year": "2015",
+            "unstructured": "Zhang, H., Fata, E., Sundaram, S.: A notion of robustness in complex networks. IEEE Trans. Control Netw. Syst. 2(3)(11–12), 310–320 (2015)",
+            "journal-title": "IEEE Trans. Control Netw. Syst."
+          }
+        ],
+        "container-title": [
+          "Springer Proceedings in Advanced Robotics",
+          "Distributed Autonomous Robotic Systems"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/978-3-030-05816-6_30",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              9,
+              13
+            ]
+          ],
+          "date-time": "2023-09-13T08:02:28Z",
+          "timestamp": 1694592148000
+        },
+        "score": 29.615196,
+        "resource": {
+          "primary": {
+            "URL": "http://link.springer.com/10.1007/978-3-030-05816-6_30"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783030058159",
+          "9783030058166"
+        ],
+        "references-count": 17,
+        "URL": "https://doi.org/10.1007/978-3-030-05816-6_30",
+        "ISSN": [
+          "2511-1256",
+          "2511-1264"
+        ],
+        "issn-type": [
+          {
+            "value": "2511-1256",
+            "type": "print"
+          },
+          {
+            "value": "2511-1264",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2019
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "30 January 2019",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          }
+        ]
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

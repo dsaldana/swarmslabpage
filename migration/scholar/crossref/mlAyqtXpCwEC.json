@@ -1,0 +1,1327 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 9741673,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              22
+            ]
+          ],
+          "date-time": "2026-04-22T08:18:38Z",
+          "timestamp": 1776845918402,
+          "version": "3.51.2"
+        },
+        "reference-count": 50,
+        "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "am",
+            "delay-in-days": 0,
+            "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2026-01-01T00:00:00Z",
+              "timestamp": 1767225600000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          }
+        ],
+        "funder": [
+          {
+            "name": "NSF",
+            "award": [
+              "2322840"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "2322840"
+                ]
+              }
+            ]
+          },
+          {
+            "name": "NSF",
+            "award": [
+              "2442475"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "2442475"
+                ]
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "IEEE Trans. Robot."
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "DOI": "10.1109/tro.2026.3677011",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              3,
+              24
+            ]
+          ],
+          "date-time": "2026-03-24T19:51:23Z",
+          "timestamp": 1774381883000
+        },
+        "page": "1769-1783",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "From Hitch to Lift: Autonomous Cable Interlacing by Multi-UAV Teams for Aerial Grasping and Transportation"
+        ],
+        "prefix": "10.1109",
+        "volume": "42",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0003-1856-1749",
+            "authenticated-orcid": false,
+            "given": "Diego S.",
+            "family": "D'Antonio",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Distributed Multi-Agent Robotic Systems (&#x0394;MARS Lab), Department of Electrical and Computer Engineering, Oakland University, Rochester, MI, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0009-0000-2201-8189",
+            "authenticated-orcid": false,
+            "given": "Tongshu",
+            "family": "Wu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Autonomous and Intelligent Robotics Laboratory&#x2014;AIRLab, Lehigh University, Bethlehem, PA, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0001-9139-054X",
+            "authenticated-orcid": false,
+            "given": "Subhrajit",
+            "family": "Bhattacharya",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Autonomous and Intelligent Robotics Laboratory&#x2014;AIRLab, Lehigh University, Bethlehem, PA, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0003-2442-4257",
+            "authenticated-orcid": false,
+            "given": "David",
+            "family": "Saldaña",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Autonomous and Intelligent Robotics Laboratory&#x2014;AIRLab, Lehigh University, Bethlehem, PA, USA"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "263",
+        "reference": [
+          {
+            "key": "ref1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598-020-61839-w"
+          },
+          {
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2011.6094871"
+          },
+          {
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2011.5980314"
+          },
+          {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/SSRR50563.2020.9292581"
+          },
+          {
+            "key": "ref5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/LRA.2018.2808541"
+          },
+          {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2013.6697077"
+          },
+          {
+            "key": "ref7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2013.6696848"
+          },
+          {
+            "key": "ref8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/MED.2015.7158852"
+          },
+          {
+            "key": "ref9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2012.6224749"
+          },
+          {
+            "key": "ref10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/frobt.2021.739173"
+          },
+          {
+            "key": "ref11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TRO.2021.3084395"
+          },
+          {
+            "key": "ref12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.15607/RSS.2013.IX.011"
+          },
+          {
+            "key": "ref13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2013.6631275"
+          },
+          {
+            "key": "ref14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10514-017-9632-2"
+          },
+          {
+            "key": "ref15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ifacol.2019.12.149"
+          },
+          {
+            "key": "ref16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/LRA.2020.2969930"
+          },
+          {
+            "key": "ref17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/INDIANCC.2018.8308004"
+          },
+          {
+            "key": "ref18",
+            "volume-title": "The Complete Guide to Knots and Knot Tying. Practical Handbook",
+            "author": "Budworth",
+            "year": "2000"
+          },
+          {
+            "key": "ref19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1119/1.10652"
+          },
+          {
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2013.6696853"
+          },
+          {
+            "key": "ref21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/LRA.2021.3062603"
+          },
+          {
+            "key": "ref22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS51168.2021.9636820"
+          },
+          {
+            "key": "ref23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/AIRPHARO52252.2021.9571068"
+          },
+          {
+            "key": "ref24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS47612.2022.9981363"
+          },
+          {
+            "key": "ref25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/THMS.2022.3164775"
+          },
+          {
+            "key": "ref26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/LRA.2022.3176457"
+          },
+          {
+            "key": "ref27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS55552.2023.10341785"
+          },
+          {
+            "key": "ref28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10514-017-9632-2"
+          },
+          {
+            "key": "ref29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/MRA.2012.2205617"
+          },
+          {
+            "key": "ref30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2012.6225213"
+          },
+          {
+            "key": "ref31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2013.6631277"
+          },
+          {
+            "key": "ref32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2017.7989609"
+          },
+          {
+            "key": "ref33",
+            "article-title": "Decentralized aerial manipulation of a cable-suspended load using multi-agent reinforcement learning",
+            "volume-title": "Proc. 9th Conf. Robot Learn.",
+            "volume": "305",
+            "author": "Zeng",
+            "year": "2025"
+          },
+          {
+            "key": "ref34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/scirobotics.adu8015"
+          },
+          {
+            "key": "ref35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/MED59994.2023.10185884"
+          },
+          {
+            "key": "ref36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2012.6385963"
+          },
+          {
+            "key": "ref37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/iros60139.2025.11246978"
+          },
+          {
+            "key": "ref38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA48891.2023.10160741"
+          },
+          {
+            "key": "ref39",
+            "article-title": "The mathematical theory of hitches",
+            "author": "Krauel",
+            "year": "2005"
+          },
+          {
+            "key": "ref40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1137/0147080"
+          },
+          {
+            "key": "ref41",
+            "first-page": "1",
+            "article-title": "The mechanics of friction in rope rescue",
+            "volume-title": "Proc. Int. Tech. Rescue Symp.",
+            "author": "Attaway",
+            "year": "1999"
+          },
+          {
+            "key": "ref42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1533/9781845694722.1.174"
+          },
+          {
+            "key": "ref43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/CDC.2010.5717652"
+          },
+          {
+            "key": "ref44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRA.2011.5980409"
+          },
+          {
+            "key": "ref45",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICCV.2019.00160"
+          },
+          {
+            "key": "ref46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/icra55743.2025.11128734"
+          },
+          {
+            "key": "ref47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2514/1.J062854"
+          },
+          {
+            "key": "ref48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2016.7759262"
+          },
+          {
+            "key": "ref49",
+            "first-page": "3299",
+            "article-title": "Crazyswarm: A large nano-quadcopter swarm",
+            "volume-title": "Proc. IEEE Int. Conf. Robot. Automat.",
+            "author": "Preiss*",
+            "year": "2017"
+          },
+          {
+            "key": "ref50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2017.8202165"
+          }
+        ],
+        "container-title": [
+          "IEEE Transactions on Robotics"
+        ],
+        "link": [
+          {
+            "URL": "https://ieeexplore.ieee.org/ielam/8860/11297026/11455389-aam.pdf",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+          },
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/8860/11297026/11455389.pdf?arnumber=11455389",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              4,
+              22
+            ]
+          ],
+          "date-time": "2026-04-22T07:19:48Z",
+          "timestamp": 1776842388000
+        },
+        "score": 84.42565,
+        "resource": {
+          "primary": {
+            "URL": "https://ieeexplore.ieee.org/document/11455389/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        },
+        "references-count": 50,
+        "URL": "https://doi.org/10.1109/tro.2026.3677011",
+        "ISSN": [
+          "1552-3098",
+          "1941-0468"
+        ],
+        "issn-type": [
+          {
+            "value": "1552-3098",
+            "type": "print"
+          },
+          {
+            "value": "1941-0468",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2026
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T06:55:36Z",
+          "timestamp": 1791356136310,
+          "version": "4.3.1"
+        },
+        "reference-count": 23,
+        "publisher": "IEEE",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  8,
+                  1
+                ]
+              ],
+              "date-time": "2026-08-01T00:00:00Z",
+              "timestamp": 1785542400000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://ieeexplore.ieee.org/Xplorehelp/downloads/license-information/IEEE.html"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  8,
+                  1
+                ]
+              ],
+              "date-time": "2026-08-01T00:00:00Z",
+              "timestamp": 1785542400000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2026,
+                  8,
+                  1
+                ]
+              ],
+              "date-time": "2026-08-01T00:00:00Z",
+              "timestamp": 1785542400000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "DOI": "10.1109/case69030.2026.11704162",
+        "type": "proceedings-article",
+        "created": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              6
+            ]
+          ],
+          "date-time": "2026-10-06T19:15:04Z",
+          "timestamp": 1791314104000
+        },
+        "page": "1908-1913",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Vision-Language Guided Aerial Manipulation for Autonomous UAV Grasping"
+        ],
+        "prefix": "10.1109",
+        "author": [
+          {
+            "given": "Vuppu Venkata Sai Viswa",
+            "family": "Kiran",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Indian Institute of Technology Hyderabad",
+                "department": [
+                  "Department of Artificial Intelligence"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Aashish",
+            "family": "Sahu",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Indian Institute of Technology Hyderabad",
+                "department": [
+                  "Department of Mechanical and Aerospace Engineering"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Siddanth",
+            "family": "Bhogoju",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Indian Institute of Technology Hyderabad"
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "R. Prasanth",
+            "family": "Kumar",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Indian Institute of Technology Hyderabad",
+                "department": [
+                  "Department of Artificial Intelligence"
+                ]
+              }
+            ],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "263",
+        "reference": [
+          {
+            "key": "ref1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/LRA.2018.2808541"
+          },
+          {
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TRO.2021.3084395"
+          },
+          {
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2016.7759254"
+          },
+          {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/IROS.2013.6697077"
+          },
+          {
+            "key": "ref5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/3776734.3794572"
+          },
+          {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TMECH.2016.2523602"
+          },
+          {
+            "key": "ref7",
+            "article-title": "Autonomous Marker-Less Rapid Aerial Grasping",
+            "author": "Bauer",
+            "year": "2022",
+            "journal-title": "arXiv preprint"
+          },
+          {
+            "key": "ref8",
+            "article-title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+            "volume-title": "Proc. Int. Conf. Machine Learning (ICML)",
+            "author": "Li",
+            "year": "2022"
+          },
+          {
+            "key": "ref9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.52202/075280-1516"
+          },
+          {
+            "key": "ref10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/HRI61500.2025.10974117"
+          },
+          {
+            "key": "ref11",
+            "article-title": "Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey",
+            "author": "Shao",
+            "year": "2025",
+            "journal-title": "arXiv preprint"
+          },
+          {
+            "key": "ref12",
+            "article-title": "Pure Vision Language Action (VLA) Models: A Comprehensive Survey",
+            "author": "Zhang",
+            "year": "2025",
+            "journal-title": "arXiv preprint"
+          },
+          {
+            "key": "ref13",
+            "article-title": "Do As I Can, Not As I Say: Grounding Language in Robotic Affordances",
+            "volume-title": "Proc. Conf. Robot Learning (CoRL)",
+            "author": "Ahn",
+            "year": "2022"
+          },
+          {
+            "key": "ref14",
+            "article-title": "PaLM-E: An Embodied Multimodal Language Model",
+            "volume-title": "Proc. Int. Conf. Machine Learning (ICML)",
+            "author": "Driess",
+            "year": "2023"
+          },
+          {
+            "key": "ref15",
+            "article-title": "LoRA: Low-Rank Adaptation of Large Language Models",
+            "volume-title": "Proc. Int. Conf. Learning Representations (ICLR)",
+            "author": "Hu",
+            "year": "2022"
+          },
+          {
+            "key": "ref16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ACCESS.2025.3609980"
+          },
+          {
+            "key": "ref17",
+            "article-title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+            "author": "Kim",
+            "year": "2024",
+            "journal-title": "arXiv preprint"
+          },
+          {
+            "key": "ref18",
+            "article-title": "See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation",
+            "volume-title": "Proc. Conf. Robot Learning (CoRL)",
+            "author": "Hu",
+            "year": "2025"
+          },
+          {
+            "key": "ref19",
+            "article-title": "AERMANI-VLM: Structured Prompting and Reasoning for Aerial Manipulation with Vision Language Models",
+            "author": "Mishra",
+            "year": "2025",
+            "journal-title": "arXiv preprint"
+          },
+          {
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/APSCON68325.2026.11497125"
+          },
+          {
+            "key": "ref21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICRAE64368.2024.10851574"
+          },
+          {
+            "key": "ref22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ROBIO64047.2024.10907576"
+          },
+          {
+            "key": "ref23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/s25206403"
+          }
+        ],
+        "event": {
+          "name": "2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE)",
+          "location": "Shenyang, China",
+          "start": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                17
+              ]
+            ]
+          },
+          "end": {
+            "date-parts": [
+              [
+                2026,
+                8,
+                21
+              ]
+            ]
+          }
+        },
+        "container-title": [
+          "2026 IEEE 22nd International Conference on Automation Science and Engineering (CASE)"
+        ],
+        "link": [
+          {
+            "URL": "http://xplorestaging.ieee.org/ielx8/11703955/11704113/11704162.pdf?arnumber=11704162",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2026,
+              10,
+              7
+            ]
+          ],
+          "date-time": "2026-10-07T06:47:14Z",
+          "timestamp": 1791355634000
+        },
+        "score": 35.120033,
+        "resource": {
+          "primary": {
+            "URL": "https://ieeexplore.ieee.org/document/11704162/"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        },
+        "references-count": 23,
+        "URL": "https://doi.org/10.1109/case69030.2026.11704162",
+        "published": {
+          "date-parts": [
+            [
+              2026,
+              8
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2026,
+              9,
+              27
+            ]
+          ],
+          "date-time": "2026-09-27T11:20:22Z",
+          "timestamp": 1790508022255,
+          "version": "4.1.0"
+        },
+        "publisher-location": "Berlin, Heidelberg",
+        "reference-count": 32,
+        "publisher": "Springer Berlin Heidelberg",
+        "isbn-type": [
+          {
+            "value": "9783642285714",
+            "type": "print"
+          },
+          {
+            "value": "9783642285721",
+            "type": "electronic"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2014,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2014-01-01T00:00:00Z",
+              "timestamp": 1388534400000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://www.springer.com/tdm"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-642-28572-1_19",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2013,
+              8,
+              20
+            ]
+          ],
+          "date-time": "2013-08-20T05:56:50Z",
+          "timestamp": 1376978210000
+        },
+        "page": "269-283",
+        "source": "Crossref",
+        "is-referenced-by-count": 17,
+        "title": [
+          "Aerial Grasping from a Helicopter UAV Platform"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Paul E.",
+            "family": "Pounds",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          },
+          {
+            "given": "Aaron M.",
+            "family": "Dollar",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "vocabulary": "crossref",
+                "role": "author"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "reference": [
+          {
+            "key": "19_CR1",
+            "unstructured": "Amidi, O., Kanade, T., Miller, J.: Vision-Based Autonomous Helicopter Research at Carnegie Mellon Robotics Institute 1991–1997. In: Proc. American Helicopter Society International Conference (1998)"
+          },
+          {
+            "key": "19_CR2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bernard, M., Kondak, K.: Generic Slung Load Transportation System Using small Size Helicopters. In: Proc. IEEE International Conference on Robotics and Automation (2009)",
+            "DOI": "10.1109/ROBOT.2009.5152382"
+          },
+          {
+            "key": "19_CR3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bisgaard, M., Bendtsen, J., la Cour-Harbo, A.: Modelling of Generic Slung Load System. Journal of Guidance, Control and Dynamics 32(2) (2009)",
+            "DOI": "10.2514/1.36539"
+          },
+          {
+            "key": "19_CR4",
+            "unstructured": "Borenstein, J.: The Hoverbot — An Electrically Powered Flying Robot. University of Michigan (1992, 2009) (unpublished paper), \n                    http://www-personal.umich.edu/~johannb/hoverbot.htm"
+          },
+          {
+            "key": "19_CR5",
+            "unstructured": "Butterfass, J., Grebenstein, M., Liu, H., Hirzinger, G.: DLR-Hand II: Next Generation of a Dextrous Robot Hand. In: Proc. International Conference on Robotics and Automation (2001)"
+          },
+          {
+            "key": "19_CR6",
+            "unstructured": "Central Intelligence Agency, Robert Fulton’s Skyhook and Operation Coldfeet (September 2010), \n                    https://www.cia.gov/library/center-for-the-study-of-intelligence/csi-publications/csi-studies/studies/95unclass/Leary.html"
+          },
+          {
+            "issue": "2",
+            "key": "19_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "151",
+            "DOI": "10.1109/70.88036",
+            "volume": "5",
+            "author": "M.R. Cutkosky",
+            "year": "1989",
+            "unstructured": "Cutkosky, M.R., Kao, I.: Computing and Controlling the Compliance of a Robotic Hand. IEEE Transactions on Robotics and Automation 5(2), 151–165 (1989)",
+            "journal-title": "IEEE Transactions on Robotics and Automation"
+          },
+          {
+            "issue": "2",
+            "key": "19_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "154",
+            "DOI": "10.1109/TMECH.2006.871090",
+            "volume": "11",
+            "author": "A.M. Dollar",
+            "year": "2006",
+            "unstructured": "Dollar, A.M., Howe, R.D.: A Robust Compliant Grasper via Shape Deposition Manufacturing. IEEE/ASME Transactions on Mechatronics 11(2), 154–161 (2006)",
+            "journal-title": "IEEE/ASME Transactions on Mechatronics"
+          },
+          {
+            "key": "19_CR9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dollar, A.M., Howe, R.D.: Simple, Robust Autonomous Grasping in Unstructured Environments. In: Proc. IEEE/RAS International Conference on Robotics and Automation (2007)",
+            "DOI": "10.1109/ROBOT.2007.364202"
+          },
+          {
+            "key": "19_CR10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gentili, L., Naldi, R., Marconi, L.: Modeling and Control of VTOL UAVs Interacting With the Environment. In: Proc. IEEE Conference on Decision and Control (2008)",
+            "DOI": "10.1109/CDC.2008.4739377"
+          },
+          {
+            "key": "19_CR11",
+            "doi-asserted-by": "publisher",
+            "first-page": "351",
+            "DOI": "10.1016/0094-114X(78)90059-9",
+            "volume": "13",
+            "author": "S. Hirose",
+            "year": "1978",
+            "unstructured": "Hirose, S., Umetani, Y.: The Development of Soft Gripper for the Versatile Robot Hand. Mechanism and Machine Theory 13, 351–359 (1978)",
+            "journal-title": "Mechanism and Machine Theory"
+          },
+          {
+            "key": "19_CR12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kaufman, L., Schultz, E.: The stability and control of tethered helicopters. Journal of the American Helicopter Society 7(4) (1962)",
+            "DOI": "10.4050/JAHS.7.41"
+          },
+          {
+            "key": "19_CR13",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kuntz, N., Oh, P.: Development of Autonomous Cargo Transport for an Unmanned Aerial Vehicle Using Visual Servoing. In: Proc. Digital Systems and Control Conference (2008)",
+            "DOI": "10.1115/DSCC2008-2203"
+          },
+          {
+            "issue": "3",
+            "key": "19_CR14",
+            "first-page": "1",
+            "volume": "4",
+            "author": "T. Laliberte",
+            "year": "2002",
+            "unstructured": "Laliberte, T., Birglen, L., Gosselin, C.: Underactuation in Robotic Grasping Hands. Machine Intelligence & Robotic Control 4(3), 1–11 (2002)",
+            "journal-title": "Machine Intelligence & Robotic Control"
+          },
+          {
+            "key": "19_CR15",
+            "volume-title": "Principles of Helicopter Aerodynamics",
+            "author": "J.G. Leishman",
+            "year": "2006",
+            "unstructured": "Leishman, J.G.: Principles of Helicopter Aerodynamics, 2nd edn. Cambridge University Press, New York (2006)",
+            "edition": "2"
+          },
+          {
+            "key": "19_CR16",
+            "unstructured": "Lotti, F., Tiezzi, P., Vassura, G., Biagiotti, L., Palli, G., Melchiorri, C.: Development of UB Hand 3: Early Results. In: Proc. International Conference on Robotics and Automation (2005)"
+          },
+          {
+            "key": "19_CR17",
+            "unstructured": "Lovchik, C.S., Diftler, M.A.: The Robonaut Hand: A Dexterous Robot Hand for Space. In: Proc. IEEE/RAS International Conference on Robotics and Automation (1999)"
+          },
+          {
+            "key": "19_CR18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mammarella, M., Campa, G., Napolitano, M., Fravolini, M., Perhinschi, R.: Machine Vision/GPS Integration Using EKF for the UAV Aerial Refueling Problem. IEEE Transactions on Systems, Man and Cybernetics 38(6) (2008)",
+            "DOI": "10.1109/TSMCC.2008.2001693"
+          },
+          {
+            "issue": "6",
+            "key": "19_CR19",
+            "doi-asserted-by": "publisher",
+            "first-page": "418",
+            "DOI": "10.1109/TSMC.1981.4308708",
+            "volume": "11",
+            "author": "M.T. Mason",
+            "year": "1981",
+            "unstructured": "Mason, M.T.: Compliance and Force Control for Computer controlled Manipulators. IEEE Transactions on Systems, Man, and Cybernetics 11(6), 418–432 (1981)",
+            "journal-title": "IEEE Transactions on Systems, Man, and Cybernetics"
+          },
+          {
+            "key": "19_CR20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Michael, N., Fink, J., Kumar, V.: Cooperative Manipulation and Transportation with Aerial Robots. In: Proc. Robotic Science and Systems (2009)",
+            "DOI": "10.15607/RSS.2009.V.001"
+          },
+          {
+            "key": "19_CR21",
+            "unstructured": "Oh, S.R., Agrawal, S., Patha, K., Pota, H.R., Garrett, M.: Autonomous helicopter landing on a moving platform using a tether. In: Proc. Int. Conference on Robotics and Automation (2005)"
+          },
+          {
+            "key": "19_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "536",
+            "DOI": "10.1109/TRO.2006.870657",
+            "volume": "22",
+            "author": "S.R. Oh",
+            "year": "2006",
+            "unstructured": "Oh, S.R., Agrawal, S., Pathak, K., Pota, H.R., Garrett, M.: Approaches for a tether-guided landing of an autonomous helicopter. IEEE Transactions on Robotics 22, 536–544 (2006)",
+            "journal-title": "IEEE Transactions on Robotics"
+          },
+          {
+            "key": "19_CR23",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Pounds, P.E., Dollar, A.M.: Hovering Stability of Helicopters With Elastic Tethers. In: Proc. ASME Dynamic Systems and Control Conference (2010)",
+            "DOI": "10.1115/DSCC2010-4166"
+          },
+          {
+            "key": "19_CR24",
+            "unstructured": "Pounds, P., Mahony, R.: Small-Scale Aeroelastic Rotor Simulation, Design and Fabrication. In: Proc. Australasian Conference on Robotics and Automation (2005)"
+          },
+          {
+            "key": "19_CR25",
+            "unstructured": "Prouty, R.: Helicopter Performance Stability and Control. Krieg Publishing Company (2002)"
+          },
+          {
+            "key": "19_CR26",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Raz, R., Rosen, A., Ronen, T.: Active Aerodynamic Stabilization of a Helicopter/Sling-Load System. Journal of Aircraft 26(9) (1988)",
+            "DOI": "10.2514/3.45847"
+          },
+          {
+            "key": "19_CR27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Salisbury, K.J.: Active Stiffness Control of a Manipulator in Cartesian Coordinates. In: Proc. IEEE Conference on Decision and Control, pp. 95–100 (1980)",
+            "DOI": "10.1109/CDC.1980.272026"
+          },
+          {
+            "issue": "4",
+            "key": "19_CR28",
+            "doi-asserted-by": "publisher",
+            "first-page": "393",
+            "DOI": "10.1016/0005-1098(74)90066-1",
+            "volume": "10",
+            "author": "G. Schmidt",
+            "year": "1974",
+            "unstructured": "Schmidt, G., Swik, R.: Automatic hover control of an unmanned tethered rotorplatform. Automatica 10(4), 393–394, IN1–IN2, 395–403 (1974)",
+            "journal-title": "Automatica"
+          },
+          {
+            "key": "19_CR29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Scott, D., Toal, M., Dale, J.: Vision Based Sensing for Autonomous In-flight Refueling. In: Proc. of SPIE, vol. 6561 (2007)",
+            "DOI": "10.1117/12.719161"
+          },
+          {
+            "issue": "3",
+            "key": "19_CR30",
+            "doi-asserted-by": "publisher",
+            "first-page": "181",
+            "DOI": "10.1108/01439910010371597",
+            "volume": "10",
+            "author": "W.T. Townsend",
+            "year": "2000",
+            "unstructured": "Townsend, W.T.: The BarrettHand Grasper - Progammably Flexible Part Handling and Assembly. Industrial Robot – An International Journal 10(3), 181–188 (2000)",
+            "journal-title": "Industrial Robot – An International Journal"
+          },
+          {
+            "key": "19_CR31",
+            "unstructured": "Ulrich, N., Kumar, V.: Grasping Using Fingers With Coupled Joints. In: Proc. ASME Mechanisms Conference (1988)"
+          },
+          {
+            "key": "19_CR32",
+            "unstructured": "U.S. Centennial of Flight Commission, Airmail and the Growth of the Airlines (September 2010), \n                    http://www.centennialofflight.gov/essay/Government_Role/1930-airmail/POL6.htm"
+          }
+        ],
+        "container-title": [
+          "Springer Tracts in Advanced Robotics",
+          "Experimental Robotics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-3-642-28572-1_19",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              19
+            ]
+          ],
+          "date-time": "2023-02-19T15:25:11Z",
+          "timestamp": 1676820311000
+        },
+        "score": 33.426956,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-3-642-28572-1_19"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783642285714",
+          "9783642285721"
+        ],
+        "references-count": 32,
+        "URL": "https://doi.org/10.1007/978-3-642-28572-1_19",
+        "ISSN": [
+          "1610-7438",
+          "1610-742X"
+        ],
+        "issn-type": [
+          {
+            "value": "1610-7438",
+            "type": "print"
+          },
+          {
+            "value": "1610-742X",
+            "type": "electronic"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2014
+            ]
+          ]
+        }
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

@@ -1,0 +1,822 @@
+{
+  "2019-design-and-control-of-aerial-modules-for-inflight-self-disassembly.md": {
+    "title": "Design and Control of Aerial Modules for Inflight Self-Disassembly",
+    "authors": [
+      "David Saldaña",
+      "P. M. Gupta",
+      "Vijay Kumar"
+    ],
+    "year": 2019,
+    "journal": "IEEE Robotics and Automation Letters",
+    "publicationType": "journal",
+    "areas": [
+      "modular-robots"
+    ],
+    "doi": "10.1109/LRA.2019.2926680",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@article{ral19iros,\n\ntitle = {Design and Control of Aerial Modules for Inflight Self-Disassembly},\n\nauthor = {David Saldaña and P. M. Gupta and Vijay Kumar},\n\ndoi = {10.1109/LRA.2019.2926680},\n\nissn = {2377-3766},\n\nyear  = {2019},\n\ndate = {2019-10-01},\n\nurldate = {2019-10-01},\n\njournal = {IEEE Robotics and Automation Letters},\n\nvolume = {4},\n\nnumber = {4},\n\npages = {3410-3417},\n\nkeywords = {aerial robot, modquad, modular robots, multi-rotor, quadrotor, self-reconfiguration algorithms},\n\npubstate = {published},\n\ntppubtype = {article}\n\n}"
+  },
+  "2021-vision-based-self-assembly-for-modular-multirotor-structures.md": {
+    "title": "Vision-Based Self-Assembly for Modular Multirotor Structures",
+    "authors": [
+      "Yehonathan Litman",
+      "Neeraj Gandhi",
+      "Linh Thi Xuan Phan",
+      "David Saldaña"
+    ],
+    "year": 2021,
+    "journal": "IEEE Robotics and Automation Letters",
+    "publicationType": "journal",
+    "areas": [
+      "modular-robots"
+    ],
+    "doi": "10.1109/LRA.2021.3061380",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@article{ral20vi2,\n\ntitle = {Vision-Based Self-Assembly for Modular Multirotor Structures},\n\nauthor = {Yehonathan Litman and Neeraj Gandhi and Linh Thi Xuan Phan and David Saldaña},\n\ndoi = {10.1109/LRA.2021.3061380},\n\nyear  = {2021},\n\ndate = {2021-01-01},\n\nurldate = {2021-01-01},\n\njournal = {IEEE Robotics and Automation Letters},\n\nvolume = {6},\n\nnumber = {2},\n\npages = {2202-2208},\n\nkeywords = {aerial robot, computer vision, modquad, modular robots, multi-rotor, quadrotor, self-reconfiguration algorithms},\n\npubstate = {published},\n\ntppubtype = {article}\n\n}"
+  },
+  "2016-dynamic-perimeter-surveillance-with-a-team-of-robots.md": {
+    "title": "Dynamic perimeter surveillance with a team of robots",
+    "authors": [
+      "David Saldaña",
+      "Reza J. Alitappeh",
+      "Luciano C. A. Pimenta",
+      "Renato Assunção",
+      "Mario F. M. Campos"
+    ],
+    "year": 2016,
+    "journal": "2016 IEEE International Conference on Robotics and Automation (ICRA)",
+    "publicationType": "conference",
+    "areas": [
+      "resilient-swarms",
+      "environmental-monitoring"
+    ],
+    "doi": "10.1109/ICRA.2016.7487740",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{icra16perimeter,\n\ntitle = {Dynamic perimeter surveillance with a team of robots},\n\nauthor = {David Saldaña and Reza J. Alitappeh and Luciano C. A. Pimenta and Renato Assunção and Mario F. M. Campos},\n\ndoi = {10.1109/ICRA.2016.7487740},\n\nyear  = {2016},\n\ndate = {2016-05-01},\n\nurldate = {2016-05-01},\n\nbooktitle = {2016 IEEE International Conference on Robotics and Automation (ICRA)},\n\npages = {5289-5294},\n\nkeywords = {environmental monitoring, multi-robot system, robot sensor network, surveillance},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2017-a-decentralized-algorithm-for-assembling-structures-with-modular-robots.md": {
+    "title": "A decentralized algorithm for assembling structures with modular robots",
+    "authors": [
+      "David Saldaña",
+      "Bruno Gabrich",
+      "Michael Whitzer",
+      "Amanda Prorok",
+      "Mario F. M. Campos",
+      "Mark Yim",
+      "Vijay Kumar"
+    ],
+    "year": 2017,
+    "journal": "2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "publicationType": "conference",
+    "areas": [
+      "modular-robots"
+    ],
+    "doi": "10.1109/IROS.2017.8206101",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{8206101,\n\ntitle = {A decentralized algorithm for assembling structures with modular robots},\n\nauthor = {David Saldaña and Bruno Gabrich and Michael Whitzer and Amanda Prorok and Mario F. M. Campos and Mark Yim and Vijay Kumar},\n\ndoi = {10.1109/IROS.2017.8206101},\n\nyear  = {2017},\n\ndate = {2017-01-01},\n\nurldate = {2017-01-01},\n\nbooktitle = {2017 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},\n\npages = {2736-2743},\n\nkeywords = {modquad, modular robots, self-reconfiguration algorithms},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2018-triangular-networks-for-resilient-formations.md": {
+    "title": "Triangular Networks for Resilient Formations",
+    "authors": [
+      "David Saldaña",
+      "Amanda Prorok",
+      "Mario F. M. Campos",
+      "Vijay Kumar"
+    ],
+    "year": 2018,
+    "journal": "Distributed Autonomous Robotic Systems: The 13th International Symposium",
+    "publicationType": "chapter",
+    "areas": [
+      "resilient-swarms"
+    ],
+    "doi": "10.1007/978-3-319-73008-0_11",
+    "url": "https://doi.org/10.1007/978-3-319-73008-0_11",
+    "resources": [
+      {
+        "label": "Full text",
+        "url": "https://doi.org/10.1007/978-3-319-73008-0_11"
+      }
+    ],
+    "abstract": "Consensus algorithms allow multiple robots to achieve agreement on estimates of variables in a distributed manner, hereby coordinating the robots as a team, and enabling applications such as formation control and cooperative area coverage. These algorithms achieve agreement by relying only on local, nearest-neighbor communication. The problem with distributed consensus, however, is that a single malicious or faulty robot can control and manipulate the whole network. The objective of this paper is to propose a formation topology that is resilient to one malicious node, and that satisfies two important properties for distributed systems: (i) it can be constructed incrementally by adding one node at a time in such a way that the conditions for attachment can be computed locally, and (ii) its robustness can be verified through a distributed method by using only neighborhood-based information. Our topology is characterized by triangular robust graphs, consists of a modular structure, is fully scalable, and is well suited for applications of large-scale networks. We describe how our proposed topology can be used to deploy networks of robots. Results show how triangular robust networks guarantee asymptotic consensus in the face of a malicious agent.",
+    "bibtex": "@inbook{Saldaña2018,\n\ntitle = {Triangular Networks for Resilient Formations},\n\nauthor = {David Saldaña and Amanda Prorok and Mario F. M. Campos and Vijay Kumar},\n\neditor = {Roderich Groß and Andreas Kolling and Spring Berman and Emilio Frazzoli and Alcherio Martinoli and Fumitoshi Matsuno and Melvin Gauci},\n\nurl = {https://doi.org/10.1007/978-3-319-73008-0_11},\n\ndoi = {10.1007/978-3-319-73008-0_11},\n\nisbn = {978-3-319-73008-0},\n\nyear  = {2018},\n\ndate = {2018-01-01},\n\nurldate = {2018-01-01},\n\nbooktitle = {Distributed Autonomous Robotic Systems: The 13th International Symposium},\n\npages = {147--159},\n\npublisher = {Springer International Publishing},\n\naddress = {Cham},\n\nabstract = {Consensus algorithms allow multiple robots to achieve agreement on estimates of variables in a distributed manner, hereby coordinating the robots as a team, and enabling applications such as formation control and cooperative area coverage. These algorithms achieve agreement by relying only on local, nearest-neighbor communication. The problem with distributed consensus, however, is that a single malicious or faulty robot can control and manipulate the whole network. The objective of this paper is to propose a formation topology that is resilient to one malicious node, and that satisfies two important properties for distributed systems: (i) it can be constructed incrementally by adding one node at a time in such a way that the conditions for attachment can be computed locally, and (ii) its robustness can be verified through a distributed method by using only neighborhood-based information. Our topology is characterized by triangular robust graphs, consists of a modular structure, is fully scalable, and is well suited for applications of large-scale networks. We describe how our proposed topology can be used to deploy networks of robots. Results show how triangular robust networks guarantee asymptotic consensus in the face of a malicious agent.},\n\nkeywords = {resilient consensus, robot networks, robot swarms},\n\npubstate = {published},\n\ntppubtype = {inbook}\n\n}"
+  },
+  "2021-h-modquad-modular-multi-rotors-with-4-5-and-6-controllable-dof.md": {
+    "title": "H-ModQuad: Modular Multi-Rotors with 4, 5, and 6 Controllable DOF",
+    "authors": [
+      "Jiawei Xu",
+      "Diego S. D’Antonio",
+      "David Saldaña"
+    ],
+    "year": 2021,
+    "journal": "2021 IEEE International Conference on Robotics and Automation (ICRA)",
+    "publicationType": "conference",
+    "areas": [
+      "modular-robots"
+    ],
+    "doi": "10.1109/ICRA48506.2021.9561016",
+    "url": "https://arxiv.org/pdf/2106.04048.pdf",
+    "resources": [
+      {
+        "label": "Video",
+        "url": "https://youtu.be/olKYuWPWxHo"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2106.04048.pdf"
+      }
+    ],
+    "abstract": "Traditional aerial vehicles are usually custom-designed for specific tasks. Although they offer an efficient solution, they are not always able to adapt to changes in the task specification, e.g., increasing the payload. This applies to quadrotors, having a maximum payload and only four controllable degrees of freedom, limiting their adaptability to the task’s variations. We propose a versatile modular robotic system that can increase its payload and degrees of freedom by assembling heterogeneous modules; we call it H-ModQuad. It consists of cuboid modules propelled by quadrotors with tilted propellers that can generate forces in different directions. By connecting different types of modules, an H-ModQuad can increase its controllable degrees of freedom from 4 to 5 and 6. We model the general structure and propose three controllers, one for each number of controllable degrees of freedom. We extend the concept of the actuation ellipsoid to find the best reference orientation that can maximize the performance of the structure. Our approach is validated with experiments using actual robots, showing the independence of the translation and orientation of a structure.",
+    "bibtex": "@inproceedings{2021-h-modquad-modular-multi-rotors-with-4-5-and-6-controllable-dof,\n\ntitle = {H-ModQuad: Modular Multi-Rotors with 4, 5, and 6 Controllable DOF},\n\nauthor = {Jiawei Xu and Diego S. D’Antonio and David Saldaña},\n\nurl = {https://youtu.be/olKYuWPWxHo\n\nhttps://arxiv.org/pdf/2106.04048.pdf},\n\ndoi = {10.1109/ICRA48506.2021.9561016},\n\nisbn = {978-1-7281-9077-8},\n\nyear  = {2021},\n\ndate = {2021-10-18},\n\nurldate = {2021-10-18},\n\nbooktitle = {2021 IEEE International Conference on Robotics and Automation (ICRA)},\n\nabstract = {Traditional aerial vehicles are usually custom-designed for specific tasks. Although they offer an efficient solution, they are not always able to adapt to changes in the task specification, e.g., increasing the payload. This applies to quadrotors, having a maximum payload and only four controllable degrees of freedom, limiting their adaptability to the task’s variations. We propose a versatile modular robotic system that can increase its payload and degrees of freedom by assembling heterogeneous modules; we call it H-ModQuad. It consists of cuboid modules propelled by quadrotors with tilted propellers that can generate forces in different directions. By connecting different types of modules, an H-ModQuad can increase its controllable degrees of freedom from 4 to 5 and 6. We model the general structure and propose three controllers, one for each number of controllable degrees of freedom. We extend the concept of the actuation ellipsoid to find the best reference orientation that can maximize the performance of the structure. Our approach is validated with experiments using actual robots, showing the independence of the translation and orientation of a structure.},\n\nkeywords = {aerial robot, modquad, modular robots, multi-rotor, quadrotor},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2021-non-prehensile-manipulation-of-cuboid-objects-using-a-catenary-robot.md": {
+    "title": "Non-Prehensile Manipulation of Cuboid Objects Using a Catenary Robot",
+    "authors": [
+      "Gustavo A. Cardona",
+      "Diego S. D’Antonio",
+      "Cristian-Ioan Vasile",
+      "David Saldaña"
+    ],
+    "year": 2021,
+    "journal": "",
+    "publicationType": "conference",
+    "areas": [
+      "aerial-manipulation"
+    ],
+    "url": "https://youtu.be/Ou6DPlXPE7A",
+    "resources": [
+      {
+        "label": "Video",
+        "url": "https://youtu.be/Ou6DPlXPE7A"
+      }
+    ],
+    "abstract": "Transporting objects using quadrotors with cables has been widely studied in the literature. However, most of those approaches assume that the cables are previously attached to the load by human intervention. In tasks where multiple objects need to be moved, the efficiency of the robotic system is constrained by the requirement of manual labor. Our approach uses a non-stretchable cable connected to two quadrotors, which we call the catenary robot, that fully automates the transportation task. Using the cable, we can roll and drag the cuboid object (box) on planar surfaces. Depending on the surface type, we choose the proper action, dragging for low friction, and rolling for high friction. Therefore, the transportation process does not require any human intervention as we use the cable to interact with the box without requiring fastening. We validate our control design in simulation and with actual robots, where we show them rolling and dragging boxes to track desired trajectories.",
+    "bibtex": "@inproceedings{2021-non-prehensile-manipulation-of-cuboid-objects-using-a-catenary-robot,\n\ntitle = {Non-Prehensile Manipulation of Cuboid Objects Using a Catenary Robot},\n\nauthor = {Gustavo A. Cardona and Diego S. D’Antonio and Cristian-Ioan Vasile and David Saldaña},\n\nurl = {https://youtu.be/Ou6DPlXPE7A},\n\nyear  = {2021},\n\ndate = {2021-08-13},\n\nurldate = {2021-08-13},\n\nabstract = {Transporting objects using quadrotors with cables has been widely studied in the literature. However, most of those approaches assume that the cables are previously attached to the load by human intervention. In tasks where multiple objects need to be moved, the efficiency of the robotic system is constrained by the requirement of manual labor. Our approach uses a non-stretchable cable connected to two quadrotors, which we call the catenary robot, that fully automates the transportation task. Using the cable, we can roll and drag the cuboid object (box) on planar surfaces. Depending on the surface type, we choose the proper action, dragging for low friction, and rolling for high friction. Therefore, the transportation process does not require any human intervention as we use the cable to interact with the box without requiring fastening. We validate our control design in simulation and with actual robots, where we show them rolling and dragging boxes to track desired trajectories.},\n\nkeywords = {aerial manipulation, aerial robot, cable, catenary robot, quadrotor},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2021-adaptive-control-for-cooperative-aerial-transportation-using-catenary-robots.md": {
+    "title": "Adaptive Control for Cooperative Aerial Transportation Using Catenary Robots",
+    "authors": [
+      "Gustavo A. Cardona",
+      "Diego S. D’Antonio",
+      "Rafael Fierro",
+      "David Saldaña"
+    ],
+    "year": 2021,
+    "journal": "2021 Aerial Robotic Systems Physically Interacting with the Environment (AIRPHARO)",
+    "publicationType": "conference",
+    "areas": [
+      "aerial-manipulation"
+    ],
+    "doi": "10.1109/AIRPHARO52252.2021.9571068",
+    "url": "https://youtu.be/MeEGL_PUBx4",
+    "resources": [
+      {
+        "label": "Video",
+        "url": "https://youtu.be/MeEGL_PUBx4"
+      }
+    ],
+    "abstract": "",
+    "bibtex": "@inproceedings{9571068,\n\ntitle = {Adaptive Control for Cooperative Aerial Transportation Using Catenary Robots},\n\nauthor = {Gustavo A. Cardona and Diego S. D’Antonio and Rafael Fierro and David Saldaña},\n\nurl = {https://youtu.be/MeEGL_PUBx4},\n\ndoi = {10.1109/AIRPHARO52252.2021.9571068},\n\nyear  = {2021},\n\ndate = {2021-01-01},\n\nurldate = {2021-01-01},\n\nbooktitle = {2021 Aerial Robotic Systems Physically Interacting with the Environment (AIRPHARO)},\n\npages = {1-8},\n\nkeywords = {aerial manipulation, aerial robot, cable, catenary robot, quadrotor},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2021-resilient-task-allocation-in-heterogeneous-multi-robot-systems.md": {
+    "title": "Resilient Task Allocation in Heterogeneous Multi-Robot Systems",
+    "authors": [
+      "Siddharth Mayya",
+      "Diego S. D’antonio",
+      "David Saldaña",
+      "Vijay Kumar"
+    ],
+    "year": 2021,
+    "journal": "IEEE Robotics and Automation Letters",
+    "publicationType": "journal",
+    "areas": [
+      "resilient-swarms"
+    ],
+    "doi": "10.1109/LRA.2021.3057559",
+    "url": "https://youtu.be/TRceQUiTnik",
+    "resources": [
+      {
+        "label": "Video",
+        "url": "https://youtu.be/TRceQUiTnik"
+      }
+    ],
+    "abstract": "",
+    "bibtex": "@article{9349130,\n\ntitle = {Resilient Task Allocation in Heterogeneous Multi-Robot Systems},\n\nauthor = {Siddharth Mayya and Diego S. D’antonio and David Saldaña and Vijay Kumar},\n\nurl = {https://youtu.be/TRceQUiTnik},\n\ndoi = {10.1109/LRA.2021.3057559},\n\nyear  = {2021},\n\ndate = {2021-01-01},\n\nurldate = {2021-01-01},\n\njournal = {IEEE Robotics and Automation Letters},\n\nvolume = {6},\n\nnumber = {2},\n\npages = {1327-1334},\n\nkeywords = {heterogeneous robots, robot networks, robot swarms, task allocation},\n\npubstate = {published},\n\ntppubtype = {article}\n\n}"
+  },
+  "2017-cooperative-prediction-of-time-varying-boundaries-with-a-team-of-robots.md": {
+    "title": "Cooperative prediction of time-varying boundaries with a team of robots",
+    "authors": [
+      "David Saldaña",
+      "Renato Assunção",
+      "M. Ani Hsieh",
+      "Mario F. M. Campos",
+      "Vijay Kumar"
+    ],
+    "year": 2017,
+    "journal": "2017 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)",
+    "publicationType": "conference",
+    "areas": [
+      "resilient-swarms"
+    ],
+    "doi": "10.1109/MRS.2017.8250925",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{8250925,\n\ntitle = {Cooperative prediction of time-varying boundaries with a team of robots},\n\nauthor = {David Saldaña and Renato Assunção and M. Ani Hsieh and Mario F. M. Campos and Vijay Kumar},\n\ndoi = {10.1109/MRS.2017.8250925},\n\nyear  = {2017},\n\ndate = {2017-01-01},\n\nurldate = {2017-01-01},\n\nbooktitle = {2017 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)},\n\npages = {9-16},\n\nkeywords = {resilient consensus, robot networks, robot swarms},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2020-dense-r-robust-formations-on-lattices.md": {
+    "title": "Dense r-robust formations on lattices",
+    "authors": [
+      "Luis Guerrero-Bonilla",
+      "David Saldaña",
+      "Vijay Kumar"
+    ],
+    "year": 2020,
+    "journal": "2020 IEEE International Conference on Robotics and Automation (ICRA)",
+    "publicationType": "conference",
+    "areas": [
+      "resilient-swarms"
+    ],
+    "doi": "10.1109/ICRA40945.2020.9196683",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{icra20luis,\n\ntitle = {Dense r-robust formations on lattices},\n\nauthor = {Luis Guerrero-Bonilla and David Saldaña and Vijay Kumar},\n\ndoi = {10.1109/ICRA40945.2020.9196683},\n\nyear  = {2020},\n\ndate = {2020-01-01},\n\nurldate = {2020-01-01},\n\nbooktitle = {2020 IEEE International Conference on Robotics and Automation (ICRA)},\n\npages = {6633-6639},\n\nkeywords = {resilient consensus, robot networks, robot swarms},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2020-modular-robot-formation-and-routing-for-resilient-consensus.md": {
+    "title": "Modular Robot Formation and Routing for Resilient Consensus",
+    "authors": [
+      "Xi Yu",
+      "Daigo Shishika",
+      "David Saldaña",
+      "M. Ani Hsieh"
+    ],
+    "year": 2020,
+    "journal": "2020 American Control Conference (ACC)",
+    "publicationType": "conference",
+    "areas": [
+      "modular-robots",
+      "resilient-swarms"
+    ],
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{acc20xi,\n\ntitle = {Modular Robot Formation and Routing for Resilient Consensus},\n\nauthor = {Xi Yu and Daigo Shishika and David Saldaña and M. Ani Hsieh},\n\nyear  = {2020},\n\ndate = {2020-01-01},\n\nurldate = {2020-01-01},\n\nbooktitle = {2020 American Control Conference (ACC)},\n\npages = {2464-2471},\n\nkeywords = {multi-rotor, resilient consensus, robot networks, robot swarms, self-reconfiguration algorithms},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2023-finding-optimal-modular-robots-for-aerial-tasks.md": {
+    "title": "Finding Optimal Modular Robots for Aerial Tasks",
+    "authors": [
+      "Jiawei Xu",
+      "David Saldaña"
+    ],
+    "year": 2023,
+    "journal": "40th IEEE International Conference on Robotics and Automation",
+    "publicationType": "conference",
+    "areas": [
+      "modular-robots"
+    ],
+    "url": "https://www.youtube.com/watch?v=JtSZSkYx_Rg",
+    "resources": [
+      {
+        "label": "Video",
+        "url": "https://www.youtube.com/watch?v=JtSZSkYx_Rg"
+      },
+      {
+        "label": "PDF",
+        "url": "/wp-content/uploads/2023/05/Finding-Optimal-Modular-Robots-for-Aerial-Tasks.pdf"
+      }
+    ],
+    "abstract": "Traditional aerial vehicles have limitations in their capabilities due to actuator constraints, such as motor saturation. The hardware components and their arrangement are designed to satisfy specific requirements and are difficult to modify during operation. To address this problem, we introduce a versatile modular multi-rotor vehicle that can change its capabilities by reconfiguration. Our modular robot consists of homogeneous cuboid modules, propelled by quadrotors with tilted rotors. Depending on the number of modules and their configuration, the robot can expand its actuation capabilities. In this paper, we build a mathematical model for the actuation capability of a modular multi-rotor vehicle and develop methods to determine if a vehicle is capable of satisfying a task requirement. Based on this result, we find the optimal configurations for a given task. Our approach is validated in realistic 3D simulations, showing that our modular system can adapt to tasks with varying requirements.",
+    "bibtex": "@inproceedings{jiaweixu2023finding,\n\ntitle = {Finding Optimal Modular Robots for Aerial Tasks},\n\nauthor = {Jiawei Xu and David Saldaña},\n\nurl = {https://www.youtube.com/watch?v=JtSZSkYx_Rg,\n\nhttp://swarmslab.com/wp-content/uploads/2023/05/Finding-Optimal-Modular-Robots-for-Aerial-Tasks.pdf},\n\nyear  = {2023},\n\ndate = {2023-05-29},\n\nurldate = {2023-05-29},\n\nbooktitle = {40th IEEE International Conference on Robotics and Automation},\n\norganization = {IEEE Robotics and Automation Society},\n\nseries = {IEEE International Conference on Robotics and Automation},\n\nabstract = {Traditional aerial vehicles have limitations in their capabilities due to actuator constraints, such as motor saturation. The hardware components and their arrangement are designed to satisfy specific requirements and are difficult to modify during operation. To address this problem, we introduce a versatile modular multi-rotor vehicle that can change its capabilities by reconfiguration. Our modular robot consists of homogeneous cuboid modules, propelled by quadrotors with tilted rotors. Depending on the number of modules and their configuration, the robot can expand its actuation capabilities. In this paper, we build a mathematical model for the actuation capability of a modular multi-rotor vehicle and develop methods to determine if a vehicle is capable of satisfying a task requirement. Based on this result, we find the optimal configurations for a given task. Our approach is validated in realistic 3D simulations, showing that our modular system can adapt to tasks with varying requirements.},\n\nkeywords = {aerial robot, computational geometry, modular robots, multi-robot system, optimization},\n\npubstate = {forthcoming},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2019-modquad-vi-a-vision-based-self-assembling-modular-quadrotor.md": {
+    "title": "ModQuad-Vi: A Vision-Based Self-Assembling Modular Quadrotor",
+    "authors": [
+      "Guanrui Li",
+      "Bruno Gabrich",
+      "David Saldaña",
+      "Jnaneshwar Das",
+      "Vijay Kumar",
+      "Mark Yim"
+    ],
+    "year": 2019,
+    "journal": "2019 International Conference on Robotics and Automation (ICRA)",
+    "publicationType": "conference",
+    "areas": [
+      "modular-robots"
+    ],
+    "doi": "10.1109/ICRA.2019.8794056",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{8794056,\n\ntitle = {ModQuad-Vi: A Vision-Based Self-Assembling Modular Quadrotor},\n\nauthor = {Guanrui Li and Bruno Gabrich and David Saldaña and Jnaneshwar Das and Vijay Kumar and Mark Yim},\n\ndoi = {10.1109/ICRA.2019.8794056},\n\nyear  = {2019},\n\ndate = {2019-01-01},\n\nurldate = {2019-01-01},\n\nbooktitle = {2019 International Conference on Robotics and Automation (ICRA)},\n\npages = {346-352},\n\nkeywords = {aerial robot, computer vision, modquad, modular robots, multi-rotor, quadrotor, self-reconfiguration algorithms},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2025-spinning-blimp.md": {
+    "title": "The Spinning Blimp: Design and Control of a Novel Minimalist Aerial Vehicle Leveraging Rotational Dynamics and Locomotion",
+    "authors": [
+      "Leonardo Santens",
+      "Diego S. D’Antonio",
+      "Shuhang Hou",
+      "David Saldaña"
+    ],
+    "year": 2025,
+    "journal": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "publicationType": "conference",
+    "url": "https://arxiv.org/abs/2503.04112",
+    "areas": [
+      "robotic-blimps"
+    ],
+    "featured": true,
+    "resources": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2503.04112"
+      }
+    ]
+  },
+  "2021-estimating-boundary-dynamics-using-robotic-sensor-networks-with-pointwise-measurements.md": {
+    "title": "Estimating boundary dynamics using robotic sensor networks with pointwise measurements",
+    "authors": [
+      "David Saldana",
+      "Renato Assunçao",
+      "M. Ani Hsieh",
+      "Mario F.M. Campos",
+      "Vijay Kumar"
+    ],
+    "year": 2021,
+    "journal": "Autonomous Robots",
+    "publicationType": "journal",
+    "areas": [
+      "environmental-monitoring"
+    ],
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@article{auros18,\n\ntitle = {Estimating boundary dynamics using robotic sensor networks with pointwise measurements},\n\nauthor = {David Saldana and Renato Assunçao and M. Ani Hsieh and Mario F.M. Campos and Vijay Kumar},\n\nyear  = {2021},\n\ndate = {2021-01-01},\n\nurldate = {2021-01-01},\n\njournal = {Autonomous Robots},\n\nvolume = {45},\n\nnumber = {2},\n\npages = {193--208},\n\npublisher = {Springer},\n\nkeywords = {boundary estimation, environmental monitoring, multi-robot system, robot boat, robot sensor network},\n\npubstate = {published},\n\ntppubtype = {article}\n\n}"
+  },
+  "2023-forming-and-controlling-hitches-in-midair-using-aerial-robots.md": {
+    "title": "Forming and Controlling Hitches in Midair Using Aerial Robots",
+    "authors": [
+      "Diego S. D’Antonio",
+      "Subhrajit Bhattacharya",
+      "David Saldaña"
+    ],
+    "year": 2023,
+    "journal": "2023 IEEE International Conference on Robotics and Automation (ICRA 2023)",
+    "publicationType": "conference",
+    "areas": [
+      "modular-robots",
+      "aerial-manipulation"
+    ],
+    "doi": "10.48550/arXiv.2303.07427",
+    "url": "https://arxiv.org/abs/2303.07427",
+    "resources": [
+      {
+        "label": "Video",
+        "url": "https://youtu.be/EFig0cOaFZ4"
+      },
+      {
+        "label": "Full text",
+        "url": "https://arxiv.org/abs/2303.07427"
+      }
+    ],
+    "abstract": "The use of cables for aerial manipulation has shown to be a lightweight and versatile way to interact with objects. However, fastening objects using cables is still a challenge and human is required. In this work, we propose a novel way to secure objects using hitches. The hitch can be formed and morphed in midair using a team of aerial robots with cables. The hitch's shape is modeled as a convex polygon, making it versatile and adaptable to a wide variety of objects. We propose an algorithm to form the hitch systematically. The steps can run in parallel, allowing hitches with a large number of robots to be formed in constant time. We develop a set of actions that include different actions to change the shape of the hitch. We demonstrate our methods using a team of aerial robots via simulation and actual experiments.",
+    "bibtex": "@inproceedings{hitches,\n\ntitle = {Forming and Controlling Hitches in Midair Using Aerial Robots},\n\nauthor = {Diego S. D’Antonio and Subhrajit Bhattacharya and David Saldaña},\n\nurl = {https://youtu.be/EFig0cOaFZ4\n\nhttps://arxiv.org/abs/2303.07427},\n\ndoi = { https://doi.org/10.48550/arXiv.2303.07427},\n\nyear  = {2023},\n\ndate = {2023-01-01},\n\nurldate = {2023-01-01},\n\nbooktitle = {2023 IEEE International Conference on Robotics and Automation (ICRA 2023)},\n\nabstract = {The use of cables for aerial manipulation has shown to be a lightweight and versatile way to interact with objects. However, fastening objects using cables is still a challenge and human is required. In this work, we propose a novel way to secure objects using hitches. The hitch can be formed and morphed in midair using a team of aerial robots with cables. The hitch's shape is modeled as a convex polygon, making it versatile and adaptable to a wide variety of objects. We propose an algorithm to form the hitch systematically. The steps can run in parallel, allowing hitches with a large number of robots to be formed in constant time. We develop a set of actions that include different actions to change the shape of the hitch. We demonstrate our methods using a team of aerial robots via simulation and actual experiments.},\n\nkeywords = {aerial manipulation, aerial robot, catenary robot, hitches, modular robots},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2018-a-flying-gripper-based-on-cuboid-modular-robots.md": {
+    "title": "A Flying Gripper Based on Cuboid Modular Robots",
+    "authors": [
+      "Bruno Gabrich",
+      "David Saldaña",
+      "Vijay Kumar",
+      "Mark Yim"
+    ],
+    "year": 2018,
+    "journal": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+    "publicationType": "conference",
+    "areas": [
+      "modular-robots",
+      "aerial-manipulation"
+    ],
+    "doi": "10.1109/ICRA.2018.8460682",
+    "url": "https://youtu.be/43RSgWRLhJc",
+    "resources": [
+      {
+        "label": "Video",
+        "url": "https://youtu.be/43RSgWRLhJc"
+      }
+    ],
+    "abstract": "",
+    "bibtex": "@inproceedings{icra18gripper,\n\ntitle = {A Flying Gripper Based on Cuboid Modular Robots},\n\nauthor = {Bruno Gabrich and David Saldaña and Vijay Kumar and Mark Yim},\n\nurl = {https://youtu.be/43RSgWRLhJc},\n\ndoi = {10.1109/ICRA.2018.8460682},\n\nissn = {2577-087X},\n\nyear  = {2018},\n\ndate = {2018-05-01},\n\nurldate = {2018-05-01},\n\nbooktitle = {2018 IEEE International Conference on Robotics and Automation (ICRA)},\n\npages = {7024-7030},\n\nkeywords = {aerial manipulation, aerial robot, gripper, modquad, modular robots, multi-rotor, quadrotor},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2021-finding-structure-configurations-for-flying-modular-robots.md": {
+    "title": "Finding Structure Configurations for Flying Modular Robots",
+    "authors": [
+      "Bruno Gabrich",
+      "David Saldaña",
+      "Mark Yim"
+    ],
+    "year": 2021,
+    "journal": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "publicationType": "conference",
+    "areas": [
+      "modular-robots"
+    ],
+    "doi": "10.1109/IROS51168.2021.9636086",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{finding2021gabrich,\n\ntitle = {Finding Structure Configurations for Flying Modular Robots},\n\nauthor = {Bruno Gabrich and David Saldaña and Mark Yim},\n\ndoi = {10.1109/IROS51168.2021.9636086},\n\nyear  = {2021},\n\ndate = {2021-01-01},\n\nurldate = {2021-01-01},\n\nbooktitle = {2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},\n\npages = {6970-6976},\n\nkeywords = {aerial robot, modquad, modular robots, multi-rotor, quadrotor, self-reconfiguration algorithms},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2025-mochiswarm.md": {
+    "title": "MochiSwarm: A testbed for robotic blimps in realistic environments",
+    "authors": [
+      "Jiawei Xu",
+      "Thong Vu",
+      "Diego S. D’Antonio",
+      "David Saldaña"
+    ],
+    "year": 2025,
+    "journal": "IEEE International Conference on Robotics and Automation (ICRA)",
+    "publicationType": "conference",
+    "url": "https://arxiv.org/abs/2503.03077",
+    "areas": [
+      "robotic-blimps"
+    ],
+    "featured": true,
+    "resources": [
+      {
+        "label": "Preprint",
+        "url": "https://arxiv.org/abs/2503.03077"
+      }
+    ]
+  },
+  "2018-resilient-backbones-in-hexagonal-robot-formations.md": {
+    "title": "Resilient Backbones in Hexagonal Robot Formations",
+    "authors": [
+      "David Saldaña",
+      "Luis Guerrero-Bonilla",
+      "Vijay Kumar"
+    ],
+    "year": 2018,
+    "journal": "Distributed Autonomous Robotic Systems: The 14th International Symposium",
+    "publicationType": "chapter",
+    "areas": [
+      "resilient-swarms"
+    ],
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inbook{dars18,\n\ntitle = {Resilient Backbones in Hexagonal Robot Formations},\n\nauthor = {David Saldaña and Luis Guerrero-Bonilla and Vijay Kumar},\n\nisbn = {978-3-030-05816-6},\n\nyear  = {2018},\n\ndate = {2018-11-15},\n\nurldate = {2018-11-15},\n\nbooktitle = {Distributed Autonomous Robotic Systems: The 14th International Symposium},\n\npages = {427--440},\n\naddress = {Cham},\n\nkeywords = {resilient consensus, robot networks, robot swarms},\n\npubstate = {published},\n\ntppubtype = {inbook}\n\n}"
+  },
+  "2021-resilient-consensus-in-robot-swarms-with-periodic-motion-and-intermittent-communication.md": {
+    "title": "Resilient Consensus in Robot Swarms With Periodic Motion and Intermittent Communication",
+    "authors": [
+      "Xi Yu",
+      "David Saldaña",
+      "Daigo Shishika",
+      "M Ani Hsieh"
+    ],
+    "year": 2021,
+    "journal": "IEEE Transactions on Robotics",
+    "publicationType": "journal",
+    "areas": [
+      "resilient-swarms"
+    ],
+    "doi": "10.1109/TRO.2021.3088765",
+    "url": "https://youtu.be/dj2afGyhBB4",
+    "resources": [
+      {
+        "label": "Video",
+        "url": "https://youtu.be/dj2afGyhBB4"
+      }
+    ],
+    "abstract": "",
+    "bibtex": "@article{tro20periodic,\n\ntitle = {Resilient Consensus in Robot Swarms With Periodic Motion and Intermittent Communication},\n\nauthor = {Xi Yu and David Saldaña and Daigo Shishika and M Ani Hsieh},\n\nurl = {https://youtu.be/dj2afGyhBB4},\n\ndoi = {10.1109/TRO.2021.3088765},\n\nyear  = {2021},\n\ndate = {2021-01-01},\n\nurldate = {2021-01-01},\n\njournal = {IEEE Transactions on Robotics},\n\npublisher = {IEEE},\n\nkeywords = {resilient consensus, robot networks, robot swarms},\n\npubstate = {published},\n\ntppubtype = {article}\n\n}"
+  },
+  "2022-folding-knots-using-a-team-of-aerial-robots.md": {
+    "title": "Folding Knots Using a Team of Aerial Robots",
+    "authors": [
+      "Diego S. D’Antonio",
+      "David Saldaña"
+    ],
+    "year": 2022,
+    "journal": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+    "publicationType": "conference",
+    "areas": [
+      "aerial-manipulation"
+    ],
+    "doi": "10.1109/IROS47612.2022.9981363",
+    "url": "https://arxiv.org/abs/2208.01482",
+    "resources": [
+      {
+        "label": "Full text",
+        "url": "https://arxiv.org/abs/2208.01482"
+      }
+    ],
+    "abstract": "From ancient times, humans have been using cables and ropes to tie, carry, and manipulate objects by folding knots. However, automating knot folding is challenging because it requires dexterity to move a cable over and under itself. In this paper, we propose a method to fold knots in midair using a team of aerial vehicles. We take advantage of the fact that vehicles are able to fly in between cable segments without any re-grasping. So the team grasps the cable from the floor, and releases it once the knot is folded. Based on a composition of catenary curves, we simplify the complexity of dealing with an infinite-dimensional configuration space of the cable, and formally propose a new knot representation. Such representation allows us to design a trajectory that can be used to fold knots using a leader-follower approach. We show that our method works for different types of knots in simulations. Additionally, we show that our solution is also computationally efficient and can be executed in real-time.",
+    "bibtex": "@inproceedings{9981363,\n\ntitle = {Folding Knots Using a Team of Aerial Robots},\n\nauthor = {Diego S. D’Antonio and David Saldaña},\n\nurl = {https://arxiv.org/abs/2208.01482},\n\ndoi = {10.1109/IROS47612.2022.9981363},\n\nyear  = {2022},\n\ndate = {2022-01-01},\n\nurldate = {2022-01-01},\n\nbooktitle = {2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},\n\npages = {3372-3377},\n\nabstract = {From ancient times, humans have been using cables and ropes to tie, carry, and manipulate objects by folding knots. However, automating knot folding is challenging because it requires dexterity to move a cable over and under itself. In this paper, we propose a method to fold knots in midair using a team of aerial vehicles. We take advantage of the fact that vehicles are able to fly in between cable segments without any re-grasping. So the team grasps the cable from the floor, and releases it once the knot is folded. Based on a composition of catenary curves, we simplify the complexity of dealing with an infinite-dimensional configuration space of the cable, and formally propose a new knot representation. Such representation allows us to design a trajectory that can be used to fold knots using a leader-follower approach. We show that our method works for different types of knots in simulations. Additionally, we show that our solution is also computationally efficient and can be executed in real-time.},\n\nkeywords = {aerial manipulation, aerial robot, catenary robot},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2017-distributed-multi-robot-coordination-for-dynamic-perimeter-surveillance-in-uncertain-environments.md": {
+    "title": "Distributed multi-robot coordination for dynamic perimeter surveillance in uncertain environments",
+    "authors": [
+      "Alexander Jahn",
+      "Reza Javanmard Alitappeh",
+      "David Saldaña",
+      "Luciano C. A. Pimenta",
+      "Andre G. Santos",
+      "Mario F. M. Campos"
+    ],
+    "year": 2017,
+    "journal": "2017 IEEE International Conference on Robotics and Automation (ICRA)",
+    "publicationType": "conference",
+    "areas": [
+      "resilient-swarms",
+      "environmental-monitoring"
+    ],
+    "doi": "10.1109/ICRA.2017.7989035",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{7989035,\n\ntitle = {Distributed multi-robot coordination for dynamic perimeter surveillance in uncertain environments},\n\nauthor = {Alexander Jahn and Reza Javanmard Alitappeh and David Saldaña and Luciano C. A. Pimenta and Andre G. Santos and Mario F. M. Campos},\n\ndoi = {10.1109/ICRA.2017.7989035},\n\nyear  = {2017},\n\ndate = {2017-01-01},\n\nurldate = {2017-01-01},\n\nbooktitle = {2017 IEEE International Conference on Robotics and Automation (ICRA)},\n\npages = {273-278},\n\nkeywords = {environmental monitoring, multi-robot system, robot networks, robot sensor network, surveillance},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2020-self-reconfiguration-in-response-to-faults-in-modular-aerial-systems.md": {
+    "title": "Self-Reconfiguration in Response to Faults in Modular Aerial Systems",
+    "authors": [
+      "Neeraj Gandhi",
+      "David Saldaña",
+      "Vijay Kumar",
+      "Linh T. X. Phan"
+    ],
+    "year": 2020,
+    "journal": "IEEE Robotics and Automation Letters",
+    "publicationType": "journal",
+    "areas": [
+      "modular-robots"
+    ],
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@article{gandhi2020self,\n\ntitle = {Self-Reconfiguration in Response to Faults in Modular Aerial Systems},\n\nauthor = {Neeraj Gandhi and David Saldaña and Vijay Kumar and Linh T. X. Phan},\n\nyear  = {2020},\n\ndate = {2020-01-01},\n\nurldate = {2020-01-01},\n\njournal = {IEEE Robotics and Automation Letters},\n\nvolume = {5},\n\nnumber = {2},\n\npages = {2522-2529},\n\nkeywords = {aerial robot, modquad, modular robots, multi-rotor, quadrotor, self-reconfiguration algorithms},\n\npubstate = {published},\n\ntppubtype = {article}\n\n}"
+  },
+  "2015-a-distributed-multi-robot-approach-for-the-detection-and-tracking-of-multiple-dynamic-anomalies.md": {
+    "title": "A distributed multi-robot approach for the detection and tracking of multiple dynamic anomalies",
+    "authors": [
+      "David Saldaña",
+      "Renato Assunção",
+      "Mario F. M. Campos"
+    ],
+    "year": 2015,
+    "journal": "2015 IEEE International Conference on Robotics and Automation (ICRA)",
+    "publicationType": "conference",
+    "areas": [],
+    "doi": "10.1109/ICRA.2015.7139353",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{7139353,\n\ntitle = {A distributed multi-robot approach for the detection and tracking of multiple dynamic anomalies},\n\nauthor = {David Saldaña and Renato Assunção and Mario F. M. Campos},\n\ndoi = {10.1109/ICRA.2015.7139353},\n\nyear  = {2015},\n\ndate = {2015-01-01},\n\nbooktitle = {2015 IEEE International Conference on Robotics and Automation (ICRA)},\n\npages = {1262-1267},\n\nkeywords = {},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2017-resilient-consensus-for-time-varying-networks-of-dynamic-agents.md": {
+    "title": "Resilient consensus for time-varying networks of dynamic agents",
+    "authors": [
+      "David Saldaña",
+      "Amanda Prorok",
+      "Shreyas Sundaram",
+      "Mario F. M. Campos",
+      "Vijay Kumar"
+    ],
+    "year": 2017,
+    "journal": "2017 American Control Conference (ACC)",
+    "publicationType": "conference",
+    "areas": [
+      "resilient-swarms"
+    ],
+    "doi": "10.23919/ACC.2017.7962962",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{7962962,\n\ntitle = {Resilient consensus for time-varying networks of dynamic agents},\n\nauthor = {David Saldaña and Amanda Prorok and Shreyas Sundaram and Mario F. M. Campos and Vijay Kumar},\n\ndoi = {10.23919/ACC.2017.7962962},\n\nyear  = {2017},\n\ndate = {2017-01-01},\n\nurldate = {2017-01-01},\n\nbooktitle = {2017 American Control Conference (ACC)},\n\npages = {252-258},\n\nkeywords = {resilient consensus, robot networks, robot swarms},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2023-toward-fine-contact-interactions-learning-to-control-normal-contact-force-with-limited-information.md": {
+    "title": "Toward Fine Contact Interactions: Learning to Control Normal Contact Force with Limited Information",
+    "authors": [
+      "Jinda Cui",
+      "Jiawei Xu",
+      "David Saldaña",
+      "Jeffrey Trinkle"
+    ],
+    "year": 2023,
+    "journal": "40th IEEE International Conference on Robotics and Automation",
+    "publicationType": "conference",
+    "areas": [
+      "aerial-manipulation"
+    ],
+    "resources": [],
+    "abstract": "Dexterous manipulation of objects through fine control of physical contacts is essential for many important tasks of daily living. A fundamental ability underlying fine contact control is compliant control, i.e., controlling the contact forces while moving. For robots, the most widely explored approaches heavily depend on models of manipulated objects and expensive sensors to gather contact location and force information needed for real-time control. The models are difficult to obtain, and the sensors are costly, hindering personal robots' adoption in our homes and businesses. This study performs model-free reinforcement learning of a normal contact force controller on a robotic manipulation system built with a low-cost, information-poor tactile sensor. Despite the limited sensing capability, our force controller can be combined with a motion controller to enable fine contact interactions during object manipulation. Promising results are demonstrated in non-prehensile, dexterous manipulation experiments.",
+    "bibtex": "@inproceedings{jinda2023toward,\n\ntitle = {Toward Fine Contact Interactions: Learning to Control Normal Contact Force with Limited Information},\n\nauthor = {Jinda Cui and Jiawei Xu and David Saldaña and Jeffrey Trinkle},\n\nyear  = {2023},\n\ndate = {2023-05-29},\n\nurldate = {2023-05-29},\n\nbooktitle = {40th IEEE International Conference on Robotics and Automation},\n\norganization = {IEEE Robotics and Automation Society},\n\nabstract = {Dexterous manipulation of objects through fine control of physical contacts is essential for many important tasks of daily living. A fundamental ability underlying fine contact control is compliant control, i.e., controlling the contact forces while moving. For robots, the most widely explored approaches heavily depend on models of manipulated objects and expensive sensors to gather contact location and force information needed for real-time control. The models are difficult to obtain, and the sensors are costly, hindering personal robots' adoption in our homes and businesses. This study performs model-free reinforcement learning of a normal contact force controller on a robotic manipulation system built with a low-cost, information-poor tactile sensor. Despite the limited sensing capability, our force controller can be combined with a motion controller to enable fine contact interactions during object manipulation. Promising results are demonstrated in non-prehensile, dexterous manipulation experiments.},\n\nkeywords = {manipulation, robot arm},\n\npubstate = {forthcoming},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2022-pogodrone-design-model-and-control-of-a-jumping-quadrotor.md": {
+    "title": "PogoDrone: Design, Model, and Control of a Jumping Quadrotor",
+    "authors": [
+      "Brian Zhu",
+      "Jiawei Xu",
+      "Andrew Charway",
+      "David Saldaña"
+    ],
+    "year": 2022,
+    "journal": "2022 IEEE International Conference on Robotics and Automation",
+    "publicationType": "conference",
+    "areas": [
+      "aerial-manipulation"
+    ],
+    "doi": "10.48550/arXiv.2204.00207",
+    "url": "https://arxiv.org/pdf/2204.00207.pdf",
+    "resources": [
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2204.00207.pdf"
+      }
+    ],
+    "abstract": "We present a design, model, and control for a novel jumping-flying robot that is called PogoDrone. The robot is composed of a quadrotor with a passive mechanism for jumping. The robot can continuously jump in place or fly like a normal quadrotor. Jumping in place allows the robot to quickly move and operate very close to the ground. For instance, in agricultural applications, the jumping mechanism allows the robot to take samples of soil. We propose a hybrid controller that switches from attitude to position control to allow the robot to fall horizontally and recover to the original position. We compare the jumping mode with the hovering mode to analyze the energy consumption. In simulations, we evaluate the effect of different factors on energy consumption. In real experiments, we show that our robot can repeatedly impact the ground, jump, and fly in a physical environment.",
+    "bibtex": "@inproceedings{Zhu2022,\n\ntitle = {PogoDrone: Design, Model, and Control of a Jumping Quadrotor},\n\nauthor = {Brian Zhu and Jiawei Xu and Andrew Charway and David Saldaña},\n\nurl = {https://arxiv.org/pdf/2204.00207.pdf},\n\ndoi = {https://doi.org/10.48550/arXiv.2204.00207},\n\nyear  = {2022},\n\ndate = {2022-04-01},\n\nurldate = {2022-04-01},\n\nbooktitle = {2022 IEEE International Conference on Robotics and Automation},\n\nabstract = {We present a design, model, and control for a novel jumping-flying robot that is called PogoDrone. The robot is composed of a quadrotor with a passive mechanism for jumping. The robot can continuously jump in place or fly like a normal quadrotor. Jumping in place allows the robot to quickly move and operate very close to the ground. For instance, in agricultural applications, the jumping mechanism allows the robot to take samples of soil. We propose a hybrid controller that switches from attitude to position control to allow the robot to fall horizontally and recover to the original position. We compare the jumping mode with the hovering mode to analyze the energy consumption. In simulations, we evaluate the effect of different factors on energy consumption. In real experiments, we show that our robot can repeatedly impact the ground, jump, and fly in a physical environment.},\n\nkeywords = {aerial manipulation, aerial robot, quadrotor},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2023-sblimp-design-model-and-translational-motion-control-for-a-swing-blimp.md": {
+    "title": "SBlimp: Design, Model, and Translational Motion Control for a Swing-Blimp",
+    "authors": [
+      "Jiawei Xu",
+      "Dominic J Ammirato",
+      "Diego S. D’Antonio",
+      "David Saldaña"
+    ],
+    "year": 2023,
+    "journal": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)",
+    "publicationType": "conference",
+    "areas": [
+      "robotic-blimps"
+    ],
+    "url": "https://arxiv.org/abs/2308.00259",
+    "resources": [
+      {
+        "label": "Full text",
+        "url": "https://arxiv.org/abs/2308.00259"
+      },
+      {
+        "label": "Full text",
+        "url": "https://www.researchgate.net/publication/372785641_SBlimp_Design_Model_and_Translational_Motion_Control_for_a_Swing-Blimp"
+      }
+    ],
+    "abstract": "We present an aerial vehicle composed of a custom quadrotor with tilted rotors and a helium balloon, called SBlimp. We propose a novel control strategy that takes advantage of the natural stable attitude of the blimp to control translational motion. Different from cascade controllers in the literature that controls attitude to achieve desired translational motion, our approach directly controls the linear velocity regardless of the heading orientation of the vehicle. As a result, the vehicle swings during the translational motion. We provide a planar analysis of the dynamic model, demonstrating stability for our controller. Our design is evaluated in numerical simulations with different physical factors and validated with experiments using a real-world prototype, showing that the SBlimp is able to achieve stable translation regardless of its orientation.",
+    "bibtex": "@inproceedings{xu2023sblimp,\n\ntitle = {SBlimp: Design, Model, and Translational Motion Control for a Swing-Blimp},\n\nauthor = {Jiawei Xu and Dominic J Ammirato and Diego S. D’Antonio and David Saldaña},\n\nurl = {https://www.researchgate.net/publication/372785641_SBlimp_Design_Model_and_Translational_Motion_Control_for_a_Swing-Blimp},\n\ndoi = {arXiv:2308.00259},\n\nyear  = {2023},\n\ndate = {2023-10-01},\n\nurldate = {2023-10-01},\n\nbooktitle = {2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)},\n\norganization = {IEEE Robotics and Automation Society},\n\nabstract = {We present an aerial vehicle composed of a custom quadrotor with tilted rotors and a helium balloon, called SBlimp. We propose a novel control strategy that takes advantage of the natural stable attitude of the blimp to control translational motion. Different from cascade controllers in the literature that controls attitude to achieve desired translational motion, our approach directly controls the linear velocity regardless of the heading orientation of the vehicle. As a result, the vehicle swings during the translational motion. We provide a planar analysis of the dynamic model, demonstrating stability for our controller. Our design is evaluated in numerical simulations with different physical factors and validated with experiments using a real-world prototype, showing that the SBlimp is able to achieve stable translation regardless of its orientation.},\n\nkeywords = {aerial robot, blimp, control},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2014-searching-and-tracking-anomalies-with-multiple-robots-a-probabilistic-approach.md": {
+    "title": "Searching and Tracking Anomalies with Multiple Robots: A Probabilistic Approach",
+    "authors": [
+      "David Saldaña",
+      "Luiz Chaimowicz",
+      "Mario F. M. Campos"
+    ],
+    "year": 2014,
+    "journal": "2014 Joint Conference on Robotics: SBR-LARS Robotics Symposium and Robocontrol",
+    "publicationType": "conference",
+    "areas": [
+      "environmental-monitoring"
+    ],
+    "doi": "10.1109/SBR.LARS.Robocontrol.2014.42",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{lars2014,\n\ntitle = {Searching and Tracking Anomalies with Multiple Robots: A Probabilistic Approach},\n\nauthor = {David Saldaña and Luiz Chaimowicz and Mario F. M. Campos},\n\ndoi = {10.1109/SBR.LARS.Robocontrol.2014.42},\n\nyear  = {2014},\n\ndate = {2014-10-01},\n\nurldate = {2014-10-01},\n\nbooktitle = {2014 Joint Conference on Robotics: SBR-LARS Robotics Symposium and Robocontrol},\n\npages = {67-72},\n\nkeywords = {boundary estimation, environmental monitoring, multi-robot system, robot sensor network},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2021-the-catenary-robot-design-and-control-of-a-cable-propelled-by-two-quadrotors.md": {
+    "title": "The Catenary Robot: Design and Control of a Cable Propelled by Two Quadrotors",
+    "authors": [
+      "Diego S. D’Antonio",
+      "Gustavo A. Cardona",
+      "David Saldaña"
+    ],
+    "year": 2021,
+    "journal": "IEEE Robotics and Automation Letters",
+    "publicationType": "journal",
+    "areas": [
+      "aerial-manipulation"
+    ],
+    "doi": "10.1109/LRA.2021.3062603",
+    "url": "https://youtu.be/3SaKKjl6os0",
+    "resources": [
+      {
+        "label": "Video",
+        "url": "https://youtu.be/3SaKKjl6os0"
+      }
+    ],
+    "abstract": "Transporting objects using aerial robots has been widely studied in the literature. Still, those approaches always assume that the connection between the quadrotor and the load is made in a previous stage. However, that previous stage usually requires human intervention, and autonomous procedures to locate and attach the object are not considered. Additionally, most of the approaches assume cables as rigid links, but manipulating cables requires considering the state when the cables are hanging. In this work, we design and control a catenary robot. Our robot is able to transport hook-shaped objects in the environment. The robotic system is composed of two quadrotors attached to the two ends of a cable. By defining the catenary curve with five degrees of freedom, position in 3-D, orientation in z-axis, and span, we can drive the two quadrotors to track a given trajectory. We validate our approach with simulations and real robots. We present four different scenarios of experiments. Our numerical solution is computationally fast and can be executed in real-time.",
+    "bibtex": "@article{2021-the-catenary-robot-design-and-control-of-a-cable-propelled-by-two-quadrotors,\n\ntitle = {The Catenary Robot: Design and Control of a Cable Propelled by Two Quadrotors},\n\nauthor = {Diego S. D’Antonio and Gustavo A. Cardona and David Saldaña },\n\nurl = {https://youtu.be/3SaKKjl6os0},\n\ndoi = {10.1109/LRA.2021.3062603},\n\nissn = {2377-3766},\n\nyear  = {2021},\n\ndate = {2021-02-26},\n\nurldate = {2021-02-26},\n\njournal = {IEEE Robotics and Automation Letters},\n\nvolume = {6},\n\nnumber = {2},\n\npages = {3857-3863},\n\nabstract = {Transporting objects using aerial robots has been widely studied in the literature. Still, those approaches always assume that the connection between the quadrotor and the load is made in a previous stage. However, that previous stage usually requires human intervention, and autonomous procedures to locate and attach the object are not considered. Additionally, most of the approaches assume cables as rigid links, but manipulating cables requires considering the state when the cables are hanging. In this work, we design and control a catenary robot. Our robot is able to transport hook-shaped objects in the environment. The robotic system is composed of two quadrotors attached to the two ends of a cable. By defining the catenary curve with five degrees of freedom, position in 3-D, orientation in z-axis, and span, we can drive the two quadrotors to track a given trajectory. We validate our approach with simulations and real robots. We present four different scenarios of experiments. Our numerical solution is computationally fast and can be executed in real-time.},\n\nkeywords = {aerial manipulation, aerial robot, cable, catenary robot, quadrotor},\n\npubstate = {published},\n\ntppubtype = {article}\n\n}"
+  },
+  "2015-searching-for-regions-out-of-normal-conditions-using-a-team-of-robots.md": {
+    "title": "Searching for Regions Out of Normal Conditions Using a Team of Robots",
+    "authors": [
+      "David Saldaña",
+      "Luiz Chaimowicz",
+      "Mario F. M. Campos"
+    ],
+    "year": 2015,
+    "journal": "Robotics",
+    "publicationType": "conference",
+    "areas": [
+      "environmental-monitoring"
+    ],
+    "resources": [],
+    "abstract": "Searching for regions in abnormal conditions is a priority in environments susceptible to catastrophes (e.g. forest fires or oil spills). Those disasters usually begin with an small anomaly that may became unsustainable if it is not detected at an early stage. We propose a probabilistic technique to coordinate multiple robots in perimeter searching and tracking, which are fundamental tasks if they are to detect and follow anomalies in an environment. The proposed method is based on a particle filter technique, which uses multiple robots to fuse distributed sensor information and estimate the shape of an anomaly. Complementary sensor fusion is used to coordinate robot navigation and reduce detection time when an anomaly arises. Validation of our approach is obtained both in simulation and with real robots. Five different scenarios were designed to evaluate and compare the efficiency in both exploration and tracking tasks. The results have demonstrated that when compared to state-of-the art methods in the literature, the proposed method is able to search anomalies under uncertainty and reduce the detection time by automatically increasing the number of robots.",
+    "bibtex": "@inproceedings{10.1007/978-3-662-48134-9_1,\n\ntitle = {Searching for Regions Out of Normal Conditions Using a Team of Robots},\n\nauthor = {David Saldaña and Luiz Chaimowicz and Mario F. M. Campos},\n\neditor = {Fernando S. Ösorio and Denis Fernando Wolf and Kalinka Castelo Branco and Valdir Grassi Jr. and Marcelo Becker and Roseli\" Romero},\n\nisbn = {978-3-662-48134-9},\n\nyear  = {2015},\n\ndate = {2015-01-01},\n\nurldate = {2015-01-01},\n\nbooktitle = {Robotics},\n\npages = {1--15},\n\npublisher = {Springer Berlin Heidelberg},\n\naddress = {Berlin, Heidelberg},\n\nabstract = {Searching for regions in abnormal conditions is a priority in environments susceptible to catastrophes (e.g. forest fires or oil spills). Those disasters usually begin with an small anomaly that may became unsustainable if it is not detected at an early stage. We propose a probabilistic technique to coordinate multiple robots in perimeter searching and tracking, which are fundamental tasks if they are to detect and follow anomalies in an environment. The proposed method is based on a particle filter technique, which uses multiple robots to fuse distributed sensor information and estimate the shape of an anomaly. Complementary sensor fusion is used to coordinate robot navigation and reduce detection time when an anomaly arises. Validation of our approach is obtained both in simulation and with real robots. Five different scenarios were designed to evaluate and compare the efficiency in both exploration and tracking tasks. The results have demonstrated that when compared to state-of-the art methods in the literature, the proposed method is able to search anomalies under uncertainty and reduce the detection time by automatically increasing the number of robots.},\n\nkeywords = {environmental monitoring, multi-robot system, robot sensor network},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2019-design-guarantees-for-resilient-robot-formations-on-lattices.md": {
+    "title": "Design Guarantees for Resilient Robot Formations on Lattices",
+    "authors": [
+      "Luis Guerrero-Bonilla",
+      "David Saldaña",
+      "Vijay Kumar"
+    ],
+    "year": 2019,
+    "journal": "IEEE Robotics and Automation Letters",
+    "publicationType": "journal",
+    "areas": [
+      "resilient-swarms"
+    ],
+    "doi": "10.1109/LRA.2018.2881231",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@article{ral19luis,\n\ntitle = {Design Guarantees for Resilient Robot Formations on Lattices},\n\nauthor = {Luis Guerrero-Bonilla and David Saldaña and Vijay Kumar},\n\ndoi = {10.1109/LRA.2018.2881231},\n\nissn = {2377-3766},\n\nyear  = {2019},\n\ndate = {2019-01-01},\n\nurldate = {2019-01-01},\n\njournal = {IEEE Robotics and Automation Letters},\n\nvolume = {4},\n\nnumber = {1},\n\npages = {89-96},\n\nkeywords = {resilient consensus, robot networks, robot swarms},\n\npubstate = {published},\n\ntppubtype = {article}\n\n}"
+  },
+  "2016-predicting-environmental-boundary-behaviors-with-a-mobile-robot.md": {
+    "title": "Predicting Environmental Boundary Behaviors With a Mobile Robot",
+    "authors": [
+      "David Saldaña",
+      "Renato Assunção",
+      "Mario F. M. Campos"
+    ],
+    "year": 2016,
+    "journal": "IEEE Robotics and Automation Letters",
+    "publicationType": "journal",
+    "areas": [
+      "environmental-monitoring"
+    ],
+    "doi": "10.1109/LRA.2016.2522500",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@article{ral16,\n\ntitle = {Predicting Environmental Boundary Behaviors With a Mobile Robot},\n\nauthor = {David Saldaña and Renato Assunção and Mario F. M. Campos},\n\ndoi = {10.1109/LRA.2016.2522500},\n\nissn = {2377-3766},\n\nyear  = {2016},\n\ndate = {2016-07-01},\n\nurldate = {2016-07-01},\n\njournal = {IEEE Robotics and Automation Letters},\n\nvolume = {1},\n\nnumber = {2},\n\npages = {1133-1139},\n\nkeywords = {boundary estimation, environmental monitoring, multi-robot system, robot sensor network},\n\npubstate = {published},\n\ntppubtype = {article}\n\n}"
+  },
+  "2018-modquad-the-flying-modular-structure-that-self-assembles-in-midair.md": {
+    "title": "ModQuad: The Flying Modular Structure that Self-Assembles in Midair",
+    "authors": [
+      "David Saldaña",
+      "Bruno Gabrich",
+      "Guanrui Li",
+      "Mark Yim",
+      "Vijay Kumar"
+    ],
+    "year": 2018,
+    "journal": "2018 IEEE International Conference on Robotics and Automation (ICRA)",
+    "publicationType": "conference",
+    "areas": [
+      "modular-robots"
+    ],
+    "doi": "10.1109/ICRA.2018.8461014",
+    "url": "https://youtu.be/t9kXrhDwXf0",
+    "resources": [
+      {
+        "label": "Video",
+        "url": "https://youtu.be/t9kXrhDwXf0"
+      }
+    ],
+    "abstract": "",
+    "bibtex": "@inproceedings{icra18modquad,\n\ntitle = {ModQuad: The Flying Modular Structure that Self-Assembles in Midair},\n\nauthor = {David Saldaña and Bruno Gabrich and Guanrui Li and Mark Yim and Vijay Kumar},\n\nurl = {https://youtu.be/t9kXrhDwXf0},\n\ndoi = {10.1109/ICRA.2018.8461014},\n\nissn = {2577-087X},\n\nyear  = {2018},\n\ndate = {2018-05-01},\n\nurldate = {2018-05-01},\n\nbooktitle = {2018 IEEE International Conference on Robotics and Automation (ICRA)},\n\npages = {691-698},\n\nkeywords = {aerial robot, modquad, modular robots, multi-rotor, quadrotor, self-reconfiguration algorithms},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  },
+  "2017-resilient-flocking-for-mobile-robot-teams.md": {
+    "title": "Resilient Flocking for Mobile Robot Teams",
+    "authors": [
+      "Kelsey Saulnier",
+      "David Saldaña",
+      "Amanda Prorok",
+      "George J. Pappas",
+      "Vijay Kumar"
+    ],
+    "year": 2017,
+    "journal": "IEEE Robotics and Automation Letters",
+    "publicationType": "journal",
+    "areas": [
+      "resilient-swarms"
+    ],
+    "doi": "10.1109/LRA.2017.2655142",
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@article{7822915,\n\ntitle = {Resilient Flocking for Mobile Robot Teams},\n\nauthor = {Kelsey Saulnier and David Saldaña and Amanda Prorok and George J. Pappas and Vijay Kumar},\n\ndoi = {10.1109/LRA.2017.2655142},\n\nyear  = {2017},\n\ndate = {2017-01-01},\n\nurldate = {2017-01-01},\n\njournal = {IEEE Robotics and Automation Letters},\n\nvolume = {2},\n\nnumber = {2},\n\npages = {1039-1046},\n\nkeywords = {resilient consensus, robot networks, robot swarms},\n\npubstate = {published},\n\ntppubtype = {article}\n\n}"
+  },
+  "2015-detecting-latent-variables-of-interest-in-geo-localized-environments-using-an-aerial-robot.md": {
+    "title": "Detecting Latent Variables of Interest in Geo-localized Environments Using an Aerial Robot",
+    "authors": [
+      "David Saldaña",
+      "Ramon Melo",
+      "Erickson R. Nascimento",
+      "Mario F. M. Campos"
+    ],
+    "year": 2015,
+    "journal": "Proceedings of the Brazilian Robotics Symposium and Latin American Robotics Symposium (SBR-LARS)",
+    "publicationType": "conference",
+    "areas": [
+      "environmental-monitoring"
+    ],
+    "resources": [],
+    "abstract": "",
+    "bibtex": "@inproceedings{saldana2015sbr,\n\ntitle = {Detecting Latent Variables of Interest in Geo-localized Environments Using an Aerial Robot},\n\nauthor = {David Saldaña and Ramon Melo and Erickson R. Nascimento and Mario F. M. Campos},\n\nyear  = {2015},\n\ndate = {2015-01-01},\n\nurldate = {2015-01-01},\n\nbooktitle = {Proceedings of the Brazilian Robotics Symposium and Latin American Robotics Symposium (SBR-LARS)},\n\nkeywords = {environmental monitoring, multi-robot system, robot sensor network},\n\npubstate = {published},\n\ntppubtype = {inproceedings}\n\n}"
+  }
+}

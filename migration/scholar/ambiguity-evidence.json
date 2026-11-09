@@ -1,0 +1,134 @@
+{
+  "verifiedOn": "2026-11-08",
+  "works": [
+    {
+      "scholarIds": [
+        "_5tno0g5mFcC",
+        "6ZxmRoH8BuwC"
+      ],
+      "mergeScholarEntries": true,
+      "title": "Decentralized Adaptive Aerospace Transportation of Unknown Loads Using A Team of Robots",
+      "authors": [
+        "Longsen Gao",
+        "Kevin Aubert",
+        "David Saldaña",
+        "Claus Danielson",
+        "Rafael Fierro"
+      ],
+      "year": 2025,
+      "publicationType": "chapter",
+      "venue": "Distributed Autonomous Robotic Systems: 17th International Symposium",
+      "series": "Springer Proceedings in Advanced Robotics",
+      "volume": "34",
+      "pages": "28–41",
+      "doi": "10.1007/978-3-032-04584-3_3",
+      "url": "https://doi.org/10.1007/978-3-032-04584-3_3",
+      "preprintUrl": "https://arxiv.org/abs/2407.08084",
+      "dates": {
+        "conferenceYear": 2024,
+        "preprint": "2024-07-10",
+        "publishedOnline": "2025-11-02",
+        "publishedPrintYear": 2026
+      },
+      "sourceUrls": [
+        "https://api.crossref.org/works/10.1007/978-3-032-04584-3_3",
+        "https://link.springer.com/book/10.1007/978-3-032-04584-3",
+        "https://arxiv.org/abs/2407.08084"
+      ],
+      "notes": "Merge the full-title 2024 and truncated-title 2025 Scholar entries as one work. Recommended site year is the 2025 online publication year; DARS conference/preprint year is 2024 and print volume year is 2026. Crossref response is preserved at /private/tmp/swarms-dars-crossref.json."
+    },
+    {
+      "scholarIds": [
+        "IRz6iEL74y4C"
+      ],
+      "title": "FlySurf: A Flying Robotic Surface with Shape Morphing and Motion Control",
+      "authors": [
+        "Kevin Aubert De Luchi Lomellini"
+      ],
+      "year": 2025,
+      "publicationType": "other",
+      "publicationSubtype": "Master’s thesis",
+      "venue": "Master’s thesis, University of New Mexico",
+      "department": "Electrical and Computer Engineering",
+      "degree": "Electrical Engineering",
+      "publicationDate": "2025-07-14",
+      "url": "https://digitalrepository.unm.edu/ece_etds/730/",
+      "sourceUrls": [
+        "https://digitalrepository.unm.edu/ece_etds/730/"
+      ],
+      "notes": "A distinct thesis, not a duplicate of the three-author ACC 2025 paper FlySurf: A Flying Robotic Surface with Shape Morphing Control (DOI 10.23919/ACC63710.2025.11107545). David Saldaña is a thesis committee member, not an author. Use the repository’s full author name rather than Scholar’s abbreviated or erroneous name."
+    },
+    {
+      "scholarIds": [
+        "FAceZFleit8C"
+      ],
+      "title": "Customizable-ModQuad: a Versatile Hardware-Software Platform to Develop Lightweight and Low-cost Aerial Vehicles",
+      "authors": [
+        "Diego S. D’Antonio",
+        "Jiawei Xu",
+        "Gustavo A. Cardona",
+        "David Saldaña"
+      ],
+      "year": 2022,
+      "publicationType": "other",
+      "publicationSubtype": "Workshop extended abstract",
+      "venue": "IROS 2022 Workshop on MiniRobots",
+      "workshopFullName": "Miniature Robot Platforms for Full Scale Autonomous Vehicle Research",
+      "location": "Kyoto, Japan",
+      "url": "https://www.researchgate.net/publication/368390753_Customizable-ModQuad_a_Versatile_Hardware-Software_Platform_to_Develop_Lightweight_and_Low-cost_Aerial_Vehicles",
+      "sourceUrls": [
+        "https://wordpress.lehigh.edu/robotics/2023/01/30/latest-papers-to-appear-in-top-conferences-2023/",
+        "https://www.jiawei-xu.dev/",
+        "https://www.researchgate.net/publication/368390753_Customizable-ModQuad_a_Versatile_Hardware-Software_Platform_to_Develop_Lightweight_and_Low-cost_Aerial_Vehicles"
+      ],
+      "notes": "Lehigh AIRLab announcement explicitly calls this an extended abstract at IROS 2022; Jiawei Xu’s publication list places it under workshops. Author-uploaded manuscript agrees on author order and October 2022 workshop date. The February 2023 upload/announcement date is not the publication year. No DOI found."
+    },
+    {
+      "scholarIds": [
+        "eQOLeE2rZwMC"
+      ],
+      "title": "Y-Rescue Team Description Paper",
+      "authors": [
+        "Anderson Tavares",
+        "David Saldaña",
+        "Hector Azpúrua",
+        "Jhielson Pimentel",
+        "Omar Pino",
+        "Rafael Colares",
+        "Douglas Macharet",
+        "Luiz Chaimowicz"
+      ],
+      "year": 2015,
+      "publicationType": "other",
+      "publicationSubtype": "Team description paper",
+      "venue": "RoboCup Rescue Simulation League",
+      "pageCount": 8,
+      "url": "https://cdn.robocup.org/rsim/public/competitions/2015-RSL/info/agent/rsl15-tdp-agent-Y-Rescue.pdf",
+      "sourceUrls": [
+        "https://cdn.robocup.org/rsim/public/competitions/2015-RSL/info/agent/rsl15-tdp-agent-Y-Rescue.pdf",
+        "https://homepages.dcc.ufmg.br/~chaimo/public.html"
+      ],
+      "notes": "Full names and exact author order follow the official robocup.org eight-author PDF, which matches Scholar and the coauthor bibliography. A different RoboCup 2015 submission PDF inserts Hayllander Blonski after David Saldaña and has nine authors; do not import that version’s author list into this entry. No DOI found.",
+      "alternateVersionUrl": "https://robocup2015.oss-cn-shenzhen.aliyuncs.com/TeamDescriptionPapers/RescueSimulation/RoboCup_Symposium_2015_submission_135.pdf"
+    }
+  ],
+  "corrections": [
+    {
+      "title": "SBlimp: Design, Model, and Translational Motion Control for a Swing-Blimp",
+      "authors": [
+        "Jiawei Xu",
+        "Diego S. D’Antonio",
+        "Dominic J. Ammirato",
+        "David Saldaña"
+      ],
+      "year": 2023,
+      "doi": "10.1109/IROS55552.2023.10341796",
+      "pages": "6977–6982",
+      "sourceUrls": [
+        "https://arxiv.org/abs/2308.00259",
+        "https://www.jiawei-xu.dev/"
+      ],
+      "reason": "Scholar author order is correct. The primary arXiv record and Jiawei Xu’s publication list both place Diego S. D’Antonio second and Dominic J. Ammirato third; the WordPress author order reverses those two authors."
+    }
+  ]
+}

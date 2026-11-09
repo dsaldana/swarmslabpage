@@ -1,0 +1,6 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import { withBase } from '../lib/paths';
+---
+<BaseLayout title="Teaching"><PageHeader eyebrow="Learning robotics" title="Teaching" lead="Robotics courses and hands-on research opportunities at Lehigh University." /><div class="container-page py-12"><ul class="space-y-4 text-slate-700"><li>CSE360 — Mobile Robotics</li><li>CSE398 — Advanced Aerial Robotics</li><li>CSE398 — Robot Swarms</li><li>Independent Studies</li></ul><p class="mt-8 max-w-2xl text-slate-600">For robotics club activities, summer research opportunities, and ways to get involved, visit the <a href={withBase('/club/')} class="text-primary-700 underline">Lehigh Aerial Swarms Club</a>.</p></div></BaseLayout>

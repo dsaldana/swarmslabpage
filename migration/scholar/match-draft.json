@@ -1,0 +1,572 @@
+[
+  {
+    "id": "Se3iqnhoufwC",
+    "title": "Resilient Flocking for Mobile Robot Teams",
+    "authors": "K Saulnier, D Saldaña, A Prorok, GJ Pappas, V Kumar",
+    "venue": "IEEE Robotics and Automation Letters 2 (2), 1039-1046, 2017",
+    "year": 2017,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:Se3iqnhoufwC",
+    "citations": "271",
+    "existing": "src/content/publications/2017-resilient-flocking-for-mobile-robot-teams.md"
+  },
+  {
+    "id": "qxL8FJ1GzNcC",
+    "title": "ModQuad: the flying modular structure that self-assembles in midair",
+    "authors": "D Saldaña, B Gabrich, G Li, M Yim, V Kumar",
+    "venue": "2018 IEEE International Conference on Robotics and Automation (ICRA), 691-698, 2018",
+    "year": 2018,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:qxL8FJ1GzNcC",
+    "citations": "213",
+    "existing": "src/content/publications/2018-modquad-the-flying-modular-structure-that-self-assembles-in-midair.md"
+  },
+  {
+    "id": "8k81kl-MbHgC",
+    "title": "Resilient consensus for time-varying networks of dynamic agents",
+    "authors": "D Saldaña, A Prorok, S Sundaram, MFM Campos, V Kumar",
+    "venue": "American Control Conference (ACC), 2017, 252-258, 2017",
+    "year": 2017,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:8k81kl-MbHgC",
+    "citations": "196",
+    "existing": "src/content/publications/2017-resilient-consensus-for-time-varying-networks-of-dynamic-agents.md"
+  },
+  {
+    "id": "HDshCWvjkbEC",
+    "title": "Resilient Task Allocation in Heterogeneous Multi-Robot Systems",
+    "authors": "S Mayya, DS D’antonio, D Saldaña, V Kumar",
+    "venue": "IEEE Robotics and Automation Letters 6 (2), 1327-1334, 2021",
+    "year": 2021,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:HDshCWvjkbEC",
+    "citations": "118",
+    "existing": "src/content/publications/2021-resilient-task-allocation-in-heterogeneous-multi-robot-systems.md"
+  },
+  {
+    "id": "aqlVkmm33-oC",
+    "title": "A Flying Gripper Based on Cuboid Modular Robots",
+    "authors": "B Gabrich, D Saldaña, V Kumar, M Yim",
+    "venue": "2018 IEEE International Conference on Robotics and Automation (ICRA), 7024-7030, 2018",
+    "year": 2018,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:aqlVkmm33-oC",
+    "citations": "107",
+    "existing": "src/content/publications/2018-a-flying-gripper-based-on-cuboid-modular-robots.md"
+  },
+  {
+    "id": "ClCfbGk0d_YC",
+    "title": "The catenary robot: Design and control of a cable propelled by two quadrotors",
+    "authors": "DS D’antonio, GA Cardona, D Saldana",
+    "venue": "IEEE Robotics and Automation Letters 6 (2), 3857-3863, 2021",
+    "year": 2021,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:ClCfbGk0d_YC",
+    "citations": "69",
+    "existing": "src/content/publications/2021-the-catenary-robot-design-and-control-of-a-cable-propelled-by-two-quadrotors.md"
+  },
+  {
+    "id": "dhFuZR0502QC",
+    "title": "ModQuad-Vi: A vision-based self-assembling modular quadrotor",
+    "authors": "G Li, B Gabrich, D Saldana, J Das, V Kumar, M Yim",
+    "venue": "2019 International Conference on Robotics and Automation (ICRA), 346-352, 2019",
+    "year": 2019,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:dhFuZR0502QC",
+    "citations": "69",
+    "existing": "src/content/publications/2019-modquad-vi-a-vision-based-self-assembling-modular-quadrotor.md"
+  },
+  {
+    "id": "L8Ckcad2t8MC",
+    "title": "Design and Control of Aerial Modules for Inflight Self-disassembly",
+    "authors": "D Saldana, PM Gupta, V Kumar",
+    "venue": "IEEE Robotics and Automation Letters 4 (4), 3410-3417, 2019",
+    "year": 2019,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:L8Ckcad2t8MC",
+    "citations": "65",
+    "existing": "src/content/publications/2019-design-and-control-of-aerial-modules-for-inflight-self-disassembly.md"
+  },
+  {
+    "id": "4hFrxpcac9AC",
+    "title": "AirBender: Adaptive transportation of bendable objects using dual UAVs",
+    "authors": "J Xu, L Gao, R Fierro, D Saldaña",
+    "venue": "IEEE Robotics and Automation Letters 10 (3), 2790-2797, 2025",
+    "year": 2025,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:4hFrxpcac9AC",
+    "citations": "55",
+    "existing": null
+  },
+  {
+    "id": "MXK_kJrjxJIC",
+    "title": "A decentralized algorithm for assembling structures with modular robots",
+    "authors": "D Saldaña, B Gabrich, M Whitzer, A Prorok, MFM Campos, M Yim, ...",
+    "venue": "Intelligent Robots and Systems (IROS), 2017 IEEE/RSJ International …, 2017",
+    "year": 2017,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:MXK_kJrjxJIC",
+    "citations": "48",
+    "existing": "src/content/publications/2017-a-decentralized-algorithm-for-assembling-structures-with-modular-robots.md"
+  },
+  {
+    "id": "hCrLmN-GePgC",
+    "title": "H-modquad: Modular multi-rotors with 4, 5, and 6 controllable dof",
+    "authors": "J Xu, DS D’Antonio, D Saldaña",
+    "venue": "2021 IEEE International Conference on Robotics and Automation (ICRA), 190-196, 2021",
+    "year": 2021,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:hCrLmN-GePgC",
+    "citations": "45",
+    "existing": "src/content/publications/2021-h-modquad-modular-multi-rotors-with-4-5-and-6-controllable-dof.md"
+  },
+  {
+    "id": "QIV2ME_5wuYC",
+    "title": "Design Guarantees for Resilient Robot Formations on Lattices",
+    "authors": "L Guerrero-Bonilla, D Saldana, V Kumar",
+    "venue": "IEEE Robotics and Automation Letters 4 (1), 89-96, 2018",
+    "year": 2018,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:QIV2ME_5wuYC",
+    "citations": "44",
+    "existing": "src/content/publications/2019-design-guarantees-for-resilient-robot-formations-on-lattices.md"
+  },
+  {
+    "id": "5nxA0vEk-isC",
+    "title": "Distributed multi-robot coordination for dynamic perimeter surveillance in uncertain environments",
+    "authors": "A Jahn, RJ Alitappeh, D Saldaña, LCA Pimenta, AG Santos, ...",
+    "venue": "2017 IEEE International Conference on Robotics and Automation (ICRA), 273-278, 2017",
+    "year": 2017,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:5nxA0vEk-isC",
+    "citations": "42",
+    "existing": "src/content/publications/2017-distributed-multi-robot-coordination-for-dynamic-perimeter-surveillance-in-uncertain-environments.md"
+  },
+  {
+    "id": "ZeXyd9-uunAC",
+    "title": "Self-reconfiguration in response to faults in modular aerial systems",
+    "authors": "N Gandhi, D Saldana, V Kumar, LTX Phan",
+    "venue": "IEEE Robotics and Automation Letters 5 (2), 2522-2529, 2020",
+    "year": 2020,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:ZeXyd9-uunAC",
+    "citations": "40",
+    "existing": "src/content/publications/2020-self-reconfiguration-in-response-to-faults-in-modular-aerial-systems.md"
+  },
+  {
+    "id": "kNdYIx-mwKoC",
+    "title": "Triangular networks for resilient formations",
+    "authors": "D Saldaña, A Prorok, MFM Campos, V Kumar",
+    "venue": "Distributed Autonomous Robotic Systems, 147-159, 2018",
+    "year": 2018,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:kNdYIx-mwKoC",
+    "citations": "37",
+    "existing": "src/content/publications/2018-triangular-networks-for-resilient-formations.md"
+  },
+  {
+    "id": "_5tno0g5mFcC",
+    "title": "Decentralized adaptive aerospace transportation of unknown loads using a team of robots",
+    "authors": "L Gao, K Aubert, D Saldana, C Danielson, R Fierro",
+    "venue": "International Symposium on Distributed Autonomous Robotic Systems, 28-41, 2024",
+    "year": 2024,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:_5tno0g5mFcC",
+    "citations": "35",
+    "existing": null
+  },
+  {
+    "id": "GtLg2Ama23sC",
+    "title": "PogoDrone: Design, Model, and Control of a Jumping Quadrotor",
+    "authors": "B Zhu, J Xu, A Charway, D Saldaña",
+    "venue": "2022 International Conference on Robotics and Automation (ICRA), 2031-2037, 2022",
+    "year": 2022,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:GtLg2Ama23sC",
+    "citations": "35",
+    "existing": "src/content/publications/2022-pogodrone-design-model-and-control-of-a-jumping-quadrotor.md"
+  },
+  {
+    "id": "LkGwnXOMwfcC",
+    "title": "Dynamic Perimeter Surveillance with a Team of Robots",
+    "authors": "D Saldaña, RJ Alitappeh, LCA Pimenta, R Assunçao, MFM Campos",
+    "venue": "Robotics and Automation (ICRA), 2016 IEEE International Conference on, 2016",
+    "year": 2016,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:LkGwnXOMwfcC",
+    "citations": "33",
+    "existing": "src/content/publications/2016-dynamic-perimeter-surveillance-with-a-team-of-robots.md"
+  },
+  {
+    "id": "PVjk1bu6vJQC",
+    "title": "Resilient Consensus in Robot Swarms With Periodic Motion and Intermittent Communication",
+    "authors": "X Yu, D Saldaña, D Shishika, MA Hsieh",
+    "venue": "IEEE Transactions on Robotics 38 (1), 110-125, 2021",
+    "year": 2021,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:PVjk1bu6vJQC",
+    "citations": "32",
+    "existing": "src/content/publications/2021-resilient-consensus-in-robot-swarms-with-periodic-motion-and-intermittent-communication.md"
+  },
+  {
+    "id": "YohjEiUPhakC",
+    "title": "Modular Multirotors: From Quadrotors to Fully-Actuated Aerial Vehicles",
+    "authors": "J Xu, DS D’antonio, D Saldaña",
+    "venue": "IEEE Transactions on Automation Science and Engineering, 2025",
+    "year": 2025,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:YohjEiUPhakC",
+    "citations": "28",
+    "existing": null
+  },
+  {
+    "id": "W7OEmFMy1HYC",
+    "title": "A distributed multi-robot approach for the detection and tracking of multiple dynamic anomalies",
+    "authors": "D Saldaña, R Assunção, MFM Campos",
+    "venue": "Robotics and Automation (ICRA), 2015 IEEE International Conference on, 1262-1267, 2015",
+    "year": 2015,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:W7OEmFMy1HYC",
+    "citations": "24",
+    "existing": "src/content/publications/2015-a-distributed-multi-robot-approach-for-the-detection-and-tracking-of-multiple-dynamic-anomalies.md"
+  },
+  {
+    "id": "rmuvC79q63oC",
+    "title": "Non-prehensile manipulation of cuboid objects using a catenary robot",
+    "authors": "GA Cardona, DS D’Antonio, CI Vasile, D Saldaña",
+    "venue": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2021",
+    "year": 2021,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:rmuvC79q63oC",
+    "citations": "20",
+    "existing": "src/content/publications/2021-non-prehensile-manipulation-of-cuboid-objects-using-a-catenary-robot.md"
+  },
+  {
+    "id": "IWHjjKOFINEC",
+    "title": "Modular Robot Formation and Routing for Resilient Consensus",
+    "authors": "X Yu, D Shishika, D Saldana, MA Hsieh",
+    "venue": "2020 American Control Conference (ACC), 2464-2471, 2020",
+    "year": 2020,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:IWHjjKOFINEC",
+    "citations": "18",
+    "existing": "src/content/publications/2020-modular-robot-formation-and-routing-for-resilient-consensus.md"
+  },
+  {
+    "id": "mB3voiENLucC",
+    "title": "Dense r-robust formations on lattices",
+    "authors": "L Guerrero-Bonilla, D Saldaña, V Kumar",
+    "venue": "2020 IEEE international conference on robotics and automation (ICRA), 6633-6639, 2020",
+    "year": 2020,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:mB3voiENLucC",
+    "citations": "18",
+    "existing": "src/content/publications/2020-dense-r-robust-formations-on-lattices.md"
+  },
+  {
+    "id": "9pM33mqn1YgC",
+    "title": "Planning for Modular Aerial Robotic Tools with Temporal Logic Constraints",
+    "authors": "GA Cardona, D Saldaña, CI Vasile",
+    "venue": "2022 IEEE 61st Conference on Decision and Control (CDC), 2878-2883, 2022",
+    "year": 2022,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:9pM33mqn1YgC",
+    "citations": "17",
+    "existing": null
+  },
+  {
+    "id": "bz8QjSJIRt4C",
+    "title": "Learning to Navigate in Turbulent Flows With Aerial Robot Swarms: A Cooperative Deep Reinforcement Learning Approach",
+    "authors": "D Patiño, S Mayya, J Calderon, K Daniilidis, D Saldaña",
+    "venue": "IEEE Robotics and Automation Letters 8 (7), 4219-4226, 2023",
+    "year": 2023,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:bz8QjSJIRt4C",
+    "citations": "16",
+    "existing": null
+  },
+  {
+    "id": "5qfkUJPXOUwC",
+    "title": "Vision-Based Self-Assembly for Modular Multirotor Structures",
+    "authors": "Y Litman, N Gandhi, LTX Phan, D Saldaña",
+    "venue": "IEEE Robotics and Automation Letters 6 (2), 2202-2208, 2021",
+    "year": 2021,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:5qfkUJPXOUwC",
+    "citations": "16",
+    "existing": "src/content/publications/2021-vision-based-self-assembly-for-modular-multirotor-structures.md"
+  },
+  {
+    "id": "kh2fBNsKQNwC",
+    "title": "Folding Knots Using a Team of Aerial Robots",
+    "authors": "DS D’Antonio, D Saldaña",
+    "venue": "2022 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2022",
+    "year": 2022,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:kh2fBNsKQNwC",
+    "citations": "15",
+    "existing": "src/content/publications/2022-folding-knots-using-a-team-of-aerial-robots.md"
+  },
+  {
+    "id": "_axFR9aDTf0C",
+    "title": "Adaptive Control for Cooperative Aerial Transportation Using Catenary Robots",
+    "authors": "GA Cardona, DS D'Antonio, R Fierro, D Saldaña",
+    "venue": "2021 Aerial Robotic Systems Physically Interacting with the Environment …, 2021",
+    "year": 2021,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:_axFR9aDTf0C",
+    "citations": "15",
+    "existing": "src/content/publications/2021-adaptive-control-for-cooperative-aerial-transportation-using-catenary-robots.md"
+  },
+  {
+    "id": "3fE2CSJIrl8C",
+    "title": "Cooperative Prediction of Time-Varying Boundaries with a Team of Robots",
+    "authors": "D Saldaña, R Assunçao, MA Hsieh, MFM Campos, V Kumar",
+    "venue": "International Symposium on Multi-Robot and Multi-Agent Systems - MRS, 2017",
+    "year": 2017,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:3fE2CSJIrl8C",
+    "citations": "15",
+    "existing": "src/content/publications/2017-cooperative-prediction-of-time-varying-boundaries-with-a-team-of-robots.md"
+  },
+  {
+    "id": "anf4URPfarAC",
+    "title": "SBlimp: Design, Model, and Translational Motion Control for a Swing-Blimp",
+    "authors": "J Xu, DS D'antonio, DJ Ammirato, D Saldaña",
+    "venue": "2023 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2023",
+    "year": 2023,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:anf4URPfarAC",
+    "citations": "14",
+    "existing": "src/content/publications/2023-sblimp-design-model-and-translational-motion-control-for-a-swing-blimp.md"
+  },
+  {
+    "id": "Ri6SYOTghG4C",
+    "title": "Finding Structure Configurations for Flying Modular Robots",
+    "authors": "B Gabrich, D Saldaña, M Yim",
+    "venue": "2021 IEEE/RSJ International Conference on Intelligent Robots and Systems …, 2021",
+    "year": 2021,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:Ri6SYOTghG4C",
+    "citations": "13",
+    "existing": "src/content/publications/2021-finding-structure-configurations-for-flying-modular-robots.md"
+  },
+  {
+    "id": "9ZlFYXVOiuMC",
+    "title": "Resilient backbones in hexagonal robot formations",
+    "authors": "D Saldaña, L Guerrero-Bonilla, V Kumar",
+    "venue": "The 14th International Symposium on Distributed Autonomous Robotic Systems, 2018",
+    "year": 2018,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:9ZlFYXVOiuMC",
+    "citations": "13",
+    "existing": "src/content/publications/2018-resilient-backbones-in-hexagonal-robot-formations.md"
+  },
+  {
+    "id": "LO7wyVUgiFcC",
+    "title": "Finding optimal modular robots for aerial tasks",
+    "authors": "J Xu, D Saldaña",
+    "venue": "2023 IEEE International Conference on Robotics and Automation (ICRA), 11922 …, 2023",
+    "year": 2023,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:LO7wyVUgiFcC",
+    "citations": "12",
+    "existing": "src/content/publications/2023-finding-optimal-modular-robots-for-aerial-tasks.md"
+  },
+  {
+    "id": "YOwf2qJgpHMC",
+    "title": "Predicting Environmental Boundary Behaviors With a Mobile Robot",
+    "authors": "D Saldaña, R Assunção, MFM Campos",
+    "venue": "IEEE Robotics and Automation Letters 1 (2), 1133-1139, 2016",
+    "year": 2016,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:YOwf2qJgpHMC",
+    "citations": "9",
+    "existing": "src/content/publications/2016-predicting-environmental-boundary-behaviors-with-a-mobile-robot.md"
+  },
+  {
+    "id": "4fGpz3EwCPoC",
+    "title": "Adaptive malicious robot detection in dynamic topologies",
+    "authors": "M Cavorsi, N Jadhav, D Saldaña, S Gil",
+    "venue": "2022 IEEE 61st Conference on Decision and Control (CDC), 2236-2243, 2022",
+    "year": 2022,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:4fGpz3EwCPoC",
+    "citations": "8",
+    "existing": null
+  },
+  {
+    "id": "8d8msizDQcsC",
+    "title": "Dynamic crowd vetting: Collaborative detection of malicious robots in dynamic communication networks",
+    "authors": "M Cavorsi, F Mallmann-Trenn, D Saldana, S Gil",
+    "venue": "2023 62nd IEEE Conference on Decision and Control (CDC), 7546-7553, 2023",
+    "year": 2023,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:8d8msizDQcsC",
+    "citations": "7",
+    "existing": null
+  },
+  {
+    "id": "_FM0Bhl9EiAC",
+    "title": "Forming and Controlling Hitches in Midair Using Aerial Robots",
+    "authors": "DS D’Antonio, S Bhattacharya, D Saldaña",
+    "venue": "2023 IEEE International Conference on Robotics and Automation (ICRA), 1270-1276, 2023",
+    "year": 2023,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:_FM0Bhl9EiAC",
+    "citations": "7",
+    "existing": "src/content/publications/2023-forming-and-controlling-hitches-in-midair-using-aerial-robots.md"
+  },
+  {
+    "id": "NXb4pA-qfm4C",
+    "title": "A Novel Low-Cost, Recyclable, Easy-to-Build Robot Blimp For Transporting Supplies in Hard-to-Reach Locations",
+    "authors": "K Li, S Hou, M Negash, J Xu, E Jeffs, DS D'Antonio, D Saldaña",
+    "venue": "2023 IEEE Global Humanitarian Technology Conference (GHTC), 36-42, 2023",
+    "year": 2023,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:NXb4pA-qfm4C",
+    "citations": "6",
+    "existing": null
+  },
+  {
+    "id": "hFOr9nPyWt4C",
+    "title": "Estimating boundary dynamics using robotic sensor networks with pointwise measurements",
+    "authors": "D Saldaña, R Assunção, MA Hsieh, MFM Campos, V Kumar",
+    "venue": "Autonomous Robots, 1-16, 2021",
+    "year": 2021,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:hFOr9nPyWt4C",
+    "citations": "6",
+    "existing": "src/content/publications/2021-estimating-boundary-dynamics-using-robotic-sensor-networks-with-pointwise-measurements.md"
+  },
+  {
+    "id": "mlAyqtXpCwEC",
+    "title": "From Hitch to Lift: Autonomous Cable Interlacing by Multi-UAV Teams for Aerial Grasping and Transportation",
+    "authors": "DS D'Antonio, T Wu, S Bhattacharya, D Saldaña",
+    "venue": "IEEE Transactions on Robotics, 2026",
+    "year": 2026,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:mlAyqtXpCwEC",
+    "citations": "5",
+    "existing": null
+  },
+  {
+    "id": "XvxMoLDsR5gC",
+    "title": "The spinning blimp: Design and control of a novel minimalist aerial vehicle leveraging rotational dynamics and locomotion",
+    "authors": "L Santens, DS D'Antonio, S Hou, D Saldaña",
+    "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA), 6350-6356, 2025",
+    "year": 2025,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:XvxMoLDsR5gC",
+    "citations": "5",
+    "existing": "src/content/publications/2025-spinning-blimp.md"
+  },
+  {
+    "id": "IjCSPb-OGe4C",
+    "title": "Improved algorithm for perimeter tracking in robotic sensor networks",
+    "authors": "D Saldaña, D Ovalle, A Montoya",
+    "venue": "Informatica (CLEI), 2012 XXXVIII Conferencia Latinoamericana En, 1-7, 2012",
+    "year": 2012,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:IjCSPb-OGe4C",
+    "citations": "5",
+    "existing": null
+  },
+  {
+    "id": "umqufdRvDiIC",
+    "title": "MochiSwarm: A testbed for robotic blimps in realistic environments",
+    "authors": "J Xu, T Vu, DS D'Antonio, D Saldaña",
+    "venue": "2025 IEEE International Conference on Robotics and Automation (ICRA …, 2025",
+    "year": 2025,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:umqufdRvDiIC",
+    "citations": "4",
+    "existing": "src/content/publications/2025-mochiswarm.md"
+  },
+  {
+    "id": "zYLM7Y9cAGgC",
+    "title": "Searching and tracking anomalies with multiple robots: A probabilistic approach",
+    "authors": "D Saldaña, L Chaimowicz, MFM Campos",
+    "venue": "Robotics: SBR-LARS Robotics Symposium and Robocontrol (SBR LARS Robocontrol …, 2014",
+    "year": 2014,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:zYLM7Y9cAGgC",
+    "citations": "2",
+    "existing": "src/content/publications/2014-searching-and-tracking-anomalies-with-multiple-robots-a-probabilistic-approach.md"
+  },
+  {
+    "id": "_kc_bZDykSQC",
+    "title": "A multi-agent model to control robotic sensor networks",
+    "authors": "D Saldaña, D Ovalle, A Montoya",
+    "venue": "2012 7th Colombian Computing Congress (CCC), 1-6, 2012",
+    "year": 2012,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:_kc_bZDykSQC",
+    "citations": "2",
+    "existing": null
+  },
+  {
+    "id": "WJVC3Jt7v1AC",
+    "title": "FlySurf: A Flying Robotic Surface with Shape Morphing Control",
+    "authors": "K Aubert, D Saldaña, R Fierro",
+    "venue": "2025 American Control Conference (ACC), 2017-2022, 2025",
+    "year": 2025,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:WJVC3Jt7v1AC",
+    "citations": "1",
+    "existing": null
+  },
+  {
+    "id": "WF5omc3nYNoC",
+    "title": "Searching for regions out of normal conditions using a team of robots",
+    "authors": "D Saldaña, L Chaimowicz, MFM Campos",
+    "venue": "Latin American Robotics Symposium, 1-15, 2014",
+    "year": 2014,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:WF5omc3nYNoC",
+    "citations": "1",
+    "existing": "src/content/publications/2015-searching-for-regions-out-of-normal-conditions-using-a-team-of-robots.md"
+  },
+  {
+    "id": "6ZxmRoH8BuwC",
+    "title": "Decentralized Adaptive Aerospace Transportation of Unknown Loads Using",
+    "authors": "L Gao, K Aubert¹, D Saldaña, C Danielson",
+    "venue": "Distributed Autonomous Robotic Systems: 17th International Symposium, 28, 2025",
+    "year": 2025,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:6ZxmRoH8BuwC",
+    "citations": "",
+    "existing": null
+  },
+  {
+    "id": "DUooU5lO8OsC",
+    "title": "quasi-Dynamic Crowd Vetting: Collaborative Detection of Malicious Robots in Dynamic Communication Networks",
+    "authors": "M Cavorsi, F Mallmann-Trenn, D Saldaña, S Gil",
+    "venue": "IEEE Transactions on Robotics, 2025",
+    "year": 2025,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:DUooU5lO8OsC",
+    "citations": "",
+    "existing": null
+  },
+  {
+    "id": "sNmaIFBj_lkC",
+    "title": "Reconfigurable Systems",
+    "authors": "D Saldana, G Knizhnik, B Gabrich, M Yim",
+    "venue": "Encyclopedia of Robotics, pp 1–11, 2025",
+    "year": 2025,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:sNmaIFBj_lkC",
+    "citations": "",
+    "existing": null
+  },
+  {
+    "id": "IRz6iEL74y4C",
+    "title": "FlySurf: A Flying Robotic Surface with Shape Morphing and Motion Control",
+    "authors": "K Aubert De Luchi Lomellini",
+    "venue": "",
+    "year": 2025,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:IRz6iEL74y4C",
+    "citations": "",
+    "existing": null
+  },
+  {
+    "id": "a9-T7VOCCH8C",
+    "title": "Rotor Fault Detection and Isolation in Aerial Vehicles with Dozens of Rotors",
+    "authors": "N Gandhi, J Xu, D Saldaña, LTX Phan",
+    "venue": "2024 Latin American Robotics Symposium (LARS), 1-6, 2024",
+    "year": 2024,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:a9-T7VOCCH8C",
+    "citations": "",
+    "existing": null
+  },
+  {
+    "id": "HtEfBTGE9r8C",
+    "title": "KT-Imitation: Efficient Visual Imitation for Autonomous Navigation Based on Keypoint Timeline",
+    "authors": "K Li, H Qi, J Xu, E Jeffs, D Saldaña",
+    "venue": "2024 Latin American Robotics Symposium (LARS), 1-6, 2024",
+    "year": 2024,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:HtEfBTGE9r8C",
+    "citations": "",
+    "existing": null
+  },
+  {
+    "id": "YsMSGLbcyi4C",
+    "title": "Detecting Latent Variables of Interest in Geo-localized Environments Using an Aerial Robot",
+    "authors": "D Saldana, R Melo, ER Nascimento, MFM Campos",
+    "venue": "Robotics: SBR-LARS Robotics Symposium and Robocontrol (SBR LARS Robocontrol), 2015",
+    "year": 2015,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:YsMSGLbcyi4C",
+    "citations": "",
+    "existing": "src/content/publications/2015-detecting-latent-variables-of-interest-in-geo-localized-environments-using-an-aerial-robot.md"
+  },
+  {
+    "id": "FAceZFleit8C",
+    "title": "Customizable-ModQuad: a Versatile Hardware-Software Platform to Develop Lightweight and Low-cost Aerial Vehicles",
+    "authors": "DS D’Antonio, J Xu, GA Cardona, D Saldaña",
+    "venue": "",
+    "year": null,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:FAceZFleit8C",
+    "citations": "",
+    "existing": null
+  },
+  {
+    "id": "eQOLeE2rZwMC",
+    "title": "Y-Rescue Team Description Paper",
+    "authors": "A Tavares, D Saldana, H Azpúrua, J Pimentel, O Pino, R Colares, ...",
+    "venue": "",
+    "year": null,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=VU1s_Z8AAAAJ&pagesize=100&citation_for_view=VU1s_Z8AAAAJ:eQOLeE2rZwMC",
+    "citations": "",
+    "existing": null
+  }
+]

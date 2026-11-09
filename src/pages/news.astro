@@ -1,0 +1,13 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import { withBase } from '../lib/paths';
+import { youtubeLinkAttributes } from '../lib/links';
+import news from '../data/news.json';
+---
+<BaseLayout title="News & highlights">
+  <PageHeader eyebrow="Around the lab" title="News & highlights" lead="Research milestones, robotics competitions, and opportunities to share our work with the community." />
+  <div class="container-page py-12"><div class="space-y-9">{news.map(n=><article class="grid items-start gap-6 border-b border-slate-200 pb-9 sm:grid-cols-[15rem_1fr]"><img src={withBase(n.image)} alt="" width="640" height="427" loading="lazy" class="aspect-[3/2] w-full rounded-lg object-cover" /><div><h2 class="font-serif text-2xl"><a href={n.url} {...youtubeLinkAttributes(n.url)} class="hover:text-primary-700">{n.title}</a></h2><p class="mt-3 max-w-2xl leading-relaxed text-slate-600">{n.body}</p><a href={n.url} {...youtubeLinkAttributes(n.url)} class="mt-4 inline-block text-sm font-semibold text-primary-700 hover:underline">Read more ↗</a>{n.title.includes('WORKSHOP')&&<a href={withBase('/lab-life/')} class="mt-4 ml-5 inline-block text-sm font-semibold text-primary-700 hover:underline">Workshop photos →</a>}</div></article>)}</div>
+  <section class="mt-12"><h2 class="font-serif text-2xl">In the media</h2><ul class="mt-5 space-y-4 text-primary-700"><li><a href="https://penntoday.upenn.edu/news/grasp-labs-high-flying-robots" class="hover:underline">Penn Today — GRASP Lab’s high-flying robots ↗</a></li><li><a href="https://www.youtube.com/watch?v=DKE3uISUxdg" target="_blank" rel="noopener noreferrer" class="hover:underline">Lehigh Engineering — Using robots to help people ↗</a></li><li><a href="https://m-cacm.acm.org/news/228085-saving-lives-with-aerial-drones/fulltext?mobile=true" class="hover:underline">Communications of the ACM — Saving lives with aerial drones ↗</a></li><li><a href="https://youtu.be/OHMvz1UageA" target="_blank" rel="noopener noreferrer" class="hover:underline">Discovery Channel Canada — ModQuad on Daily Planet ↗</a></li></ul></section>
+  </div>
+</BaseLayout>

@@ -1,0 +1,355 @@
+{
+  "profile": "https://scholar.google.com/citations?user=VU1s_Z8AAAAJ",
+  "retrieved": "2026-11-08",
+  "scholarRows": 57,
+  "representedWorks": 56,
+  "added": 19,
+  "totalPublications": 57,
+  "coverage": [
+    {
+      "scholarId": "Se3iqnhoufwC",
+      "scholarTitle": "Resilient Flocking for Mobile Robot Teams",
+      "scholarYear": 2017,
+      "file": "2017-resilient-flocking-for-mobile-robot-teams.md"
+    },
+    {
+      "scholarId": "qxL8FJ1GzNcC",
+      "scholarTitle": "ModQuad: the flying modular structure that self-assembles in midair",
+      "scholarYear": 2018,
+      "file": "2018-modquad-the-flying-modular-structure-that-self-assembles-in-midair.md"
+    },
+    {
+      "scholarId": "8k81kl-MbHgC",
+      "scholarTitle": "Resilient consensus for time-varying networks of dynamic agents",
+      "scholarYear": 2017,
+      "file": "2017-resilient-consensus-for-time-varying-networks-of-dynamic-agents.md"
+    },
+    {
+      "scholarId": "HDshCWvjkbEC",
+      "scholarTitle": "Resilient Task Allocation in Heterogeneous Multi-Robot Systems",
+      "scholarYear": 2021,
+      "file": "2021-resilient-task-allocation-in-heterogeneous-multi-robot-systems.md"
+    },
+    {
+      "scholarId": "aqlVkmm33-oC",
+      "scholarTitle": "A Flying Gripper Based on Cuboid Modular Robots",
+      "scholarYear": 2018,
+      "file": "2018-a-flying-gripper-based-on-cuboid-modular-robots.md"
+    },
+    {
+      "scholarId": "ClCfbGk0d_YC",
+      "scholarTitle": "The catenary robot: Design and control of a cable propelled by two quadrotors",
+      "scholarYear": 2021,
+      "file": "2021-the-catenary-robot-design-and-control-of-a-cable-propelled-by-two-quadrotors.md"
+    },
+    {
+      "scholarId": "dhFuZR0502QC",
+      "scholarTitle": "ModQuad-Vi: A vision-based self-assembling modular quadrotor",
+      "scholarYear": 2019,
+      "file": "2019-modquad-vi-a-vision-based-self-assembling-modular-quadrotor.md"
+    },
+    {
+      "scholarId": "L8Ckcad2t8MC",
+      "scholarTitle": "Design and Control of Aerial Modules for Inflight Self-disassembly",
+      "scholarYear": 2019,
+      "file": "2019-design-and-control-of-aerial-modules-for-inflight-self-disassembly.md"
+    },
+    {
+      "scholarId": "4hFrxpcac9AC",
+      "scholarTitle": "AirBender: Adaptive transportation of bendable objects using dual UAVs",
+      "scholarYear": 2025,
+      "file": "2025-airbender-adaptive-transportation-of-bendable-objects-using-dual-uavs.md"
+    },
+    {
+      "scholarId": "MXK_kJrjxJIC",
+      "scholarTitle": "A decentralized algorithm for assembling structures with modular robots",
+      "scholarYear": 2017,
+      "file": "2017-a-decentralized-algorithm-for-assembling-structures-with-modular-robots.md"
+    },
+    {
+      "scholarId": "hCrLmN-GePgC",
+      "scholarTitle": "H-modquad: Modular multi-rotors with 4, 5, and 6 controllable dof",
+      "scholarYear": 2021,
+      "file": "2021-h-modquad-modular-multi-rotors-with-4-5-and-6-controllable-dof.md"
+    },
+    {
+      "scholarId": "QIV2ME_5wuYC",
+      "scholarTitle": "Design Guarantees for Resilient Robot Formations on Lattices",
+      "scholarYear": 2018,
+      "file": "2019-design-guarantees-for-resilient-robot-formations-on-lattices.md"
+    },
+    {
+      "scholarId": "5nxA0vEk-isC",
+      "scholarTitle": "Distributed multi-robot coordination for dynamic perimeter surveillance in uncertain environments",
+      "scholarYear": 2017,
+      "file": "2017-distributed-multi-robot-coordination-for-dynamic-perimeter-surveillance-in-uncertain-environments.md"
+    },
+    {
+      "scholarId": "ZeXyd9-uunAC",
+      "scholarTitle": "Self-reconfiguration in response to faults in modular aerial systems",
+      "scholarYear": 2020,
+      "file": "2020-self-reconfiguration-in-response-to-faults-in-modular-aerial-systems.md"
+    },
+    {
+      "scholarId": "kNdYIx-mwKoC",
+      "scholarTitle": "Triangular networks for resilient formations",
+      "scholarYear": 2018,
+      "file": "2018-triangular-networks-for-resilient-formations.md"
+    },
+    {
+      "scholarId": "_5tno0g5mFcC",
+      "scholarTitle": "Decentralized adaptive aerospace transportation of unknown loads using a team of robots",
+      "scholarYear": 2024,
+      "file": "2025-decentralized-adaptive-aerospace-transportation-of-unknown-loads-using-a-team-of-robots.md"
+    },
+    {
+      "scholarId": "GtLg2Ama23sC",
+      "scholarTitle": "PogoDrone: Design, Model, and Control of a Jumping Quadrotor",
+      "scholarYear": 2022,
+      "file": "2022-pogodrone-design-model-and-control-of-a-jumping-quadrotor.md"
+    },
+    {
+      "scholarId": "LkGwnXOMwfcC",
+      "scholarTitle": "Dynamic Perimeter Surveillance with a Team of Robots",
+      "scholarYear": 2016,
+      "file": "2016-dynamic-perimeter-surveillance-with-a-team-of-robots.md"
+    },
+    {
+      "scholarId": "PVjk1bu6vJQC",
+      "scholarTitle": "Resilient Consensus in Robot Swarms With Periodic Motion and Intermittent Communication",
+      "scholarYear": 2021,
+      "file": "2021-resilient-consensus-in-robot-swarms-with-periodic-motion-and-intermittent-communication.md"
+    },
+    {
+      "scholarId": "YohjEiUPhakC",
+      "scholarTitle": "Modular Multirotors: From Quadrotors to Fully-Actuated Aerial Vehicles",
+      "scholarYear": 2025,
+      "file": "2025-modular-multirotors-from-quadrotors-to-fully-actuated-aerial-vehicles.md"
+    },
+    {
+      "scholarId": "W7OEmFMy1HYC",
+      "scholarTitle": "A distributed multi-robot approach for the detection and tracking of multiple dynamic anomalies",
+      "scholarYear": 2015,
+      "file": "2015-a-distributed-multi-robot-approach-for-the-detection-and-tracking-of-multiple-dynamic-anomalies.md"
+    },
+    {
+      "scholarId": "rmuvC79q63oC",
+      "scholarTitle": "Non-prehensile manipulation of cuboid objects using a catenary robot",
+      "scholarYear": 2021,
+      "file": "2021-non-prehensile-manipulation-of-cuboid-objects-using-a-catenary-robot.md"
+    },
+    {
+      "scholarId": "IWHjjKOFINEC",
+      "scholarTitle": "Modular Robot Formation and Routing for Resilient Consensus",
+      "scholarYear": 2020,
+      "file": "2020-modular-robot-formation-and-routing-for-resilient-consensus.md"
+    },
+    {
+      "scholarId": "mB3voiENLucC",
+      "scholarTitle": "Dense r-robust formations on lattices",
+      "scholarYear": 2020,
+      "file": "2020-dense-r-robust-formations-on-lattices.md"
+    },
+    {
+      "scholarId": "9pM33mqn1YgC",
+      "scholarTitle": "Planning for Modular Aerial Robotic Tools with Temporal Logic Constraints",
+      "scholarYear": 2022,
+      "file": "2022-planning-for-modular-aerial-robotic-tools-with-temporal-logic-constraints.md"
+    },
+    {
+      "scholarId": "bz8QjSJIRt4C",
+      "scholarTitle": "Learning to Navigate in Turbulent Flows With Aerial Robot Swarms: A Cooperative Deep Reinforcement Learning Approach",
+      "scholarYear": 2023,
+      "file": "2023-learning-to-navigate-in-turbulent-flows-with-aerial-robot-swarms-a-cooperative-deep-reinforcement-learning-approach.md"
+    },
+    {
+      "scholarId": "5qfkUJPXOUwC",
+      "scholarTitle": "Vision-Based Self-Assembly for Modular Multirotor Structures",
+      "scholarYear": 2021,
+      "file": "2021-vision-based-self-assembly-for-modular-multirotor-structures.md"
+    },
+    {
+      "scholarId": "kh2fBNsKQNwC",
+      "scholarTitle": "Folding Knots Using a Team of Aerial Robots",
+      "scholarYear": 2022,
+      "file": "2022-folding-knots-using-a-team-of-aerial-robots.md"
+    },
+    {
+      "scholarId": "_axFR9aDTf0C",
+      "scholarTitle": "Adaptive Control for Cooperative Aerial Transportation Using Catenary Robots",
+      "scholarYear": 2021,
+      "file": "2021-adaptive-control-for-cooperative-aerial-transportation-using-catenary-robots.md"
+    },
+    {
+      "scholarId": "3fE2CSJIrl8C",
+      "scholarTitle": "Cooperative Prediction of Time-Varying Boundaries with a Team of Robots",
+      "scholarYear": 2017,
+      "file": "2017-cooperative-prediction-of-time-varying-boundaries-with-a-team-of-robots.md"
+    },
+    {
+      "scholarId": "anf4URPfarAC",
+      "scholarTitle": "SBlimp: Design, Model, and Translational Motion Control for a Swing-Blimp",
+      "scholarYear": 2023,
+      "file": "2023-sblimp-design-model-and-translational-motion-control-for-a-swing-blimp.md"
+    },
+    {
+      "scholarId": "Ri6SYOTghG4C",
+      "scholarTitle": "Finding Structure Configurations for Flying Modular Robots",
+      "scholarYear": 2021,
+      "file": "2021-finding-structure-configurations-for-flying-modular-robots.md"
+    },
+    {
+      "scholarId": "9ZlFYXVOiuMC",
+      "scholarTitle": "Resilient backbones in hexagonal robot formations",
+      "scholarYear": 2018,
+      "file": "2018-resilient-backbones-in-hexagonal-robot-formations.md"
+    },
+    {
+      "scholarId": "LO7wyVUgiFcC",
+      "scholarTitle": "Finding optimal modular robots for aerial tasks",
+      "scholarYear": 2023,
+      "file": "2023-finding-optimal-modular-robots-for-aerial-tasks.md"
+    },
+    {
+      "scholarId": "YOwf2qJgpHMC",
+      "scholarTitle": "Predicting Environmental Boundary Behaviors With a Mobile Robot",
+      "scholarYear": 2016,
+      "file": "2016-predicting-environmental-boundary-behaviors-with-a-mobile-robot.md"
+    },
+    {
+      "scholarId": "4fGpz3EwCPoC",
+      "scholarTitle": "Adaptive malicious robot detection in dynamic topologies",
+      "scholarYear": 2022,
+      "file": "2022-adaptive-malicious-robot-detection-in-dynamic-topologies.md"
+    },
+    {
+      "scholarId": "8d8msizDQcsC",
+      "scholarTitle": "Dynamic crowd vetting: Collaborative detection of malicious robots in dynamic communication networks",
+      "scholarYear": 2023,
+      "file": "2023-dynamic-crowd-vetting-collaborative-detection-of-malicious-robots-in-dynamic-communication-networks.md"
+    },
+    {
+      "scholarId": "_FM0Bhl9EiAC",
+      "scholarTitle": "Forming and Controlling Hitches in Midair Using Aerial Robots",
+      "scholarYear": 2023,
+      "file": "2023-forming-and-controlling-hitches-in-midair-using-aerial-robots.md"
+    },
+    {
+      "scholarId": "NXb4pA-qfm4C",
+      "scholarTitle": "A Novel Low-Cost, Recyclable, Easy-to-Build Robot Blimp For Transporting Supplies in Hard-to-Reach Locations",
+      "scholarYear": 2023,
+      "file": "2023-a-novel-low-cost-recyclable-easy-to-build-robot-blimp-for-transporting-supplies-in-hard-to-reach-locations.md"
+    },
+    {
+      "scholarId": "hFOr9nPyWt4C",
+      "scholarTitle": "Estimating boundary dynamics using robotic sensor networks with pointwise measurements",
+      "scholarYear": 2021,
+      "file": "2021-estimating-boundary-dynamics-using-robotic-sensor-networks-with-pointwise-measurements.md"
+    },
+    {
+      "scholarId": "mlAyqtXpCwEC",
+      "scholarTitle": "From Hitch to Lift: Autonomous Cable Interlacing by Multi-UAV Teams for Aerial Grasping and Transportation",
+      "scholarYear": 2026,
+      "file": "2026-from-hitch-to-lift-autonomous-cable-interlacing-by-multi-uav-teams-for-aerial-grasping-and-transportation.md"
+    },
+    {
+      "scholarId": "XvxMoLDsR5gC",
+      "scholarTitle": "The spinning blimp: Design and control of a novel minimalist aerial vehicle leveraging rotational dynamics and locomotion",
+      "scholarYear": 2025,
+      "file": "2025-spinning-blimp.md"
+    },
+    {
+      "scholarId": "IjCSPb-OGe4C",
+      "scholarTitle": "Improved algorithm for perimeter tracking in robotic sensor networks",
+      "scholarYear": 2012,
+      "file": "2012-improved-algorithm-for-perimeter-tracking-in-robotic-sensor-networks.md"
+    },
+    {
+      "scholarId": "umqufdRvDiIC",
+      "scholarTitle": "MochiSwarm: A testbed for robotic blimps in realistic environments",
+      "scholarYear": 2025,
+      "file": "2025-mochiswarm.md"
+    },
+    {
+      "scholarId": "zYLM7Y9cAGgC",
+      "scholarTitle": "Searching and tracking anomalies with multiple robots: A probabilistic approach",
+      "scholarYear": 2014,
+      "file": "2014-searching-and-tracking-anomalies-with-multiple-robots-a-probabilistic-approach.md"
+    },
+    {
+      "scholarId": "_kc_bZDykSQC",
+      "scholarTitle": "A multi-agent model to control robotic sensor networks",
+      "scholarYear": 2012,
+      "file": "2012-a-multi-agent-model-to-control-robotic-sensor-networks.md"
+    },
+    {
+      "scholarId": "WJVC3Jt7v1AC",
+      "scholarTitle": "FlySurf: A Flying Robotic Surface with Shape Morphing Control",
+      "scholarYear": 2025,
+      "file": "2025-flysurf-a-flying-robotic-surface-with-shape-morphing-control.md"
+    },
+    {
+      "scholarId": "WF5omc3nYNoC",
+      "scholarTitle": "Searching for regions out of normal conditions using a team of robots",
+      "scholarYear": 2014,
+      "file": "2015-searching-for-regions-out-of-normal-conditions-using-a-team-of-robots.md"
+    },
+    {
+      "scholarId": "6ZxmRoH8BuwC",
+      "scholarTitle": "Decentralized Adaptive Aerospace Transportation of Unknown Loads Using",
+      "scholarYear": 2025,
+      "file": "2025-decentralized-adaptive-aerospace-transportation-of-unknown-loads-using-a-team-of-robots.md"
+    },
+    {
+      "scholarId": "DUooU5lO8OsC",
+      "scholarTitle": "quasi-Dynamic Crowd Vetting: Collaborative Detection of Malicious Robots in Dynamic Communication Networks",
+      "scholarYear": 2025,
+      "file": "2025-quasi-dynamic-crowd-vetting-collaborative-detection-of-malicious-robots-in-dynamic-communication-networks.md"
+    },
+    {
+      "scholarId": "sNmaIFBj_lkC",
+      "scholarTitle": "Reconfigurable Systems",
+      "scholarYear": 2025,
+      "file": "2025-reconfigurable-systems.md"
+    },
+    {
+      "scholarId": "IRz6iEL74y4C",
+      "scholarTitle": "FlySurf: A Flying Robotic Surface with Shape Morphing and Motion Control",
+      "scholarYear": 2025,
+      "file": "2025-flysurf-a-flying-robotic-surface-with-shape-morphing-and-motion-control.md"
+    },
+    {
+      "scholarId": "a9-T7VOCCH8C",
+      "scholarTitle": "Rotor Fault Detection and Isolation in Aerial Vehicles with Dozens of Rotors",
+      "scholarYear": 2024,
+      "file": "2024-rotor-fault-detection-and-isolation-in-aerial-vehicles-with-dozens-of-rotors.md"
+    },
+    {
+      "scholarId": "HtEfBTGE9r8C",
+      "scholarTitle": "KT-Imitation: Efficient Visual Imitation for Autonomous Navigation Based on Keypoint Timeline",
+      "scholarYear": 2024,
+      "file": "2024-kt-imitation-efficient-visual-imitation-for-autonomous-navigation-based-on-keypoint-timeline.md"
+    },
+    {
+      "scholarId": "YsMSGLbcyi4C",
+      "scholarTitle": "Detecting Latent Variables of Interest in Geo-localized Environments Using an Aerial Robot",
+      "scholarYear": 2015,
+      "file": "2015-detecting-latent-variables-of-interest-in-geo-localized-environments-using-an-aerial-robot.md"
+    },
+    {
+      "scholarId": "FAceZFleit8C",
+      "scholarTitle": "Customizable-ModQuad: a Versatile Hardware-Software Platform to Develop Lightweight and Low-cost Aerial Vehicles",
+      "scholarYear": null,
+      "file": "2022-customizable-modquad-a-versatile-hardware-software-platform-to-develop-lightweight-and-low-cost-aerial-vehicles.md"
+    },
+    {
+      "scholarId": "eQOLeE2rZwMC",
+      "scholarTitle": "Y-Rescue Team Description Paper",
+      "scholarYear": null,
+      "file": "2015-y-rescue-team-description-paper.md"
+    }
+  ],
+  "retainedWebsiteOnly": [
+    "2023-toward-fine-contact-interactions-learning-to-control-normal-contact-force-with-limited-information.md"
+  ]
+}

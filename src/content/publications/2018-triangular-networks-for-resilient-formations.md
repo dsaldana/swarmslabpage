@@ -1,0 +1,21 @@
+---
+title: "Triangular Networks for Resilient Formations"
+authors: ["David Saldaña", "Amanda Prorok", "Mario F. M. Campos", "Vijay Kumar"]
+year: 2018
+journal: "Distributed Autonomous Robotic Systems: The 13th International Symposium"
+publicationType: "chapter"
+areas: ["resilient-swarms"]
+doi: "10.1007/978-3-319-73008-0_11"
+url: "https://doi.org/10.1007/978-3-319-73008-0_11"
+resources: [{"label": "Full text", "url": "https://doi.org/10.1007/978-3-319-73008-0_11"}]
+abstract: "Consensus algorithms allow multiple robots to achieve agreement on estimates of variables in a distributed manner, hereby coordinating the robots as a team, and enabling applications such as formation control and cooperative area coverage. These algorithms achieve agreement by relying only on local, nearest-neighbor communication. The problem with distributed consensus, however, is that a single malicious or faulty robot can control and manipulate the whole network. The objective of this paper is to propose a formation topology that is resilient to one malicious node, and that satisfies two important properties for distributed systems: (i) it can be constructed incrementally by adding one node at a time in such a way that the conditions for attachment can be computed locally, and (ii) its robustness can be verified through a distributed method by using only neighborhood-based information. Our topology is characterized by triangular robust graphs, consists of a modular structure, is fully scalable, and is well suited for applications of large-scale networks. We describe how our proposed topology can be used to deploy networks of robots. Results show how triangular robust networks guarantee asymptotic consensus in the face of a malicious agent."
+bibtex: "@inbook{Saldaña2018,\n\ntitle = {Triangular Networks for Resilient Formations},\n\nauthor = {David Saldaña and Amanda Prorok and Mario F. M. Campos and Vijay Kumar},\n\neditor = {Roderich Groß and Andreas Kolling and Spring Berman and Emilio Frazzoli and Alcherio Martinoli and Fumitoshi Matsuno and Melvin Gauci},\n\nurl = {https://doi.org/10.1007/978-3-319-73008-0_11},\n\ndoi = {10.1007/978-3-319-73008-0_11},\n\nisbn = {978-3-319-73008-0},\n\nyear  = {2018},\n\ndate = {2018-01-01},\n\nurldate = {2018-01-01},\n\nbooktitle = {Distributed Autonomous Robotic Systems: The 13th International Symposium},\n\npages = {147--159},\n\npublisher = {Springer International Publishing},\n\naddress = {Cham},\n\nabstract = {Consensus algorithms allow multiple robots to achieve agreement on estimates of variables in a distributed manner, hereby coordinating the robots as a team, and enabling applications such as formation control and cooperative area coverage. These algorithms achieve agreement by relying only on local, nearest-neighbor communication. The problem with distributed consensus, however, is that a single malicious or faulty robot can control and manipulate the whole network. The objective of this paper is to propose a formation topology that is resilient to one malicious node, and that satisfies two important properties for distributed systems: (i) it can be constructed incrementally by adding one node at a time in such a way that the conditions for attachment can be computed locally, and (ii) its robustness can be verified through a distributed method by using only neighborhood-based information. Our topology is characterized by triangular robust graphs, consists of a modular structure, is fully scalable, and is well suited for applications of large-scale networks. We describe how our proposed topology can be used to deploy networks of robots. Results show how triangular robust networks guarantee asymptotic consensus in the face of a malicious agent.},\n\nkeywords = {resilient consensus, robot networks, robot swarms},\n\npubstate = {published},\n\ntppubtype = {inbook}\n\n}"
+scholarIds: ["kNdYIx-mwKoC"]
+scholarUrl: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=VU1s_Z8AAAAJ&citation_for_view=VU1s_Z8AAAAJ:kNdYIx-mwKoC"
+scholarChecked: "2026-11-08"
+image: "../../../public/wp-content/uploads/2022/01/triangular2.png"
+imageAlt: "Triangular network geometry and communication ranges for resilient formations."
+imageSource: "https://swarmslab.com/wp-content/uploads/2022/01/triangular2.png"
+---
+
+

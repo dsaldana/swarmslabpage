@@ -1,0 +1,1660 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 2074864,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2025-04-21T05:10:08Z",
+          "timestamp": 1745212208059,
+          "version": "3.40.4"
+        },
+        "publisher-location": "New York, NY",
+        "reference-count": 70,
+        "publisher": "Springer New York",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9781461417453"
+          },
+          {
+            "type": "electronic",
+            "value": "9781461417460"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2013
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-1-4614-1746-0_3",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2012,
+              11,
+              19
+            ]
+          ],
+          "date-time": "2012-11-19T15:59:24Z",
+          "timestamp": 1353340764000
+        },
+        "page": "41-94",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Reconfigurable Systems"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Antonio Carlos Schneider",
+            "family": "Beck",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Monica Magalhães",
+            "family": "Pereira",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2012,
+              10,
+              20
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "3_CR1",
+            "unstructured": "Arnold, J.M., et al.: The splash 2 processor and applications. In: International Conference on Computer Design. CS Press, Mun̈chen (1993)"
+          },
+          {
+            "issue": "3",
+            "key": "3_CR2",
+            "doi-asserted-by": "crossref",
+            "first-page": "11",
+            "DOI": "10.1109/2.204677",
+            "volume": "26",
+            "author": "P.M. Athanas",
+            "year": "1993",
+            "unstructured": "Athanas, P.M., Silverman, H.F.: Processor reconfiguration through instruction-set metamorphosis. Computer 26(3), 11–18 (1993). doi: http://dx.doi.org/10.1109/2.204677",
+            "journal-title": "Computer"
+          },
+          {
+            "key": "3_CR3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Barat, F., Lauwereins, R.: Reconfigurable instruction set processors: a survey. In: RSP ’00: Proceedings of the 11th IEEE International Workshop on Rapid System Prototyping (RSP 2000), p. 168. IEEE Computer Society, Washington, DC (2000)",
+            "DOI": "10.1109/IWRSP.2000.855217"
+          },
+          {
+            "key": "3_CR4",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Barua, R., Lee, W., Amarasinghe, S., Agarwal, A.: Maps: a compiler-managed memory system for raw machines. In: Proceedings of the 26th International Symposium on Computer Architecture, pp. 4–15. IEEE Computer Society, Los Alamitos (1998)",
+            "DOI": "10.1145/307338.300980"
+          },
+          {
+            "key": "3_CR5",
+            "unstructured": "Barua, R., Lee, W., Amarasinghe, S., Agarwal, A.: Memory bank disambiguation using modulo unrolling for raw machines. In: Proceedings of the ACM/IEEE Fifth Int’l Conference on High Performance Computing(HIPC) (1998)"
+          },
+          {
+            "issue": "2",
+            "key": "3_CR6",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1023/A:1024499601571",
+            "volume": "26",
+            "author": "V. Baumgarte",
+            "year": "2003",
+            "unstructured": "Baumgarte, V., Ehlers, G., May, F., Nückel, A., Vorbach, M., Weinhardt, M.: Pact xpp—a self-reconfigurable data processing architecture. J. Supercomput. 26(2), 167–184 (2003). doi: http://dx.doi.org/10.1023/A:1024499601571",
+            "journal-title": "J. Supercomput."
+          },
+          {
+            "key": "3_CR7",
+            "unstructured": "Becker, J., Pionteck, T., Glesner, M.: DReAM: ADynamicallyReconfigurable architecture for future mobile communication applications. In: Field-Programmable Logic and Applications: The Roadmap to Reconfigurable Computing. Lecture Notes in Computer Science, vol. 1896, pp. 312–321. Springer Berlin/Heidelberg (2000). http://www.springerlink.com/content/3kvjdm6qxf9k7xt5/"
+          },
+          {
+            "key": "3_CR8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bittner Jr. R., Athanas, P.M., Musgrove, M.D.: Colt: an experiment in wormhole run-time reconfiguration. In: High-Speed Computing, Digital Signal Processing, and Filtering Using Reconfigurable Logic, pp. 187–194 (1996)",
+            "DOI": "10.1117/12.255815"
+          },
+          {
+            "issue": "4",
+            "key": "3_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "62",
+            "DOI": "10.1109/2.839323",
+            "volume": "33",
+            "author": "T Callahan",
+            "year": "2000",
+            "unstructured": "Callahan, T., Hauser, J., Wawrzynek, J.: The garp architecture and c compiler. Computer 33(4), 62–69 (2000). doi:10.1109/2.839323",
+            "journal-title": "Computer"
+          },
+          {
+            "key": "3_CR10",
+            "unstructured": "Cardoso, J.M., Weinhardt, M.: Xpp-vc: A c compiler with temporal partitioning for the pact-xpp architecture. In: Field-Programmable Logic and Applications: Reconfigurable Computing Is Going Mainstream. Lecture Notes in Computer Science, vol. 2438, pp. 207–226. Springer, Berlin/Heidelberg (2002). http://www.springerlink.com/content/2rwnvdfwv79wev9u/"
+          },
+          {
+            "key": "3_CR11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cardoso, J.M.P., Weinhardt, M.: Fast and guaranteed c compilation onto the PACT-XPP reconfigurable computing platform. In: FCCM ’02: Proceedings of the 10th Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p. 291. IEEE Computer Society, Washington, DC (2002)",
+            "DOI": "10.1109/FPGA.2002.1106688"
+          },
+          {
+            "key": "3_CR12",
+            "unstructured": "Carrillo, J.E., Chow, P.: The effect of reconfigurable units in superscalar processors. In: FPGA ’01: Proceedings of the 2001 ACM/SIGDA Ninth International Symposium on Field programmable Gate Arrays, pp. 141–150. ACM, New York (2001). doi: http://doi.acm.org/10.1145/360276.360328"
+          },
+          {
+            "key": "3_CR13",
+            "unstructured": "Chang, P.P., Mahlke, S.A., Chen, W.Y., Warter, N.J., Hwu, W.m.W.: Impact: an architectural framework for multiple-instruction-issue processors. SIGARCH Comput. Archit. News 19(3), 266–275 (1991). doi: http://doi.acm.org/10.1145/115953.115979"
+          },
+          {
+            "key": "3_CR14",
+            "unstructured": "Chou, Y., Pillai, P., Schmit, H., Shen, J.P.: Piperench implementation of the instruction path coprocessor. In: MICRO 33: Proceedings of the 33rd Annual ACM/IEEE International Symposium on Microarchitecture, pp. 147–158. ACM, New York (2000). doi: http://doi.acm.org/10.1145/360128.360144"
+          },
+          {
+            "key": "3_CR15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Clark, N., Kudlur, M., Park, H., Mahlke, S., Flautner, K.: Application-specific processing on a general-purpose core via transparent instruction set customization. In: MICRO 37: Proceedings of the 37th Annual IEEE/ACM International Symposium on Microarchitecture, pp. 30–40. IEEE Computer Society, Washington, DC (2004). doi: http://dx.doi.org/10.1109/MICRO.2004.5",
+            "DOI": "10.1109/MICRO.2004.5"
+          },
+          {
+            "key": "3_CR16",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Compton, K., Hauck, S.: Reconfigurable computing: a survey of systems and software. ACM Comput. Surv. 34(2), 171–210 (2002). doi: http://doi.acm.org/10.1145/508352.508353",
+            "DOI": "10.1145/508352.508353"
+          },
+          {
+            "key": "3_CR17",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cronquist, D.C., Fisher, C., Figueroa, M., Franklin, P., Ebeling, C.: Architecture design of reconfigurable pipelined datapaths. In: ARVLSI ’99: Proceedings of the 20th Anniversary Conference on Advanced Research in VLSI, p. 23. IEEE Computer Society, Washington, DC (1999)",
+            "DOI": "10.1109/ARVLSI.1999.756035"
+          },
+          {
+            "key": "3_CR18",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Cronquist, D.C., Franklin, P., Berg, S.G., Ebeling, C.: Specifying and compiling applications for rapid. In: FCCM ’98: Proceedings of the IEEE Symposium on FPGAs for Custom Computing Machines, p. 116. IEEE Computer Society, Washington, DC (1998)",
+            "DOI": "10.1109/FPGA.1998.707889"
+          },
+          {
+            "key": "3_CR19",
+            "unstructured": "David, H.S., Whelihan, D., Tsai, A., Moe, M., Levine, B., Taylor, R.R.: Piperench: A virtualized programmable datapath in 0.18 micron technology. In: Proceedings of the IEEE Custom Integrated Circuits Conference, pp. 63–66. IEEE Computer Society, Los Alamitos (2002)"
+          },
+          {
+            "key": "3_CR20",
+            "unstructured": "DeHon, A.: Dpga utilization and application. In: FPGA ’96: Proceedings of the 1996 ACM Fourth International Symposium on Field-Programmable Gate Arrays, pp. 115–121. ACM, New York (1996). doi: http://doi.acm.org/10.1145/228370.228387"
+          },
+          {
+            "key": "3_CR21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ebeling, C., Cronquist, D.C., Franklin, P.: Rapid – reconfigurable pipelined datapath. In: FPL ’96: Proceedings of the 6th International Workshop on Field-Programmable Logic, Smart Applications, New Paradigms and Compilers, pp. 126–135. Springer, London (1996)",
+            "DOI": "10.1007/3-540-61730-2_13"
+          },
+          {
+            "key": "3_CR22",
+            "unstructured": "Gebhart, M., Maher, B.A., Coons, K.E., Diamond, J., Gratz, P., Marino, M., Ranganathan, N., Robatmili, B., Smith, A., Burrill, J., Keckler, S.W., Burger, D., McKinley, K.S.: An evaluation of the trips computer system. In: ASPLOS ’09: Proceeding of the 14th International Conference on Architectural Support for Programming Languages and Operating Systems, pp. 1–12. ACM, New York (2009). doi: http://doi.acm.org/10.1145/1508244.1508246"
+          },
+          {
+            "issue": "4",
+            "key": "3_CR23",
+            "doi-asserted-by": "crossref",
+            "first-page": "70",
+            "DOI": "10.1109/2.839324",
+            "volume": "33",
+            "author": "S.C. Goldstein",
+            "year": "2000",
+            "unstructured": "Goldstein, S.C., Schmit, H., Budiu, M., Cadambi, S., Moe, M., Taylor, R.R.: Piperench: a reconfigurable architecture and compiler. Computer 33(4), 70–77 (2000). doi: http://dx.doi.org/10.1109/2.839324",
+            "journal-title": "Computer"
+          },
+          {
+            "key": "3_CR24",
+            "unstructured": "Goldstein, S.C., Schmit, H., Moe, M., Budiu, M., Cadambi, S., Taylor, R.R., Laufer, R.: Piperench: a co/processor for streaming multimedia acceleration. In: ISCA ’99: Proceedings of the 26th Annual International Symposium on Computer Architecture, pp. 28–39. IEEE Computer Society, Washington, DC (1999). doi: http://doi.acm.org/10.1145/300979.300982"
+          },
+          {
+            "key": "3_CR25",
+            "unstructured": "Hartenstein, R.: Coarse grain reconfigurable architecture (embedded tutorial). In: ASP-DAC ’01: Proceedings of the 2001 Conference on Asia South Pacific Design Automation, pp. 564–570. ACM, New York (2001). doi: http://doi.acm.org/10.1145/370155.370535"
+          },
+          {
+            "key": "3_CR26",
+            "unstructured": "Hartenstein, R., Herz, M., Hoffmann, T., Nageldinger, U.: Kressarray xplorer: a new cad environment to optimize reconfigurable datapath array. In: ASP-DAC ’00: Proceedings of the 2000 Asia and South Pacific Design Automation Conference, pp. 163–168. ACM, New York (2000). doi: http://doi.acm.org/10.1145/368434.368597"
+          },
+          {
+            "key": "3_CR27",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hauck, S., Fry, T.W., Hosler, M.M., Kao, J.P.: The chimaera reconfigurable functional unit. In: FCCM ’97: Proceedings of the 5th IEEE Symposium on FPGA-Based Custom Computing Machines, p. 87. IEEE Computer Society, Washington, DC (1997)",
+            "DOI": "10.1109/FPGA.1997.624608"
+          },
+          {
+            "issue": "2",
+            "key": "3_CR28",
+            "doi-asserted-by": "crossref",
+            "first-page": "206",
+            "DOI": "10.1109/TVLSI.2003.821545",
+            "volume": "12",
+            "author": "S. Hauck",
+            "year": "2004",
+            "unstructured": "Hauck, S., Fry, T.W., Hosler, M.M., Kao, J.P.: The chimaera reconfigurable functional unit. IEEE Trans. Very Large Scale Integr. Syst. 12(2), 206–217 (2004). doi: http://dx.doi.org/10.1109/TVLSI.2003.821545",
+            "journal-title": "IEEE Trans. Very Large Scale Integr. Syst."
+          },
+          {
+            "key": "3_CR29",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hauser, J.R., Wawrzynek, J.: Garp: a mips processor with a reconfigurable coprocessor. In: FCCM ’97: Proceedings of the 5th IEEE Symposium on FPGA-Based Custom Computing Machines, p. 12. IEEE Computer Society, Washington, DC (1997)",
+            "DOI": "10.1109/FPGA.1997.624600"
+          },
+          {
+            "issue": "3",
+            "key": "3_CR30",
+            "doi-asserted-by": "crossref",
+            "first-page": "283",
+            "DOI": "10.1023/A:1025699015398",
+            "volume": "26",
+            "author": "P. Heysters",
+            "year": "2003",
+            "unstructured": "Heysters, P., Smit, G., Molenkamp, E.: A flexible and energy-efficient coarse-grained reconfigurable architecture for mobile systems. J. Supercomput. 26(3), 283–308 (2003). doi:http://doi:dx.doi.org/10.1023/A:1025699015398",
+            "journal-title": "J. Supercomput."
+          },
+          {
+            "key": "3_CR31",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hwu, W.M.W., Mahlke, S.A., Chen, W.Y., Chang, P.P., Warter, N.J., Bringmann, R.A., Quellette, R.G., Hank, R.E., Kiyohara, T., Haab, G.E., Holm, J.G., Lavery, D.M.: The superblock: an effective technique for VLIW and superscalar compilation. The Journal of Supercomputing 7, pp. 229–248 Kluwer Academic Publishers Hingham, MA, USA (1993). http://dx.doi.org/10.1007/BF01205185",
+            "DOI": "10.1007/BF01205185"
+          },
+          {
+            "key": "3_CR32",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Jain, M.K., Balakrishnan, M., Kumar, A.: Asip design methodologies: Survey and issues. In: VLSID ’01: Proceedings of the The 14th International Conference on VLSI Design (VLSID ’01), p. 76. IEEE Computer Society, Washington, DC (2001)",
+            "DOI": "10.1109/ICVD.2001.902643"
+          },
+          {
+            "key": "3_CR33",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kastrup, B., Bink, A., Hoogerbrugge, J.: Concise: A compiler-driven cpld-based instruction set accelerator. In: FCCM ’99: Proceedings of the Seventh Annual IEEE Symposium on Field-Programmable Custom Computing Machines, p. 92. IEEE Computer Society, Washington, DC (1999)",
+            "DOI": "10.1109/FPGA.1999.803671"
+          },
+          {
+            "key": "3_CR34",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Lee, M.H., Singh, H., Lu, G., Bagherzadeh, N., Kurdahi, F.J., Filho, E.M.C., Alves, V.C.: Design and implementation of the morphosys reconfigurable computingprocessor. J. VLSI Signal Process. Syst. 24(2/3), 147–164 (2000). doi: http://dx.doi.org/10.1023/A:1008189221436",
+            "DOI": "10.1023/A:1008189221436"
+          },
+          {
+            "key": "3_CR35",
+            "unstructured": "Lee, W., Barua, R., Frank, M., Srikrishna, D., Babb, J., Sarkar, V., Amarasinghe, S.: Space-time scheduling of instruction-level parallelism on a raw machine. SIGOPS Oper. Syst. Rev. 32(5), 46–57 (1998). doi: http://doi.acm.org/10.1145/384265.291018"
+          },
+          {
+            "key": "3_CR36",
+            "unstructured": "Lee, W.A., Agarwal, L., Lee, T., Smith, A., Lam, E., Athanas, P., Ghosh, S.: PRISM-II compiler and architecture. Proceedings of IEEE Workshop on FPGAs for Custom Computing Machines, 9–16. IEEE Computer Society, Los Alamitos (1993). doi: http://doi.acm.org/10.1109/FPGA.1993.279484"
+          },
+          {
+            "issue": "11",
+            "key": "3_CR37",
+            "doi-asserted-by": "publisher",
+            "first-page": "1876",
+            "DOI": "10.1109/JSSC.2003.818292",
+            "volume": "38",
+            "author": "A Lodi",
+            "year": "2003",
+            "unstructured": "Lodi, A., Toma, M., Campi, F., Cappelli, A., Guerrieri, R.: A vliw processor with reconfigurable instruction set for embedded applications. IEEE J. Solid State Circuits 38(11), 1876–1886 (2003)",
+            "journal-title": "IEEE J. Solid State Circuits"
+          },
+          {
+            "key": "3_CR38",
+            "unstructured": "Maheswaran, K., Akella, V.: Hazard-free implementation of the self-timed cell set in a xilinx fpga. Tech. rep., University of California (1994)"
+          },
+          {
+            "key": "3_CR39",
+            "unstructured": "Mahlke, S.A., Lin, D.C., Chen, W.Y., Hank, R.E., Bringmann, R.A.: Effective compiler support for predicated execution using the hyperblock. In: MICRO 25: Proceedings of the 25th Annual International Symposium on Microarchitecture, pp. 45–54. IEEE Computer Society Press, Los Alamitos (1992). doi: http://doi.acm.org/10.1145/144953.144998"
+          },
+          {
+            "key": "3_CR40",
+            "unstructured": "Marshall, A., Stansfield, T., Kostarnov, I., Vuillemin, J., Hutchings, B.: A reconfigurable arithmetic array for multimedia applications. In: FPGA ’99: Proceedings of the 1999 ACM/SIGDA Seventh International Symposium on Field Programmable Gate Arrays, pp. 135–143. ACM, New York (1999). doi: http://doi.acm.org/10.1145/296399.296444"
+          },
+          {
+            "key": "3_CR41",
+            "unstructured": "Mei, B., Vernalde, S., Verkest, D., De Man, H., Lauwerein, R.: ADRES: An architecture with tightly coupled VLIW processor and coarse-grained reconfigurable matrix. In: Field-Programmable Logic and Applications. Lecture Notes in Computer Science, vol. 2778, pp. 61–70. Springer. Berlin/Heidelberg (2003). doi:10.1007/b12007. http://www.springerlink.com/content/03yt3xeh60r8971k/"
+          },
+          {
+            "key": "3_CR42",
+            "unstructured": "Mei, B., Vernalde, S., Verkest, D., De Man, H., Lauwereins, R., Mei, B., Vernalde, S., Verkest, D., De, H., Lauwerein, R.: DRESC: A retargetable compiler for coarse-grained reconfigurable architectures. Proceedings of 2002 IEEE International Conference on Field- Programmable Technology 166–173. IEEE Computer Society, Los Alamitos (2002). doi: http://doi.acm.org/10.1109/FPT.2002.1188678"
+          },
+          {
+            "key": "3_CR43",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Mirsky, E., DeHon, A.: Matrix: A reconfigurable computing architecture with configurable instruction distribution and deployable resources. In: IEEE Symposium on FPGAs for Custom Computing Machines, pp. 157–166. IEEE Computer Society, Los Alamitos (1996)",
+            "DOI": "10.1109/FPGA.1996.564808"
+          },
+          {
+            "key": "3_CR44",
+            "unstructured": "Miyamori, T., Olukotun, K.: Remarc (abstract): reconfigurable multimedia array coprocessor. In: FPGA ’98: Proceedings of the 1998 ACM/SIGDA sixth international symposium on Field programmable gate arrays, p. 261. ACM, New York (1998). doi: http://doi.acm.org/10.1145/275107.275164"
+          },
+          {
+            "key": "3_CR45",
+            "first-page": "389",
+            "volume": "E82-D",
+            "author": "T Miyamori",
+            "year": "1998",
+            "unstructured": "Miyamori, T., Olukotun, K.: Remarc: Reconfigurable multimedia array coprocessor. In: IEICE Trans. Info. Syst. E82-D:389–397 (1998)",
+            "journal-title": "In: IEICE Trans. Info. Syst."
+          },
+          {
+            "issue": "1",
+            "key": "3_CR46",
+            "doi-asserted-by": "crossref",
+            "first-page": "6",
+            "DOI": "10.1145/1210268.1210274",
+            "volume": "6",
+            "author": "E.M. Panainte",
+            "year": "2007",
+            "unstructured": "Panainte, E.M., Bertels, K., Vassiliadis, S.: The molen compiler for reconfigurable processors. ACM Trans. Embed. Comput. Syst. 6(1), 6 (2007). doi: http://doi.acm.org/10.1145/1210268.1210274",
+            "journal-title": "ACM Trans. Embed. Comput. Syst."
+          },
+          {
+            "issue": "6",
+            "key": "3_CR47",
+            "doi-asserted-by": "crossref",
+            "first-page": "590",
+            "DOI": "10.1109/12.931895",
+            "volume": "50",
+            "author": "S.J. Patel",
+            "year": "2001",
+            "unstructured": "Patel, S.J., Lumetta, S.S.: Replay: a hardware framework for dynamic optimization. IEEE Trans. Comput. 50(6), 590–608 (2001). doi: http://dx.doi.org/10.1109/12.931895",
+            "journal-title": "IEEE Trans. Comput."
+          },
+          {
+            "key": "3_CR48",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Rupp, C.R., Landguth, M., Garverick, T., Gomersall, E., Holt, H., Arnold, J.M., Gokhale, M.: The napa adaptive processing architecture. In: FCCM ’98: Proceedings of the IEEE Symposium on FPGAs for Custom Computing Machines, p. 28. IEEE Computer Society, Washington, DC (1998)",
+            "DOI": "10.1109/FPGA.1998.707878"
+          },
+          {
+            "key": "3_CR49",
+            "unstructured": "Salefski, B., Caglar, L.: Re-configurable computing in wireless. In: DAC ’01: Proceedings of the 38th annual Design Automation Conference, pp. 178–183. ACM, New York (2001). doi: http://doi.acm.org/10.1145/378239.378459"
+          },
+          {
+            "key": "3_CR50",
+            "unstructured": "Sankaralingam, K., Nagarajan, R., Liu, H., Kim, C., Huh, J., Ranganathan, N., Burger, D., Keckler, S.W., McDonald, R.G., Moore, C.R.: Trips: A polymorphous architecture for exploiting ilp, tlp, and dlp. ACM Trans. Archit. Code Optim. 1(1), 62–93 (2004). doi: http://doi.acm.org/10.1145/980152.980156"
+          },
+          {
+            "key": "3_CR51",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Singh, H., hau Lee, M., Lu, G., Kurdahi, F.J., Bagherzadeh, N.: Morphosys: A reconfigurable architecture for multimedia applications. In: Workshop on Reconfigurable Computing at PACT, pp. 134–139 (1998)",
+            "DOI": "10.1109/SBCCI.1998.715427"
+          },
+          {
+            "key": "3_CR52",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Singh, H., Lee, M.H., Lu, G., Bagherzadeh, N., Kurdahi, F.J., Filho, E.M.C.: Morphosys: An integrated reconfigurable system for data-parallel and computation-intensive applications. IEEE Trans. Comput. 49(5), 465–481 (2000). doi: http://dx.doi.org/10.1109/12.859540",
+            "DOI": "10.1109/12.859540"
+          },
+          {
+            "key": "3_CR53",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Singh, H., Lee, M.H., Lu, G., Bagherzadeh, N., Kurdahi, F.J., Filho, E.M.C.: Morphosys: An integrated reconfigurable system for data-parallel and computation-intensive applications. IEEE Trans. Comput. 49(5), 465–481 (2000). doi: http://dx.doi.org/10.1109/12.859540",
+            "DOI": "10.1109/12.859540"
+          },
+          {
+            "key": "3_CR54",
+            "volume-title": "Application-Specific Integrated Circuits",
+            "author": "M.J.S. Smith",
+            "year": "2008",
+            "unstructured": "Smith, M.J.S.: Application-Specific Integrated Circuits. Addison-Wesley Professional, Reading (2008)"
+          },
+          {
+            "key": "3_CR55",
+            "unstructured": "Swanson, S., Michelson, K., Schwerin, A., Oskin, M.: Wavescalar. In: MICRO 36: Proceedings of the 36th Annual IEEE/ACM International Symposium on Microarchitecture, p. 291. IEEE Computer Society, Washington, DC (2003)"
+          },
+          {
+            "key": "3_CR56",
+            "unstructured": "Swanson, S., Schwerin, A., Mercaldi, M., Petersen, A., Putnam, A., Michelson, K., Oskin, M., Eggers, S.J.: The wavescalar architecture. ACM Trans. Comput. Syst. 25(2), 4 (2007). doi: http://doi.acm.org/10.1145/1233307.1233308"
+          },
+          {
+            "key": "3_CR57",
+            "unstructured": "Tatas, K., Siozios, K., Soudris, D.: A survey of existing fine-grain reconfigurable architectures and CAD tools. In: Fine- and Coarse-Grain Reconfigurable Computing, pp. 3–87. Springer, Dordrecht (2007). http://www.springerlink.com/content/m561311j78506281/"
+          },
+          {
+            "key": "3_CR58",
+            "unstructured": "Tau, E., Chen, D., Eslick, I., Brow, J.: A first generation dpga implementation. In: Proceedings of the Third Canadian Workshop on Field-Programmable Devices, pp. 138–143 (1995)"
+          },
+          {
+            "issue": "2",
+            "key": "3_CR59",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "DOI": "10.1109/MM.2002.997877",
+            "volume": "22",
+            "author": "M.B. Taylor",
+            "year": "2002",
+            "unstructured": "Taylor, M.B., Kim, J., Miller, J., Wentzlaff, D., Ghodrat, F., Greenwald, B., Hoffman, H., Johnson, P., Lee, J.W., Lee, W., Ma, A., Saraf, A., Seneski, M., Shnidman, N., Strumpen, V., Frank, M., Amarasinghe, S., Agarwal, A.: The raw microprocessor: A computational fabric for software circuits and general-purpose programs. IEEE Micro. 22(2), 25–35 (2002). doi: http://dx.doi.org/10.1109/MM.2002.997877",
+            "journal-title": "IEEE Micro."
+          },
+          {
+            "key": "3_CR60",
+            "unstructured": "Theodoridis, G., Soudris, D., Vassiliadis, S.: A survey of coarse-grain reconfigurable architectures and cad tools. In: Fine- and Coarse-Grain Reconfigurable Computing, pp. 89–149. Springer, Dordrecht (2007). http://www.springerlink.com/content/j118u3m6m225q264/"
+          },
+          {
+            "key": "3_CR61",
+            "unstructured": "Vassiliadis, N., Kavvadias, N., Theodoridis, G., Nikolaidis, S.: A risc architecture extended by an efficient tightly coupled reconfigurable unit. In: International Workshop On Applied Reconfigurable Computing (ARC), pp. 41–49. Springer, Berlin (2005)"
+          },
+          {
+            "key": "3_CR62",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Vassiliadis, S., Gaydadjiev, G., Bertels, K., Panainte, E.M.: The molen programming paradigm. In: Proceedings of the Third International Workshop on Systems, Architectures, Modeling, and Simulation, Lecture Notes in Computer Science, vol. 3133, pp. 1–10. Springer (2004)",
+            "DOI": "10.1007/978-3-540-27776-7_1"
+          },
+          {
+            "key": "3_CR63",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Vassiliadis, S., Wong, S., Cotofana, S.: The molen rho-mu-coded processor. In: FPL ’01: Proceedings of the 11th International Conference on Field-Programmable Logic and Applications, pp. 275–285. Springer, London (2001)",
+            "DOI": "10.1007/3-540-44687-7_29"
+          },
+          {
+            "issue": "11",
+            "key": "3_CR64",
+            "doi-asserted-by": "crossref",
+            "first-page": "1363",
+            "DOI": "10.1109/TC.2004.104",
+            "volume": "53",
+            "author": "S. Vassiliadis",
+            "year": "2004",
+            "unstructured": "Vassiliadis, S., Wong, S., Gaydadjiev, G., Bertels, K., Kuzmanov, G., Panainte, E.M.: The molen polymorphic processor. IEEE Trans. Comput. 53(11), 1363–1375 (2004). doi: http://dx.doi.org/10.1109/TC.2004.104",
+            "journal-title": "IEEE Trans. Comput."
+          },
+          {
+            "issue": "9",
+            "key": "3_CR65",
+            "doi-asserted-by": "crossref",
+            "first-page": "86",
+            "DOI": "10.1109/2.612254",
+            "volume": "30",
+            "author": "E. Waingold",
+            "year": "1997",
+            "unstructured": "Waingold, E., Taylor, M., Srikrishna, D., Sarkar, V., Lee, W., Lee, V., Kim, J., Frank, M., Finch, P., Barua, R., Babb, J., Amarasinghe, S., Agarwal, A.: Baring it all to software: Raw machines. Computer 30(9), 86–93 (1997). doi: http://dx.doi.org/10.1109/2.612254",
+            "journal-title": "Computer"
+          },
+          {
+            "key": "3_CR66",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wilson, R.P., French, R.S., Wilson, C.S., Amarasinghe, S.P., Anderson, J.M., Tjiang, S.W.K., Liao, S.W., Tseng, C.W., Hall, M.W., Lam, M.S., Hennessy, J.L.: Suif: an infrastructure for research on parallelizing and optimizing compilers. SIGPLAN Not. 29(12), 31–37 (1994). doi: http://doi.acm.org/10.1145/193209.193217",
+            "DOI": "10.1145/193209.193217"
+          },
+          {
+            "key": "3_CR67",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wirthlin, M.J.: A dynamic instruction set computer. In: FCCM ’95: Proceedings of the IEEE Symposium on FPGA’s for Custom Computing Machines, p. 99. IEEE Computer Society, Washington, DC (1995)",
+            "DOI": "10.1109/FPGA.1995.477415"
+          },
+          {
+            "key": "3_CR68",
+            "unstructured": "Wirthlin, M.J., Hutchings, B.L., Gilson, K.L.: The nano processor: A low resource reconfigurable processor. In: D.A. Buell, K.L. Pocek (eds.) IEEE Workshop on FPGAs for Custom Computing Machines, pp. 23–30. IEEE Computer Society, Los Alamitos (1994). citeseer.ist.psu.edu/wirthlin94nano.html"
+          },
+          {
+            "key": "3_CR69",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wittig, R.D., Chow, P.: Onechip: An fpga processor with reconfigurable logic. In: IEEE Symposium on FPGAs for Custom Computing Machines, pp. 126–135. IEEE Computer Society, Los Alamitos (1995)",
+            "DOI": "10.1109/FPGA.1996.564773"
+          },
+          {
+            "issue": "11",
+            "key": "3_CR70",
+            "doi-asserted-by": "publisher",
+            "first-page": "1697",
+            "DOI": "10.1109/4.881217",
+            "volume": "35",
+            "author": "H Zhang",
+            "year": "2000",
+            "unstructured": "Zhang, H., Prabhu, V., George, V., Wan, M., Benes, M., Abnous, A., Rabaey, J.: A 1-v heterogenous reconfigurable dsp ic for wireless baseband digital signal processing. IEEE J. Solid State Circuits 35(11), 1697–1704 (2000)",
+            "journal-title": "IEEE J. Solid State Circuits"
+          }
+        ],
+        "container-title": [
+          "Adaptable Embedded Systems"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/978-1-4614-1746-0_3.pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              4,
+              21
+            ]
+          ],
+          "date-time": "2025-04-21T04:31:22Z",
+          "timestamp": 1745209882000
+        },
+        "score": 19.070324,
+        "resource": {
+          "primary": {
+            "URL": "http://link.springer.com/10.1007/978-1-4614-1746-0_3"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2012,
+              10,
+              20
+            ]
+          ]
+        },
+        "ISBN": [
+          "9781461417453",
+          "9781461417460"
+        ],
+        "references-count": 70,
+        "URL": "https://doi.org/10.1007/978-1-4614-1746-0_3",
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              10,
+              20
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              27
+            ]
+          ],
+          "date-time": "2025-03-27T10:29:22Z",
+          "timestamp": 1743071362282,
+          "version": "3.40.3"
+        },
+        "publisher-location": "Dordrecht",
+        "reference-count": 17,
+        "publisher": "Springer Netherlands",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9789048139125"
+          },
+          {
+            "type": "electronic",
+            "value": "9789048139132"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2010,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2010-01-01T00:00:00Z",
+              "timestamp": 1262304000000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2010,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2010-01-01T00:00:00Z",
+              "timestamp": 1262304000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-90-481-3913-2_2",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2010,
+              2,
+              15
+            ]
+          ],
+          "date-time": "2010-02-15T19:50:22Z",
+          "timestamp": 1266263422000
+        },
+        "page": "13-44",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Reconfigurable Systems"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "Antonio Carlos",
+            "family": "Schneider Beck Fl.",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Luigi",
+            "family": "Carro",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2010,
+              2,
+              16
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "issue": "3",
+            "key": "2_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "11",
+            "DOI": "10.1109/2.204677",
+            "volume": "26",
+            "author": "P.M. Athanas",
+            "year": "1993",
+            "unstructured": "Athanas, P.M., Silverman, H.F.: Processor reconfiguration through instruction-set metamorphosis. Computer 26(3), 11–18 (1993). doi:10.1109/2.204677",
+            "journal-title": "Computer"
+          },
+          {
+            "key": "2_CR2",
+            "first-page": "168",
+            "volume-title": "RSP’00: Proceedings of the 11th IEEE International Workshop on Rapid System Prototyping (RSP 2000)",
+            "author": "F. Barat",
+            "year": "2000",
+            "unstructured": "Barat, F., Lauwereins, R.: Reconfigurable instruction set processors: A survey. In: RSP’00: Proceedings of the 11th IEEE International Workshop on Rapid System Prototyping (RSP 2000), p. 168. IEEE Computer Society, Los Alamitos (2000)"
+          },
+          {
+            "key": "2_CR3",
+            "first-page": "111",
+            "volume-title": "ARC’08: Proceedings of the 4th International Workshop on Reconfigurable Computing",
+            "author": "A.C. Beck",
+            "year": "2008",
+            "unstructured": "Beck, A.C., Rutzig, M.B., Gaydadjiev, G., Carro, L.: Run-time adaptable architectures for heterogeneous behavior embedded systems. In: ARC’08: Proceedings of the 4th International Workshop on Reconfigurable Computing, pp. 111–124. Springer, Berlin/Heidelberg (2008)"
+          },
+          {
+            "key": "2_CR4",
+            "doi-asserted-by": "publisher",
+            "first-page": "30",
+            "DOI": "10.1109/MICRO.2004.5",
+            "volume-title": "MICRO 37: Proceedings of the 37th Annual IEEE/ACM International Symposium on Microarchitecture",
+            "author": "N. Clark",
+            "year": "2004",
+            "unstructured": "Clark, N., Kudlur, M., Park, H., Mahlke, S., Flautner, K.: Application-specific processing on a general-purpose core via transparent instruction set customization. In: MICRO 37: Proceedings of the 37th Annual IEEE/ACM International Symposium on Microarchitecture, pp. 30–40. IEEE Computer Society, Los Alamitos (2004). doi:10.1109/MICRO.2004.5"
+          },
+          {
+            "issue": "2",
+            "key": "2_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "171",
+            "DOI": "10.1145/508352.508353",
+            "volume": "34",
+            "author": "K. Compton",
+            "year": "2002",
+            "unstructured": "Compton, K., Hauck, S.: Reconfigurable computing: a survey of systems and software. ACM Comput. Surv. 34(2), 171–210 (2002). doi:10.1145/508352.508353",
+            "journal-title": "ACM Comput. Surv."
+          },
+          {
+            "key": "2_CR6",
+            "doi-asserted-by": "publisher",
+            "first-page": "3",
+            "DOI": "10.1109/WWC.2001.990739",
+            "volume-title": "WWC’01: Proceedings of the Workload Characterization, 2001. WWC-4. 2001 IEEE International Workshop",
+            "author": "M.R. Guthaus",
+            "year": "2001",
+            "unstructured": "Guthaus, M.R., Ringenberg, J.S., Ernst, D., Austin, T.M., Mudge, T., Brown, R.B.: Mibench: a free, commercially representative embedded benchmark suite. In: WWC’01: Proceedings of the Workload Characterization, 2001. WWC-4. 2001 IEEE International Workshop, pp. 3–14. IEEE Computer Society, Los Alamitos (2001). doi:10.1109/WWC.2001.15"
+          },
+          {
+            "key": "2_CR7",
+            "volume-title": "Computer Architecture: A Quantitative Approach",
+            "author": "J.L. Hennessy",
+            "year": "2006",
+            "unstructured": "Hennessy, J.L., Patterson, D.A.: Computer Architecture: A Quantitative Approach, 4th edn. Morgan Kaufmann, San Mateo (2006)",
+            "edition": "4"
+          },
+          {
+            "issue": "7",
+            "key": "2_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "28",
+            "DOI": "10.1109/2.869367",
+            "volume": "33",
+            "author": "J.L. Henning",
+            "year": "2000",
+            "unstructured": "Henning, J.L.: Spec cpu2000: Measuring cpu performance in the new millennium. Computer 33(7), 28–35 (2000). doi:10.1109/2.869367",
+            "journal-title": "Computer"
+          },
+          {
+            "key": "2_CR9",
+            "unstructured": "Hwu, W.M.W., Mahlke, S.A., Chen, W.Y., Chang, P.P., Warter, N.J., Bringmann, R.A., Quellette, R.G., Hank, R.E., Kiyohara, T., Haab, G.E., Holm, J.G., Lavery, D.M.: The superblock: an effective technique for vliw and superscalar compilation. In: Instruction-level Parallel Processors, pp. 234–253 (1995)"
+          },
+          {
+            "key": "2_CR10",
+            "first-page": "76",
+            "volume-title": "VLSID’01: Proceedings of the 14th International Conference on VLSI Design (VLSID’01)",
+            "author": "M.K. Jain",
+            "year": "2001",
+            "unstructured": "Jain, M.K., Balakrishnan, M., Kumar, A.: Asip design methodologies: Survey and issues. In: VLSID’01: Proceedings of the 14th International Conference on VLSI Design (VLSID’01), p. 76. IEEE Computer Society, Los Alamitos (2001)"
+          },
+          {
+            "key": "2_CR11",
+            "doi-asserted-by": "publisher",
+            "first-page": "45",
+            "DOI": "10.1109/MICRO.1992.696999",
+            "volume-title": "MICRO 25: Proceedings of the 25th Annual International Symposium on Microarchitecture",
+            "author": "S.A. Mahlke",
+            "year": "1992",
+            "unstructured": "Mahlke, S.A., Lin, D.C., Chen, W.Y., Hank, R.E., Bringmann, R.A.: Effective compiler support for predicated execution using the hyperblock. In: MICRO 25: Proceedings of the 25th Annual International Symposium on Microarchitecture, pp. 45–54. IEEE Computer Society, Los Alamitos (1992). doi:10.1145/144953.144998"
+          },
+          {
+            "issue": "1",
+            "key": "2_CR12",
+            "doi-asserted-by": "publisher",
+            "first-page": "6",
+            "DOI": "10.1145/1210268.1210274",
+            "volume": "6",
+            "author": "E.M. Panainte",
+            "year": "2007",
+            "unstructured": "Panainte, E.M., Bertels, K., Vassiliadis, S.: The Molen compiler for reconfigurable processors. ACM Trans. Embed. Comput. Syst. 6(1), 6 (2007). doi:10.1145/1210268.1210274",
+            "journal-title": "ACM Trans. Embed. Comput. Syst."
+          },
+          {
+            "issue": "6",
+            "key": "2_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "590",
+            "DOI": "10.1109/12.931895",
+            "volume": "50",
+            "author": "S.J. Patel",
+            "year": "2001",
+            "unstructured": "Patel, S.J., Lumetta, S.S.: Replay: A hardware framework for dynamic optimization. IEEE Trans. Comput. 50(6), 590–608 (2001). doi:10.1109/12.931895",
+            "journal-title": "IEEE Trans. Comput."
+          },
+          {
+            "issue": "12",
+            "key": "2_CR14",
+            "doi-asserted-by": "publisher",
+            "first-page": "1896–1926",
+            "DOI": "10.1109/JPROC.2004.837627",
+            "volume": "92",
+            "author": "D. Sima",
+            "year": "2004",
+            "unstructured": "Sima, D.: Decisive aspects in the evolution of microprocessors. Proc. IEEE 92(12), 1896–1926 (2004)",
+            "journal-title": "Proc. IEEE"
+          },
+          {
+            "issue": "5",
+            "key": "2_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "465",
+            "DOI": "10.1109/12.859540",
+            "volume": "49",
+            "author": "H. Singh",
+            "year": "2000",
+            "unstructured": "Singh, H., Lee, M.H., Lu, G., Bagherzadeh, N., Kurdahi, F.J., Filho, E.M.C.: Morphosys: An integrated reconfigurable system for data-parallel and computation-intensive applications. IEEE Trans. Comput. 49(5), 465–481 (2000). doi:10.1109/12.859540",
+            "journal-title": "IEEE Trans. Comput."
+          },
+          {
+            "key": "2_CR16",
+            "volume-title": "Application-Specific Integrated Circuits",
+            "author": "M.J.S. Smith",
+            "year": "2008",
+            "unstructured": "Smith, M.J.S.: Application-Specific Integrated Circuits. Addison-Wesley, Reading (2008)"
+          },
+          {
+            "key": "2_CR17",
+            "doi-asserted-by": "publisher",
+            "first-page": "89",
+            "DOI": "10.1007/978-1-4020-6505-7_2",
+            "volume-title": "Fine- and Coarse-Grain Reconfigurable Computing",
+            "author": "G. Theodoridis",
+            "year": "2007",
+            "unstructured": "Theodoridis, G., Soudris, D., Vassiliadis, S.: A survey of coarse-grain reconfigurable architectures and cad tools. In: Fine- and Coarse-Grain Reconfigurable Computing, pp. 89–149. Springer, Dordrecht (2007). http://www.springerlink.com/content/j118u3m6m225q264/"
+          }
+        ],
+        "container-title": [
+          "Dynamic Reconfigurable Architectures and Transparent Optimization Techniques"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-90-481-3913-2_2",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2023,
+              2,
+              18
+            ]
+          ],
+          "date-time": "2023-02-18T03:38:27Z",
+          "timestamp": 1676691507000
+        },
+        "score": 18.967278,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-90-481-3913-2_2"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "ISBN": [
+          "9789048139125",
+          "9789048139132"
+        ],
+        "references-count": 17,
+        "URL": "https://doi.org/10.1007/978-90-481-3913-2_2",
+        "published": {
+          "date-parts": [
+            [
+              2010
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "16 February 2010",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          }
+        ]
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              25
+            ]
+          ],
+          "date-time": "2025-03-25T14:19:24Z",
+          "timestamp": 1742912364666,
+          "version": "3.40.3"
+        },
+        "publisher-location": "Berlin, Heidelberg",
+        "reference-count": 50,
+        "publisher": "Springer Berlin Heidelberg",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9783642416101"
+          },
+          {
+            "type": "electronic",
+            "value": "9783642416101"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2025-01-01T00:00:00Z",
+              "timestamp": 1735689600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2025,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2025-01-01T00:00:00Z",
+              "timestamp": 1735689600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springernature.com/gp/researchers/text-and-data-mining"
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-642-41610-1_237-1",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              17
+            ]
+          ],
+          "date-time": "2025-02-17T18:03:21Z",
+          "timestamp": 1739815401000
+        },
+        "page": "1-11",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 0,
+        "title": [
+          "Reconfigurable Systems"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "David",
+            "family": "Saldaña",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Gedaliah",
+            "family": "Knizhnik",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Bruno",
+            "family": "Gabrich",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mark",
+            "family": "Yim",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              18
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "237-1_CR1",
+            "doi-asserted-by": "publisher",
+            "first-page": "1734",
+            "DOI": "10.1109/ROBOT.2000.844846",
+            "volume-title": "Proceedings 2000 ICRA. Millennium conference. IEEE international conference on robotics and automation. Symposia Proceedings (Cat. No. 00CH37065)",
+            "author": "H Bojinov",
+            "year": "2000",
+            "unstructured": "Bojinov H, Casal A, Hogg T (2000) Emergent structures in modular self-reconfigurable robots. In: Proceedings 2000 ICRA. Millennium conference. IEEE international conference on robotics and automation. Symposia Proceedings (Cat. No. 00CH37065), vol 2. IEEE, pp 1734–1741"
+          },
+          {
+            "issue": "4",
+            "key": "237-1_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "452",
+            "DOI": "10.1109/TMECH.2002.806226",
+            "volume": "7",
+            "author": "HB Brown",
+            "year": "2002",
+            "unstructured": "Brown HB, Weghe JV, Bererton CA, Khosla PK (2002) Millibot trains for enhanced mobility. IEEE/ASME Trans Mechatron 7(4):452–461",
+            "journal-title": "IEEE/ASME Trans Mechatron"
+          },
+          {
+            "issue": "3",
+            "key": "237-1_CR3",
+            "doi-asserted-by": "publisher",
+            "first-page": "309",
+            "DOI": "10.1023/A:1008985810481",
+            "volume": "8",
+            "author": "A Castano",
+            "year": "2000",
+            "unstructured": "Castano A, Shen W-M, Will P (2000) Conro: towards deployable robots with interrobots metamorphic capabilities. Auton Robot 8(3):309–324",
+            "journal-title": "Auton Robot"
+          },
+          {
+            "key": "237-1_CR4",
+            "first-page": "132",
+            "volume-title": "Proceedings of 1995 IEEE International Conference on Robotics and Automation, 1995",
+            "author": "I-M Chen",
+            "year": "1995",
+            "unstructured": "Chen I-M, Burdick JW (1995) Determining task optimal modular robot assembly configurations. In: Proceedings of 1995 IEEE International Conference on Robotics and Automation, 1995, vol 1. IEEE, pp 132–137"
+          },
+          {
+            "issue": "7",
+            "key": "237-1_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "702",
+            "DOI": "10.1177/027836499801700702",
+            "volume": "17",
+            "author": "I-M Chen",
+            "year": "1998",
+            "unstructured": "Chen I-M, Burdick JW (1998) Enumerating the non-isomorphic assembly configurations of modular robotic systems. Int J Robotics Res 17(7):702–719",
+            "journal-title": "Int J Robotics Res"
+          },
+          {
+            "key": "237-1_CR6",
+            "first-page": "3217",
+            "volume-title": "2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+            "author": "J Davey",
+            "year": "2012",
+            "unstructured": "Davey J, Sastra J, Piccoli M, Yim M (2012) Modlock: a manual connector for reconfigurable modular robots. In: 2012 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, pp 3217–3222"
+          },
+          {
+            "key": "237-1_CR7",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Duffy MJ, Samaritano TC (2015) The lift! project–modular, electric vertical lift system with ground power tether. In: 33rd AIAA applied aerodynamics conference. p 3013",
+            "DOI": "10.2514/6.2015-3013"
+          },
+          {
+            "key": "237-1_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "1227",
+            "DOI": "10.1109/ICRA.2014.6907010",
+            "volume-title": "2014 IEEE International conference on robotics and automation (ICRA)",
+            "author": "N Eckenstein",
+            "year": "2014",
+            "unstructured": "Eckenstein N, Yim M (2014) Area of acceptance for 3d self-aligning robotic connectors: Concepts, metrics, and designs. In: 2014 IEEE International conference on robotics and automation (ICRA). IEEE, pp 1227–1233"
+          },
+          {
+            "key": "237-1_CR9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fukuda T (1988) Self organizing robots based on cell structures-cebot. In: Proceedings of IEEE international workshop on intelligent robots and systems (IROS’88). pp 145–150",
+            "DOI": "10.1109/IROS.1988.592421"
+          },
+          {
+            "key": "237-1_CR10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Gabrich B, Saldana D, Kumar V, Yim M (2018) A flying gripper based on cuboid modular robots. In: 2018 IEEE International Conference on Robotics and Automation (ICRA). pp 7024–7030. https://youtu.be/43RSgWRLhJc",
+            "DOI": "10.1109/ICRA.2018.8460682"
+          },
+          {
+            "key": "237-1_CR11",
+            "doi-asserted-by": "publisher",
+            "first-page": "2558",
+            "DOI": "10.1109/ROBOT.2006.1642087",
+            "volume-title": "Proceedings of 2006 IEEE international conference on robotics and automation, ICRA 2006",
+            "author": "R Groß",
+            "year": "2006",
+            "unstructured": "Groß R, Tuci E, Dorigo M, Bonani M, Mondada F (2006) Object transport by modular robots that self-assemble. In: Proceedings of 2006 IEEE international conference on robotics and automation, ICRA 2006. IEEE, pp 2558–2564"
+          },
+          {
+            "key": "237-1_CR12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Jing G, Tosun T, Yim M, Kress-Gazit H (2016) An end-to-end system for accomplishing tasks with modular robots. Robotics Sci Syst 2(7)",
+            "DOI": "10.24963/ijcai.2017/686"
+          },
+          {
+            "key": "237-1_CR13",
+            "unstructured": "Karagozler ME, Kirby B, Lee WJ, Marinelli E, Ng TC, Weller MP, Goldstein SC (2006) Ultralight modular robotic building blocks for the rapid deployment of planetary outposts. Karagozler is a technical report of a competition RASC-AL by NASA"
+          },
+          {
+            "key": "237-1_CR14",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kayacan E, Park S, Ratti C, Rus D (2019) Learning-based nonlinear model predictive control of reconfigurable autonomous robotic boats: roboats. In: 2019 IEEE/RSJ international conference on intelligent robots and systems (IROS), Macau, China, pp 8230–8237",
+            "DOI": "10.1109/IROS40897.2019.8967525"
+          },
+          {
+            "key": "237-1_CR15",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Knizhnik G, Yim M (2022a) Amplitude control for parallel lattices of docked modboats. In: 2022 international conference on robotics and automation (ICRA), Philadelphia, PA, pp 3027–3033",
+            "DOI": "10.1109/ICRA46639.2022.9812381"
+          },
+          {
+            "key": "237-1_CR16",
+            "unstructured": "Knizhnik G, Yim M (2022b) Collective control for arbitrary configurations of docked modboats, arXiv:2209.04000 [cs.RO]. https://arxiv.org/abs/2209.04000"
+          },
+          {
+            "key": "237-1_CR17",
+            "doi-asserted-by": "publisher",
+            "first-page": "2362",
+            "DOI": "10.1109/IROS.2004.1389762",
+            "volume-title": "2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE Cat. No. 04CH37566)",
+            "author": "K Kotay",
+            "year": "2004",
+            "unstructured": "Kotay K, Rus D (2004) Generic distributed assembly and repair algorithms for self-reconfiguring robots. In: 2004 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (IEEE Cat. No. 04CH37566), vol 3. IEEE, pp 2362–2369"
+          },
+          {
+            "issue": "6",
+            "key": "237-1_CR18",
+            "doi-asserted-by": "publisher",
+            "first-page": "1370",
+            "DOI": "10.1109/TRO.2009.2030225",
+            "volume": "25",
+            "author": "H Kress-Gazit",
+            "year": "2009",
+            "unstructured": "Kress-Gazit H, Fainekos GE, Pappas GJ (2009) Temporal-logic-based reactive mission and motion planning. IEEE Trans Robot 25(6):1370–1381",
+            "journal-title": "IEEE Trans Robot"
+          },
+          {
+            "key": "237-1_CR19",
+            "unstructured": "Loura Hall (2023). https://Nasa.gov/general/. Accessed 14 Apr 2024. https://www.nasa.gov/general/trusses-temporarily-robots-unite-to-surmount-sandy-entrapments-then-separate/"
+          },
+          {
+            "key": "237-1_CR20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.7551/mitpress/4527.001.0001",
+            "volume-title": "Mechanics of robotic manipulation",
+            "author": "MT Mason",
+            "year": "2001",
+            "unstructured": "Mason MT (2001) Mechanics of robotic manipulation. MIT Press"
+          },
+          {
+            "key": "237-1_CR21",
+            "first-page": "2668",
+            "volume-title": "2011 IEEE/RSJ international conference on intelligent robots and systems (IROS)",
+            "author": "D Mellinger",
+            "year": "2011",
+            "unstructured": "Mellinger D, Lindsey Q, Shomin M, Kumar V (2011) Design, modeling, estimation and control for aerial grasping and manipulation. In: 2011 IEEE/RSJ international conference on intelligent robots and systems (IROS). IEEE, pp 2668–2673"
+          },
+          {
+            "key": "237-1_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "545",
+            "DOI": "10.1007/978-3-642-32723-0_39",
+            "volume-title": "Distributed autonomous robotic systems",
+            "author": "D Mellinger",
+            "year": "2013",
+            "unstructured": "Mellinger D, Shomin M, Michael N, Kumar V (2013) Cooperative grasping and transport using multiple quadrotors. In: Distributed autonomous robotic systems. Springer, pp 545–558"
+          },
+          {
+            "key": "237-1_CR23",
+            "first-page": "1894",
+            "volume-title": "Proceedings of 1995 IEEE international conference on robotics and automation, 1995",
+            "author": "JD Morrow",
+            "year": "1995",
+            "unstructured": "Morrow JD, Khosla PK (1995) Sensori-motor primitives for robotic assembly skills. In: Proceedings of 1995 IEEE international conference on robotics and automation, 1995, vol 2. IEEE, pp 1894–1899"
+          },
+          {
+            "issue": "4",
+            "key": "237-1_CR24",
+            "doi-asserted-by": "publisher",
+            "first-page": "431",
+            "DOI": "10.1109/TMECH.2002.806220",
+            "volume": "7",
+            "author": "S Murata",
+            "year": "2002",
+            "unstructured": "Murata S, Yoshida E, Kamimura A, Kurokawa H, Tomita K, Kokaji S (2002) M-tran: Self-reconfigurable modular robotic system. IEEE/ASME Trans Mechatron 7(4):431–441",
+            "journal-title": "IEEE/ASME Trans Mechatron"
+          },
+          {
+            "key": "237-1_CR25",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Naldi R, Forte F, Marconi L (2011) A class of modular aerial robots. In: 2011 50th IEEE conference on decision and control and European control conference, pp 3584–3589",
+            "DOI": "10.1109/CDC.2011.6161298"
+          },
+          {
+            "issue": "1",
+            "key": "237-1_CR26",
+            "doi-asserted-by": "publisher",
+            "first-page": "139",
+            "DOI": "10.1007/s10514-015-9441-4",
+            "volume": "40",
+            "author": "J Neubert",
+            "year": "2016",
+            "unstructured": "Neubert J, Lipson H (2016) Soldercubes: a self-soldering self-reconfiguring modular robot system. Auton Robot 40(1):139–158",
+            "journal-title": "Auton Robot"
+          },
+          {
+            "issue": "3",
+            "key": "237-1_CR27",
+            "doi-asserted-by": "publisher",
+            "first-page": "375",
+            "DOI": "10.1177/0278364913501212",
+            "volume": "33",
+            "author": "R Oung",
+            "year": "2014",
+            "unstructured": "Oung R, D’Andrea R (2014) The distributed flight array: design, implementation, and analysis of a modular vertical take-off and landing vehicle. Int J Robotics Res 33(3):375–400",
+            "journal-title": "Int J Robotics Res"
+          },
+          {
+            "issue": "3–4",
+            "key": "237-1_CR28",
+            "doi-asserted-by": "publisher",
+            "first-page": "403",
+            "DOI": "10.1177/0278364907089350",
+            "volume": "27",
+            "author": "M Park",
+            "year": "2008",
+            "unstructured": "Park M, Chitta S, Teichman A, Yim M (2008) Automatic configuration recognition methods in modular robots. Int J Robotics Res 27(3–4):403–421",
+            "journal-title": "Int J Robotics Res"
+          },
+          {
+            "issue": "3",
+            "key": "237-1_CR29",
+            "doi-asserted-by": "publisher",
+            "first-page": "958",
+            "DOI": "10.1109/TASE.2015.2416678",
+            "volume": "12",
+            "author": "J Paulos",
+            "year": "2015",
+            "unstructured": "Paulos J, Eckenstein N, Tosun T, Seo J, Davey J, Greco J, Kumar V, Yim M (2015) Automated self-assembly of large maritime structures by a team of robotic boats. IEEE Trans Autom Sci Eng 12(3):958–968",
+            "journal-title": "IEEE Trans Autom Sci Eng"
+          },
+          {
+            "key": "237-1_CR30",
+            "doi-asserted-by": "publisher",
+            "first-page": "1925",
+            "DOI": "10.1109/ICRA.2015.7139450",
+            "volume-title": "2015 IEEE international conference on robotics and automation (ICRA)",
+            "author": "JW Romanishin",
+            "year": "2015",
+            "unstructured": "Romanishin JW, Gilpin K, Claici S, Rus D (2015) 3d m-blocks: self-reconfiguring robots capable of locomotion via pivoting in three dimensions. In: 2015 IEEE international conference on robotics and automation (ICRA). IEEE, pp 1925–1932"
+          },
+          {
+            "issue": "3",
+            "key": "237-1_CR31",
+            "doi-asserted-by": "publisher",
+            "first-page": "1957",
+            "DOI": "10.1109/LRA.2018.2808541",
+            "volume": "3",
+            "author": "F Ruggiero",
+            "year": "2018",
+            "unstructured": "Ruggiero F, Lippiello V, Ollero A (2018) Aerial manipulation: a literature review. IEEE Robot Automation Lett 3(3):1957–1964",
+            "journal-title": "IEEE Robot Automation Lett"
+          },
+          {
+            "issue": "1",
+            "key": "237-1_CR32",
+            "doi-asserted-by": "publisher",
+            "first-page": "107",
+            "DOI": "10.1023/A:1026504804984",
+            "volume": "10",
+            "author": "D Rus",
+            "year": "2001",
+            "unstructured": "Rus D, Vona M (2001) Crystalline robots: self-reconfiguration with compressible unit modules. Auton Robot 10(1):107–124",
+            "journal-title": "Auton Robot"
+          },
+          {
+            "key": "237-1_CR33",
+            "doi-asserted-by": "publisher",
+            "first-page": "691",
+            "DOI": "10.1109/ICRA.2018.8461014",
+            "volume-title": "2018 IEEE international conference on robotics and automation (ICRA)",
+            "author": "D Saldaña",
+            "year": "2018",
+            "unstructured": "Saldaña D, Gabrich B, Li G, Yim M, Kumar V (2018) Modquad: the flying modular structure that self-assembles in midair. In: 2018 IEEE international conference on robotics and automation (ICRA). IEEE, pp 691–698"
+          },
+          {
+            "key": "237-1_CR34",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Seo J, Paik J, Yim M (2019) Modular reconfigurable robotics. Annu Rev Control Robot Auton Syst 2(1):63–88",
+            "DOI": "10.1146/annurev-control-053018-023834"
+          },
+          {
+            "key": "237-1_CR35",
+            "doi-asserted-by": "publisher",
+            "first-page": "2717",
+            "DOI": "10.1109/IROS.2017.8206098",
+            "volume-title": "2017 IEEE/RSJ international conference on intelligent robots and systems (IROS)",
+            "author": "A Spinos",
+            "year": "2017",
+            "unstructured": "Spinos A, Carroll D, Kientz T, Yim M (2017) Variable topology truss: design and analysis. In: 2017 IEEE/RSJ international conference on intelligent robots and systems (IROS). IEEE, pp 2717–2722"
+          },
+          {
+            "key": "237-1_CR36",
+            "volume-title": "Self-reconfigurable robots: an introduction",
+            "author": "K Stoy",
+            "year": "2010",
+            "unstructured": "Stoy K, Brandt D, Christensen DJ, Brandt D (2010) Self-reconfigurable robots: an introduction. MIT Press, Cambridge"
+          },
+          {
+            "key": "237-1_CR37",
+            "doi-asserted-by": "publisher",
+            "first-page": "6812",
+            "DOI": "10.1109/ICRA.2018.8463146",
+            "volume-title": "2018 IEEE international conference on robotics and automation (ICRA)",
+            "author": "P Swissler",
+            "year": "2018",
+            "unstructured": "Swissler P, Rubenstein M (2018) Fireant: a modular robot with full-body continuous docks. In: 2018 IEEE international conference on robotics and automation (ICRA). IEEE, pp 6812–6817"
+          },
+          {
+            "key": "237-1_CR38",
+            "doi-asserted-by": "publisher",
+            "first-page": "45",
+            "DOI": "10.1109/IROS.2016.7759033",
+            "volume-title": "2016 IEEE/RSJ international conference on intelligent robots and systems (IROS)",
+            "author": "T Tosun",
+            "year": "2016",
+            "unstructured": "Tosun T, Davey J, Liu C, Yim M (2016) Design and characterization of the ep-face connector. In: 2016 IEEE/RSJ international conference on intelligent robots and systems (IROS). IEEE, pp 45–51"
+          },
+          {
+            "issue": "2",
+            "key": "237-1_CR39",
+            "doi-asserted-by": "publisher",
+            "first-page": "97",
+            "DOI": "10.1016/j.robot.2005.09.018",
+            "volume": "54",
+            "author": "V Trianni",
+            "year": "2006",
+            "unstructured": "Trianni V, Nolfi S, Dorigo M (2006) Cooperative hole avoidance in a swarm-bot. Robot Auton Syst 54(2):97–103",
+            "journal-title": "Robot Auton Syst"
+          },
+          {
+            "key": "237-1_CR40",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wali O, Shahab MT, Feron E (2023) A non- planar assembly of modular tetrahedral-shaped aerial robots. In: 2023 IEEE international conference on robotics and automation (ICRA), pp 11901–11907",
+            "DOI": "10.1109/ICRA48891.2023.10161301"
+          },
+          {
+            "key": "237-1_CR41",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wang W, Shan T, Leoni P, Fernandez-Gutierrez D, Meyers D, Ratti C, Rus D (2020) Roboat II: a novel autonomous surface vessel for urban environments. In: 2020 IEEE/RSJ international conference on intelligent robots and systems (IROS), Las Vegas, NV (Virtual), pp 1740–1747",
+            "DOI": "10.1109/IROS45743.2020.9340712"
+          },
+          {
+            "issue": "6172",
+            "key": "237-1_CR42",
+            "doi-asserted-by": "publisher",
+            "first-page": "754",
+            "DOI": "10.1126/science.1245842",
+            "volume": "343",
+            "author": "J Werfel",
+            "year": "2014",
+            "unstructured": "Werfel J, Petersen K, Nagpal R (2014) Designing collective behavior in a termite- inspired robot construction team. Science 343(6172):754–758",
+            "journal-title": "Science"
+          },
+          {
+            "key": "237-1_CR43",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wu Z, Zhao R, Yu M, Zhao Y, Yang W, Zhang W, Li F (2022) Design, modeling and control of a composable and extensible drone with tilting rotors. In: 2022 IEEE/RSJ international conference on intelligent robots and systems (IROS), pp 12682–12689",
+            "DOI": "10.1109/IROS47612.2022.9982090"
+          },
+          {
+            "key": "237-1_CR44",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Xu J, D’Antonio DS, Saldaña D (2021) H-modquad: modular multi-rotors with 4, 5, and 6 controllable dof. In: 2021 IEEE international conference on robotics and automation (ICRA), pp 190–196",
+            "DOI": "10.1109/ICRA48506.2021.9561016"
+          },
+          {
+            "key": "237-1_CR45",
+            "first-page": "514",
+            "volume-title": "Proceedings of IEEE international conference on robotics and automation, 2000. ICRA’00",
+            "author": "M Yim",
+            "year": "2000",
+            "unstructured": "Yim M, Duff DG, Roufas KD (2000) Poly-bot: a modular reconfigurable robot. In: Proceedings of IEEE international conference on robotics and automation, 2000. ICRA’00, vol 1. IEEE, pp 514–520"
+          },
+          {
+            "issue": "2",
+            "key": "237-1_CR46",
+            "doi-asserted-by": "publisher",
+            "first-page": "30",
+            "DOI": "10.1109/6.981854",
+            "volume": "39",
+            "author": "M Yim",
+            "year": "2002",
+            "unstructured": "Yim M, Zhang Y, Duff D (2002) Modular robots. IEEE Spectr 39(2):30–34",
+            "journal-title": "IEEE Spectr"
+          },
+          {
+            "issue": "1",
+            "key": "237-1_CR47",
+            "doi-asserted-by": "publisher",
+            "first-page": "43",
+            "DOI": "10.1109/MRA.2007.339623",
+            "volume": "14",
+            "author": "M Yim",
+            "year": "2007",
+            "unstructured": "Yim M, Shen W-M, Salemi B, Rus D, Moll M, Lipson H, Klavins E, Chirikjian GS (2007) Modular self-reconfigurable robot systems [grand challenges of robotics]. IEEE Robot Automation Mag 14(1):43–52",
+            "journal-title": "IEEE Robot Automation Mag"
+          },
+          {
+            "issue": "2",
+            "key": "237-1_CR48",
+            "doi-asserted-by": "publisher",
+            "first-page": "212",
+            "DOI": "10.20965/jrm.2001.p0212",
+            "volume": "13",
+            "author": "E Yoshida",
+            "year": "2001",
+            "unstructured": "Yoshida E, Murata S, Kokaji S, Tomita K, Kurokawa H (2001) Micro self-reconfigurable modular robot using shape memory alloy. J Robotics Mechatron 13(2):212–218",
+            "journal-title": "J Robotics Mechatron"
+          },
+          {
+            "key": "237-1_CR49",
+            "doi-asserted-by": "publisher",
+            "first-page": "5175",
+            "DOI": "10.1109/ICRA.2017.7989606",
+            "volume-title": "2017 IEEE International Conference on Robotics and Automation (ICRA)",
+            "author": "M Zhao",
+            "year": "2017",
+            "unstructured": "Zhao M, Kawasaki K, Chen X, Noda S, Okada K, Inaba M (2017) Whole-body aerial manipulation by transformable multirotor with two-dimensional multilinks. In: 2017 IEEE International Conference on Robotics and Automation (ICRA). IEEE, pp 5175–5182"
+          },
+          {
+            "issue": "4–5",
+            "key": "237-1_CR50",
+            "doi-asserted-by": "publisher",
+            "first-page": "214",
+            "DOI": "10.1177/02783649221112446",
+            "volume": "42",
+            "author": "M Zhao",
+            "year": "2023",
+            "unstructured": "Zhao M, Okada K, Inaba M (2023) Versatile articulated aerial robot dragon: aerial manipulation and grasping by vectorable thrust control. Int J Robotics Res 42(4–5):214–248",
+            "journal-title": "Int J Robotics Res"
+          }
+        ],
+        "container-title": [
+          "Encyclopedia of Robotics"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/978-3-642-41610-1_237-1",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              2,
+              17
+            ]
+          ],
+          "date-time": "2025-02-17T18:03:31Z",
+          "timestamp": 1739815411000
+        },
+        "score": 18.943802,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/978-3-642-41610-1_237-1"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783642416101",
+          "9783642416101"
+        ],
+        "references-count": 50,
+        "URL": "https://doi.org/10.1007/978-3-642-41610-1_237-1",
+        "published": {
+          "date-parts": [
+            [
+              2025
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "13 October 2024, 00:00:00",
+            "order": 1,
+            "name": "received",
+            "label": "Received",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          },
+          {
+            "value": "2 December 2024, 00:00:00",
+            "order": 2,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          },
+          {
+            "value": "18 February 2025",
+            "order": 3,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ChapterHistory",
+              "label": "Chapter History"
+            }
+          }
+        ]
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

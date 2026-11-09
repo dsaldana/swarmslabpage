@@ -1,0 +1,120 @@
+[
+  {
+    "slug": "modquad",
+    "name": "ModQuad",
+    "year": 2018,
+    "description": "ModQuad is the first flying modular robot that can dock and self-assemble in midair. The structure is composed of agile flying modules that can easily move in a three-dimensional environment. Each module is based on a quadrotor platform within a cuboid frame, which allows it to attach to other modules.",
+    "imagePaper": "2018-modquad-the-flying-modular-structure-that-self-assembles-in-midair",
+    "papers": ["2018-modquad-the-flying-modular-structure-that-self-assembles-in-midair"]
+  },
+  {
+    "slug": "flying-gripper",
+    "name": "Flying Gripper",
+    "year": 2018,
+    "description": "Cooperative modular robots that can grasp objects. Four modular quadrotors connected through magnetic hinges form a flying four-bar gripper that can grasp and transport objects.",
+    "imagePaper": "2018-a-flying-gripper-based-on-cuboid-modular-robots",
+    "imageAlt": "Modular aerial robots forming a hinged flying gripper around an object.",
+    "papers": ["2018-a-flying-gripper-based-on-cuboid-modular-robots"]
+  },
+  {
+    "slug": "modquad-vi",
+    "name": "ModQuad-Vi",
+    "year": 2019,
+    "description": "Vision-based modular quadrotors capable of autonomous docking.",
+    "imagePaper": "2019-modquad-vi-a-vision-based-self-assembling-modular-quadrotor",
+    "papers": [
+      "2019-modquad-vi-a-vision-based-self-assembling-modular-quadrotor",
+      "2021-vision-based-self-assembly-for-modular-multirotor-structures"
+    ]
+  },
+  {
+    "slug": "h-modquad",
+    "name": "H-ModQuad",
+    "year": 2021,
+    "description": "Heterogeneous modular multirotor with 4, 5, or 6 controllable degrees of freedom.",
+    "imagePaper": "2021-h-modquad-modular-multi-rotors-with-4-5-and-6-controllable-dof",
+    "papers": [
+      "2021-h-modquad-modular-multi-rotors-with-4-5-and-6-controllable-dof",
+      "2023-finding-optimal-modular-robots-for-aerial-tasks",
+      "2025-modular-multirotors-from-quadrotors-to-fully-actuated-aerial-vehicles"
+    ]
+  },
+  {
+    "slug": "catenary-robot",
+    "name": "Catenary Robot",
+    "year": 2021,
+    "description": "Two quadrotors connected by a cable, capable of manipulating and transporting objects.",
+    "imagePaper": "2021-the-catenary-robot-design-and-control-of-a-cable-propelled-by-two-quadrotors",
+    "papers": [
+      "2021-the-catenary-robot-design-and-control-of-a-cable-propelled-by-two-quadrotors",
+      "2021-non-prehensile-manipulation-of-cuboid-objects-using-a-catenary-robot",
+      "2021-adaptive-control-for-cooperative-aerial-transportation-using-catenary-robots",
+      "2022-folding-knots-using-a-team-of-aerial-robots",
+      "2023-forming-and-controlling-hitches-in-midair-using-aerial-robots",
+      "2026-from-hitch-to-lift-autonomous-cable-interlacing-by-multi-uav-teams-for-aerial-grasping-and-transportation"
+    ]
+  },
+  {
+    "slug": "pogodrone",
+    "name": "PogoDrone",
+    "year": 2022,
+    "description": "Quadrotor with a passive jumping mechanism.",
+    "imagePaper": "2022-pogodrone-design-model-and-control-of-a-jumping-quadrotor",
+    "papers": ["2022-pogodrone-design-model-and-control-of-a-jumping-quadrotor"]
+  },
+  {
+    "slug": "sblimp",
+    "name": "SBlimp (Swing-Blimp)",
+    "year": 2023,
+    "description": "Helium-assisted robot that exploits swinging dynamics for translation.",
+    "imagePaper": "2023-sblimp-design-model-and-translational-motion-control-for-a-swing-blimp",
+    "papers": ["2023-sblimp-design-model-and-translational-motion-control-for-a-swing-blimp"]
+  },
+  {
+    "slug": "aerial-hitch-robot",
+    "name": "Aerial Hitch Robot",
+    "year": 2023,
+    "endYear": 2026,
+    "description": "Multi-UAV cable system that forms and controls hitches for autonomous grasping and transportation.",
+    "imagePaper": "2026-from-hitch-to-lift-autonomous-cable-interlacing-by-multi-uav-teams-for-aerial-grasping-and-transportation",
+    "papers": [
+      "2023-forming-and-controlling-hitches-in-midair-using-aerial-robots",
+      "2026-from-hitch-to-lift-autonomous-cable-interlacing-by-multi-uav-teams-for-aerial-grasping-and-transportation"
+    ]
+  },
+  {
+    "slug": "mochiswarm",
+    "name": "MochiSwarm",
+    "year": 2025,
+    "description": "Modular micro-blimp swarm platform for autonomous multi-robot experiments.",
+    "imagePaper": "2025-mochiswarm",
+    "papers": ["2025-mochiswarm"]
+  },
+  {
+    "slug": "spinning-blimp",
+    "name": "Spinning Blimp",
+    "year": 2025,
+    "description": "Minimalist blimp using continuous rotation and passive aerodynamic surfaces for locomotion.",
+    "imagePaper": "2025-spinning-blimp",
+    "papers": ["2025-spinning-blimp"]
+  },
+  {
+    "slug": "flysurf",
+    "name": "FlySurf",
+    "year": 2025,
+    "description": "Flying deformable surface controlled by multiple aerial robots.",
+    "imagePaper": "2025-flysurf-a-flying-robotic-surface-with-shape-morphing-control",
+    "papers": [
+      "2025-flysurf-a-flying-robotic-surface-with-shape-morphing-control",
+      "2025-flysurf-a-flying-robotic-surface-with-shape-morphing-and-motion-control"
+    ]
+  },
+  {
+    "slug": "airbender",
+    "name": "AirBender",
+    "year": 2025,
+    "description": "Dual-UAV system for adaptive transportation of bendable objects.",
+    "imagePaper": "2025-airbender-adaptive-transportation-of-bendable-objects-using-dual-uavs",
+    "papers": ["2025-airbender-adaptive-transportation-of-bendable-objects-using-dual-uavs"]
+  }
+]

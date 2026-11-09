@@ -1,0 +1,11 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import GalleryGrid from '../components/GalleryGrid.astro';
+const items=(await getCollection('gallery')).sort((a,b)=>a.id.localeCompare(b.id));
+---
+<BaseLayout title="Lab life — Robot Versatility Workshop 2022">
+  <PageHeader eyebrow="Lab life" title="Robot Versatility Workshop" lead="Talks, posters, and robot demonstrations at Lehigh’s Autonomous and Intelligent Robotics Laboratory. May 27, 2022." />
+  <div class="container-page py-12"><p class="mb-8 max-w-3xl leading-relaxed text-slate-600">The first Workshop on Robot Versatility brought researchers together for a day of ideas and hands-on demonstrations. <a href="https://sites.google.com/lehigh.edu/robotworkshop" class="text-primary-700 underline">Visit the workshop website for the agenda and speakers.</a></p><GalleryGrid items={items} /></div>
+</BaseLayout>

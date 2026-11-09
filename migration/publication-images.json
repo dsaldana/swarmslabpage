@@ -1,0 +1,642 @@
+{
+  "checked": "2026-11-08",
+  "images": [
+    {
+      "slug": "2014-searching-and-tracking-anomalies-with-multiple-robots-a-probabilistic-approach",
+      "path": "src/assets/publications/2014-searching-and-tracking-anomalies-with-multiple-robots-a-probabilistic-approach.png",
+      "alt": "Three robots and blue particle samples estimating the boundary of an irregular anomaly.",
+      "extractionDetails": "Original author image, explicitly assigned as minifigure to bibliography record lars14. Downloaded without alteration.",
+      "evidenceURLs": [
+        "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js"
+      ],
+      "width": 376,
+      "height": 299,
+      "bytes": 18884,
+      "sourceUrl": "https://www.lehigh.edu/~das819/assets/img/projects/particles.png"
+    },
+    {
+      "slug": "2015-a-distributed-multi-robot-approach-for-the-detection-and-tracking-of-multiple-dynamic-anomalies",
+      "path": "src/assets/publications/2015-a-distributed-multi-robot-approach-for-the-detection-and-tracking-of-multiple-dynamic-anomalies.jpg",
+      "alt": "Three mobile robots detecting and tracking two orange anomaly regions in a laboratory experiment.",
+      "extractionDetails": "Original author image, explicitly assigned as figure to bibliography record icra15. Downloaded without alteration.",
+      "evidenceURLs": [
+        "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js"
+      ],
+      "width": 1260,
+      "height": 789,
+      "bytes": 695256,
+      "sourceUrl": "https://www.lehigh.edu/~das819/assets/img/projects/roomba-multiple.jpg"
+    },
+    {
+      "slug": "2015-detecting-latent-variables-of-interest-in-geo-localized-environments-using-an-aerial-robot",
+      "path": "src/assets/publications/2015-detecting-latent-variables-of-interest-in-geo-localized-environments-using-an-aerial-robot.jpg",
+      "alt": "Hummingbird quadrotor carrying a smartphone for aerial sensing and inference.",
+      "extractionDetails": "Original author image, explicitly assigned as minifigure to bibliography record lars15. Downloaded without alteration.",
+      "evidenceURLs": [
+        "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js"
+      ],
+      "width": 600,
+      "height": 315,
+      "bytes": 158620,
+      "sourceUrl": "https://www.lehigh.edu/~das819/assets/img/projects/android-hummingbird.jpg"
+    },
+    {
+      "slug": "2015-searching-for-regions-out-of-normal-conditions-using-a-team-of-robots",
+      "path": "src/assets/publications/2015-searching-for-regions-out-of-normal-conditions-using-a-team-of-robots.jpg",
+      "alt": "Four mobile robots searching around a red irregular anomaly region on a laboratory floor.",
+      "extractionDetails": "Original author image, explicitly assigned as figure to bibliography record lars14chapter. Downloaded without alteration.",
+      "evidenceURLs": [
+        "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js"
+      ],
+      "width": 400,
+      "height": 257,
+      "bytes": 134583,
+      "sourceUrl": "https://www.lehigh.edu/~das819/assets/img/projects/roombas.jpg"
+    },
+    {
+      "path": "src/assets/publications/2015-y-rescue-team-description-paper.webp",
+      "alt": "Diagram showing how Y-Rescue fire brigade agents score buildings using fire predictions, distance, importance, and water requirements.",
+      "extractionDetails": "Figure 1, PDF page 4, cropped to artwork excluding caption; rectangle [132,228,486,331] PDF points, rendered at 216 dpi.",
+      "width": 1062,
+      "height": 309,
+      "slug": "2015-y-rescue-team-description-paper",
+      "sourceUrl": "https://cdn.robocup.org/rsim/public/competitions/2015-RSL/info/agent/rsl15-tdp-agent-Y-Rescue.pdf"
+    },
+    {
+      "slug": "2016-dynamic-perimeter-surveillance-with-a-team-of-robots",
+      "title": "Dynamic perimeter surveillance with a team of robots",
+      "path": "public/wp-content/uploads/2022/01/perimeter2.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/perimeter2.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Diagram of robots patrolling a perimeter around a changing region."
+    },
+    {
+      "slug": "2016-predicting-environmental-boundary-behaviors-with-a-mobile-robot",
+      "title": "Predicting Environmental Boundary Behaviors With a Mobile Robot",
+      "path": "public/wp-content/uploads/2021/11/anomalies2.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2021/11/anomalies2.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Mobile robot tracing and predicting an environmental boundary."
+    },
+    {
+      "slug": "2017-a-decentralized-algorithm-for-assembling-structures-with-modular-robots",
+      "title": "A decentralized algorithm for assembling structures with modular robots",
+      "path": "public/wp-content/uploads/2022/01/gmodrotor.jpg",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/gmodrotor.jpg",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Simulation of modular robotic boats assembled into a branching structure."
+    },
+    {
+      "slug": "2017-cooperative-prediction-of-time-varying-boundaries-with-a-team-of-robots",
+      "title": "Cooperative prediction of time-varying boundaries with a team of robots",
+      "path": "public/wp-content/uploads/2022/01/boats.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/boats.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Robotic boats monitoring a changing boundary in water."
+    },
+    {
+      "slug": "2017-distributed-multi-robot-coordination-for-dynamic-perimeter-surveillance-in-uncertain-environments",
+      "path": "src/assets/publications/2017-distributed-multi-robot-coordination-for-dynamic-perimeter-surveillance-in-uncertain-environments.png",
+      "alt": "Robots forming a deformable virtual fence around livestock in an escort mission.",
+      "extractionDetails": "Original full-resolution author graphic; visually verified against the same figure under paper TUA5.4 on PDF page 10 of the official ICRA 2017 digest. The author bibliography lists this image in the exact paper record as a commented minifigure. Downloaded without alteration.",
+      "evidenceURLs": [
+        "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js",
+        "https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2017/www.icra2017.org/sites/default/files/ICRA17_Digests-Day1-V1_2-s.pdf"
+      ],
+      "width": 2551,
+      "height": 2284,
+      "bytes": 792763,
+      "sourceUrl": "https://www.lehigh.edu/~das819/assets/img/projects/herding.png"
+    },
+    {
+      "slug": "2017-resilient-consensus-for-time-varying-networks-of-dynamic-agents",
+      "title": "Resilient consensus for time-varying networks of dynamic agents",
+      "path": "public/wp-content/uploads/2022/01/acc2.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/acc2.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Dynamic agents moving around a circular trajectory."
+    },
+    {
+      "slug": "2017-resilient-flocking-for-mobile-robot-teams",
+      "title": "Resilient Flocking for Mobile Robot Teams",
+      "path": "public/wp-content/uploads/2021/11/flocking-e1637815716758.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2021/11/flocking-e1637815716758.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Robot trajectories converging into a resilient flocking formation."
+    },
+    {
+      "slug": "2018-a-flying-gripper-based-on-cuboid-modular-robots",
+      "title": "A Flying Gripper Based on Cuboid Modular Robots",
+      "path": "public/wp-content/uploads/2022/01/gripper_midair_lowres.jpeg",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/gripper_midair_lowres.jpeg",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Two cuboid aerial modules forming a flying gripper around an object."
+    },
+    {
+      "slug": "2018-modquad-the-flying-modular-structure-that-self-assembles-in-midair",
+      "title": "ModQuad: The Flying Modular Structure that Self-Assembles in Midair",
+      "path": "public/wp-content/uploads/2022/01/modquad_lowres.jpg",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/modquad_lowres.jpg",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Two modular quadrotor units approaching one another for midair assembly."
+    },
+    {
+      "slug": "2018-resilient-backbones-in-hexagonal-robot-formations",
+      "title": "Resilient Backbones in Hexagonal Robot Formations",
+      "path": "public/wp-content/uploads/2022/01/minihexagonal.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/minihexagonal.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Hexagonal robot formation with highlighted resilient backbone nodes."
+    },
+    {
+      "slug": "2018-triangular-networks-for-resilient-formations",
+      "title": "Triangular Networks for Resilient Formations",
+      "path": "public/wp-content/uploads/2022/01/triangular2.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/triangular2.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Triangular network geometry and communication ranges for resilient formations."
+    },
+    {
+      "slug": "2019-design-and-control-of-aerial-modules-for-inflight-self-disassembly",
+      "title": "Design and Control of Aerial Modules for Inflight Self-Disassembly",
+      "path": "public/wp-content/uploads/2021/11/detaching.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2021/11/detaching.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Modular aerial robots separating during flight."
+    },
+    {
+      "slug": "2019-design-guarantees-for-resilient-robot-formations-on-lattices",
+      "title": "Design Guarantees for Resilient Robot Formations on Lattices",
+      "path": "public/wp-content/uploads/2021/11/dense.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2021/11/dense.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Robot formations and communication links on three-dimensional lattices."
+    },
+    {
+      "slug": "2019-modquad-vi-a-vision-based-self-assembling-modular-quadrotor",
+      "title": "ModQuad-Vi: A Vision-Based Self-Assembling Modular Quadrotor",
+      "path": "public/wp-content/uploads/2021/11/modquadvi.jpg",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2021/11/modquadvi.jpg",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Two ModQuad-Vi aerial modules with visual markers for self-assembly."
+    },
+    {
+      "slug": "2020-dense-r-robust-formations-on-lattices",
+      "title": "Dense r-robust formations on lattices",
+      "path": "public/wp-content/uploads/2022/01/cube.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/cube.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Three-dimensional lattice of robots and communication links."
+    },
+    {
+      "slug": "2020-modular-robot-formation-and-routing-for-resilient-consensus",
+      "title": "Modular Robot Formation and Routing for Resilient Consensus",
+      "path": "public/wp-content/uploads/2022/01/Selection_011.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/Selection_011.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Diagram of modular robot formation and routing along a closed path."
+    },
+    {
+      "slug": "2020-self-reconfiguration-in-response-to-faults-in-modular-aerial-systems",
+      "title": "Self-Reconfiguration in Response to Faults in Modular Aerial Systems",
+      "path": "public/wp-content/uploads/2021/11/reconf.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2021/11/reconf.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Planned and actual aerial trajectories with a reconfigured modular robot."
+    },
+    {
+      "slug": "2021-adaptive-control-for-cooperative-aerial-transportation-using-catenary-robots",
+      "title": "Adaptive Control for Cooperative Aerial Transportation Using Catenary Robots",
+      "path": "public/wp-content/uploads/2022/01/problem.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/problem.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Diagram of cooperative aerial transport with cables supporting a cuboid payload."
+    },
+    {
+      "slug": "2021-estimating-boundary-dynamics-using-robotic-sensor-networks-with-pointwise-measurements",
+      "title": "Estimating boundary dynamics using robotic sensor networks with pointwise measurements",
+      "path": "public/wp-content/uploads/2021/11/boat.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2021/11/boat.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Robotic boat used to estimate changing environmental boundaries."
+    },
+    {
+      "slug": "2021-finding-structure-configurations-for-flying-modular-robots",
+      "title": "Finding Structure Configurations for Flying Modular Robots",
+      "path": "public/wp-content/uploads/2022/01/modquadof_arbitrary_diagram.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/modquadof_arbitrary_diagram.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Diagram of a flying modular structure with individual rotor thrust directions."
+    },
+    {
+      "slug": "2021-h-modquad-modular-multi-rotors-with-4-5-and-6-controllable-dof",
+      "title": "H-ModQuad: Modular Multi-Rotors with 4, 5, and 6 Controllable DOF",
+      "path": "public/wp-content/uploads/2022/01/main.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/main.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Assembled H-ModQuad aerial robot with tilted rotor modules."
+    },
+    {
+      "slug": "2021-non-prehensile-manipulation-of-cuboid-objects-using-a-catenary-robot",
+      "title": "Non-Prehensile Manipulation of Cuboid Objects Using a Catenary Robot",
+      "path": "public/wp-content/uploads/2021/11/real_robot1.jpg",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2021/11/real_robot1.jpg",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Two aerial robots using a hanging cable to manipulate a cuboid object."
+    },
+    {
+      "slug": "2021-resilient-consensus-in-robot-swarms-with-periodic-motion-and-intermittent-communication",
+      "title": "Resilient Consensus in Robot Swarms With Periodic Motion and Intermittent Communication",
+      "path": "public/wp-content/uploads/2022/01/CommRadius.jpg",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/CommRadius.jpg",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Periodic robot motion and intermittent communication links around a circular path."
+    },
+    {
+      "slug": "2021-resilient-task-allocation-in-heterogeneous-multi-robot-systems",
+      "title": "Resilient Task Allocation in Heterogeneous Multi-Robot Systems",
+      "path": "public/wp-content/uploads/2022/01/coppelia-screenshot-2.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/coppelia-screenshot-2.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Simulation of a heterogeneous robot team allocated to tasks in different regions."
+    },
+    {
+      "slug": "2021-the-catenary-robot-design-and-control-of-a-cable-propelled-by-two-quadrotors",
+      "title": "The Catenary Robot: Design and Control of a Cable Propelled by Two Quadrotors",
+      "path": "public/wp-content/uploads/2022/01/catenary.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/catenary.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Two quadrotors supporting the suspended cable of the catenary robot."
+    },
+    {
+      "slug": "2021-vision-based-self-assembly-for-modular-multirotor-structures",
+      "title": "Vision-Based Self-Assembly for Modular Multirotor Structures",
+      "path": "public/wp-content/uploads/2022/01/expanded7_circles.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/01/expanded7_circles.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Diagram of modular multirotor units with vision markers for self-assembly."
+    },
+    {
+      "path": "src/assets/publications/2022-adaptive-malicious-robot-detection-in-dynamic-topologies.webp",
+      "alt": "Four ground robots divided between two sites in a malicious-robot detection experiment.",
+      "extractionDetails": "Original embedded hardware-experiment image (PDF image object 344, 1119×591 pixels) from Stephanie Gil’s GraphEx 2025 presentation, PDF slide 53, which explicitly cites Adaptive Malicious Robot Detection in Dynamic Topologies (CDC 2022). No crop. Representative author-presented project image, not claimed as an extracted paper figure.",
+      "width": 1119,
+      "height": 591,
+      "pdfPage": 53,
+      "slug": "2022-adaptive-malicious-robot-detection-in-dynamic-topologies",
+      "sourceUrl": "https://graphex.mit.edu/files/2025/05/Graphex-2025-Day-1-Gil-Resilient-Coordination.pdf",
+      "sourcePage": "https://react.seas.harvard.edu/publications/adaptive-malicious-robot-detection-in-dynamic-topologies/"
+    },
+    {
+      "slug": "2022-customizable-modquad-a-versatile-hardware-software-platform-to-develop-lightweight-and-low-cost-aerial-vehicles",
+      "path": "src/assets/publications/2022-customizable-modquad-a-versatile-hardware-software-platform-to-develop-lightweight-and-low-cost-aerial-vehicles.jpg",
+      "sourceUrl": "https://www.researchgate.net/figure/Example-of-a-hardware-realization-of-a-CustomizableModQuad-module_fig2_368390753",
+      "sourceLocal": "IROS workshop paper: Customizable ModQuad/figures_new/components-min.pdf",
+      "alt": "A Customizable-ModQuad module with its carbon-fiber frame, rotors, electronics, and labeled components.",
+      "method": "Author manuscript figure source PDF rendered",
+      "page": 1,
+      "figure": "Figure 6",
+      "cropPoints": [
+        0.0,
+        0.0,
+        3862.5,
+        2550.0
+      ],
+      "width": 1200,
+      "height": 793
+    },
+    {
+      "slug": "2022-folding-knots-using-a-team-of-aerial-robots",
+      "title": "Folding Knots Using a Team of Aerial Robots",
+      "path": "public/wp-content/uploads/2023/05/catenary_background_knots-640x360.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2023/05/catenary_background_knots-640x360.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Cable knot formation diagrams from the aerial robot team study."
+    },
+    {
+      "slug": "2022-planning-for-modular-aerial-robotic-tools-with-temporal-logic-constraints",
+      "path": "src/assets/publications/2022-planning-for-modular-aerial-robotic-tools-with-temporal-logic-constraints.jpg",
+      "sourceUrl": "https://cristianvasile.com/sites/default/files/articole/CDC2022_MART.pdf",
+      "alt": "Modular aerial robots using grippers and screwdrivers to build a wooden fence.",
+      "method": "PDF figure extraction",
+      "page": 1,
+      "figure": "Figure 1",
+      "cropPoints": [
+        313.2,
+        157.67,
+        560.17,
+        302.84
+      ],
+      "width": 989,
+      "height": 582
+    },
+    {
+      "slug": "2022-pogodrone-design-model-and-control-of-a-jumping-quadrotor",
+      "title": "PogoDrone: Design, Model, and Control of a Jumping Quadrotor",
+      "path": "public/wp-content/uploads/2022/05/title-640x294.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2022/05/title-640x294.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Sequence of the PogoDrone quadrotor performing a jump."
+    },
+    {
+      "slug": "2023-a-novel-low-cost-recyclable-easy-to-build-robot-blimp-for-transporting-supplies-in-hard-to-reach-locations",
+      "path": "src/assets/publications/2023-a-novel-low-cost-recyclable-easy-to-build-robot-blimp-for-transporting-supplies-in-hard-to-reach-locations.jpg",
+      "sourceUrl": "https://arxiv.org/pdf/2309.06682",
+      "alt": "A low-cost red robot blimp flying outdoors among trees.",
+      "method": "PDF figure extraction",
+      "page": 1,
+      "figure": "Figure 1",
+      "cropPoints": [
+        313.2,
+        215.73,
+        554.4,
+        378.76
+      ],
+      "width": 966,
+      "height": 654
+    },
+    {
+      "path": "src/assets/publications/2023-dynamic-crowd-vetting-collaborative-detection-of-malicious-robots-in-dynamic-communication-networks.webp",
+      "alt": "Diagram of robots gathering trust observations and sharing trust vectors to identify malicious robots.",
+      "extractionDetails": "Figure 1, PDF page 1, cropped to artwork excluding caption; rectangle [316,523,557,683] PDF points, rendered at 216 dpi.",
+      "width": 723,
+      "height": 480,
+      "slug": "2023-dynamic-crowd-vetting-collaborative-detection-of-malicious-robots-in-dynamic-communication-networks",
+      "sourceUrl": "https://arxiv.org/pdf/2304.00551"
+    },
+    {
+      "slug": "2023-finding-optimal-modular-robots-for-aerial-tasks",
+      "title": "Finding Optimal Modular Robots for Aerial Tasks",
+      "path": "public/wp-content/uploads/2023/05/Graphic-Abstract-Polytope-640x360.png",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2023/05/Graphic-Abstract-Polytope-640x360.png",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Graphical abstract showing modular aerial robot designs, task forces, and feasible configurations."
+    },
+    {
+      "slug": "2023-forming-and-controlling-hitches-in-midair-using-aerial-robots",
+      "title": "Forming and Controlling Hitches in Midair Using Aerial Robots",
+      "path": "public/wp-content/uploads/2023/05/snapshot4-640x479.jpg",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2023/05/snapshot4-640x479.jpg",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Aerial robots arranging a cable into a hitch in midair."
+    },
+    {
+      "slug": "2023-learning-to-navigate-in-turbulent-flows-with-aerial-robot-swarms-a-cooperative-deep-reinforcement-learning-approach",
+      "path": "src/assets/publications/2023-learning-to-navigate-in-turbulent-flows-with-aerial-robot-swarms-a-cooperative-deep-reinforcement-learning-approach.jpg",
+      "sourceUrl": "https://arxiv.org/pdf/2306.04781",
+      "alt": "A simulated aerial robot swarm navigating a turbulent wind field across four time steps.",
+      "method": "PDF figure extraction",
+      "page": 1,
+      "figure": "Figure 1",
+      "cropPoints": [
+        310.5,
+        205,
+        564,
+        461.5
+      ],
+      "width": 988,
+      "height": 1000
+    },
+    {
+      "slug": "2023-sblimp-design-model-and-translational-motion-control-for-a-swing-blimp",
+      "title": "SBlimp: Design, Model, and Translational Motion Control for a Swing-Blimp",
+      "path": "public/wp-content/uploads/2023/11/blimp-640x360.jpg",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2023/11/blimp-640x360.jpg",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Helium balloon and suspended propulsion unit of the SBlimp prototype."
+    },
+    {
+      "slug": "2023-toward-fine-contact-interactions-learning-to-control-normal-contact-force-with-limited-information",
+      "title": "Toward Fine Contact Interactions: Learning to Control Normal Contact Force with Limited Information",
+      "path": "public/wp-content/uploads/2023/05/60320-640x542.jpg",
+      "sourceUrl": "https://swarmslab.com/wp-content/uploads/2023/05/60320-640x542.jpg",
+      "sourcePage": "https://swarmslab.com/publications/",
+      "kind": "original-wordpress-thumbnail",
+      "alt": "Robot arm experiments for learning normal contact forces with limited sensing."
+    },
+    {
+      "slug": "2024-kt-imitation-efficient-visual-imitation-for-autonomous-navigation-based-on-keypoint-timeline",
+      "path": "src/assets/publications/2024-kt-imitation-efficient-visual-imitation-for-autonomous-navigation-based-on-keypoint-timeline.jpg",
+      "sourceUrl": "https://doi.org/10.1109/LARS64411.2024.10786409",
+      "sourceLocal": "LARS2024 Timeline/figures/img_title.pdf",
+      "alt": "A KT-Imitation ground robot following reference and imitated paths with visual keypoints overlaid.",
+      "method": "Author manuscript figure source PDF rendered",
+      "page": 1,
+      "figure": "Figure 1",
+      "cropPoints": [
+        0.0,
+        0.0,
+        1012.5,
+        491.6338582677165
+      ],
+      "width": 1200,
+      "height": 583
+    },
+    {
+      "slug": "2024-rotor-fault-detection-and-isolation-in-aerial-vehicles-with-dozens-of-rotors",
+      "path": "src/assets/publications/2024-rotor-fault-detection-and-isolation-in-aerial-vehicles-with-dozens-of-rotors.jpg",
+      "sourceUrl": "https://www.cis.upenn.edu/~linhphan/papers/gandhi-lars24.pdf",
+      "alt": "ModQuad aerial vehicles with 12 and 28 rotors, illustrating redundant rotor configurations.",
+      "method": "PDF figure extraction",
+      "page": 1,
+      "figure": "Figure 1, right panel",
+      "cropPoints": [
+        456.915,
+        137.685,
+        559.39,
+        191.55
+      ],
+      "width": 411,
+      "height": 217
+    },
+    {
+      "slug": "2025-airbender-adaptive-transportation-of-bendable-objects-using-dual-uavs",
+      "path": "src/assets/publications/2025-airbender-adaptive-transportation-of-bendable-objects-using-dual-uavs.jpg",
+      "sourceUrl": "https://arxiv.org/pdf/2605.07003",
+      "alt": "Two quadrotors transporting and bending a flexible carbon-fiber strip.",
+      "method": "PDF figure extraction",
+      "page": 1,
+      "figure": "Figure 1",
+      "cropPoints": [
+        318.25,
+        163.75,
+        556.76,
+        277.24
+      ],
+      "width": 955,
+      "height": 454
+    },
+    {
+      "path": "src/assets/publications/2025-decentralized-adaptive-aerospace-transportation-of-unknown-loads-using-a-team-of-robots.webp",
+      "alt": "Simulated aerial robots cooperatively transporting a yellow payload.",
+      "extractionDetails": "Frame 89 of the coauthor-provided animated publication thumbnail; source page explicitly associates it with this DARS paper. No crop.",
+      "width": 960,
+      "height": 540,
+      "slug": "2025-decentralized-adaptive-aerospace-transportation-of-unknown-loads-using-a-team-of-robots",
+      "sourceUrl": "https://kevinaubertlomellini.github.io/assets/img/publication_preview/dars24_demo.gif",
+      "sourcePage": "https://kevinaubertlomellini.github.io/publications/"
+    },
+    {
+      "path": "src/assets/publications/2025-flysurf-a-flying-robotic-surface-with-shape-morphing-and-motion-control.webp",
+      "alt": "Simulation of a flexible mesh surface supported by small aerial robots.",
+      "extractionDetails": "Original thumbnail from the author lab’s Flying Shape-Morphing Surface project by Kevin Aubert. Representative simulation image of the thesis project, not extracted from the thesis; public thesis download returns HTTP403.",
+      "width": 813,
+      "height": 555,
+      "relatedWorkURL": "https://digitalrepository.unm.edu/ece_etds/730/",
+      "slug": "2025-flysurf-a-flying-robotic-surface-with-shape-morphing-and-motion-control",
+      "sourceUrl": "https://marhes.unm.edu/wp-content/uploads/2025/04/image45.png",
+      "sourcePage": "https://marhes.unm.edu/tag/kevin-aubert/"
+    },
+    {
+      "path": "src/assets/publications/2025-flysurf-a-flying-robotic-surface-with-shape-morphing-control.webp",
+      "alt": "Illustration of a flexible flying surface with quadrotors distributed across its mesh.",
+      "extractionDetails": "Figure 1 from the author’s exact FlySurf ACC 2025 manuscript source, main.tex lines 118–124. Rendered the original figure PDF at 108 dpi and resized to 1400px width. No crop.",
+      "width": 1400,
+      "height": 816,
+      "sourceLocalPath": "/Users/dav/Library/CloudStorage/Dropbox/Apps/Overleaf/FlySurf ACC 2025/Figs/FlySurf_V12.pdf",
+      "evidenceLocalPath": "/Users/dav/Library/CloudStorage/Dropbox/Apps/Overleaf/FlySurf ACC 2025/main.tex",
+      "relatedVideoURL": "http://tiny.cc/FlySurf-ACC2025",
+      "slug": "2025-flysurf-a-flying-robotic-surface-with-shape-morphing-control",
+      "sourceUrl": "https://doi.org/10.23919/ACC63710.2025.11107545"
+    },
+    {
+      "slug": "2025-mochiswarm",
+      "path": "src/assets/publications/2025-mochiswarm.jpg",
+      "sourceUrl": "https://i.ytimg.com/vi/75gfIlPtrBU/maxresdefault.jpg",
+      "sourcePage": "https://www.jiawei-xu.dev/media",
+      "videoUrl": "https://www.youtube.com/watch?v=75gfIlPtrBU",
+      "alt": "MochiSwarm robotic blimps flying through a realistic indoor test environment.",
+      "method": "Author-linked publication video thumbnail",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "slug": "2025-modular-multirotors-from-quadrotors-to-fully-actuated-aerial-vehicles",
+      "path": "src/assets/publications/2025-modular-multirotors-from-quadrotors-to-fully-actuated-aerial-vehicles.jpg",
+      "sourceUrl": "https://i.ytimg.com/vi/Mxo0QpxU-9A/maxresdefault.jpg",
+      "sourcePage": "https://www.jiawei-xu.dev/media",
+      "videoUrl": "https://www.youtube.com/watch?v=Mxo0QpxU-9A",
+      "alt": "A fully actuated H-ModQuad modular multirotor flying at an angle.",
+      "method": "Author-linked publication video thumbnail",
+      "width": 1280,
+      "height": 720
+    },
+    {
+      "path": "src/assets/publications/2025-quasi-dynamic-crowd-vetting-collaborative-detection-of-malicious-robots-in-dynamic-communication-networks.webp",
+      "alt": "Diagram of robots gathering trust observations and sharing trust vectors to identify malicious robots.",
+      "extractionDetails": "Original Figure 1 image from the exact quasi-Dynamic Crowd Vetting author manuscript. main_journal.tex title matches the journal paper and explicitly includes DCV_schematic_v2.png. The same artwork is also present in the public author-linked preprint Figure 1. No crop.",
+      "width": 1037,
+      "height": 657,
+      "sourceLocalPath": "/Users/dav/Library/CloudStorage/Dropbox/Apps/Overleaf/Dynamic Crowd Vetting TRO rebuttal (1)/figures/DCV_schematic_v2.png",
+      "evidenceLocalPath": "/Users/dav/Library/CloudStorage/Dropbox/Apps/Overleaf/Dynamic Crowd Vetting TRO rebuttal (1)/main_journal.tex",
+      "publicPreprintURL": "https://arxiv.org/pdf/2304.00551",
+      "slug": "2025-quasi-dynamic-crowd-vetting-collaborative-detection-of-malicious-robots-in-dynamic-communication-networks",
+      "sourceUrl": "https://react.seas.harvard.edu/publications/quasi-dynamic-crowd-vetting-collaborative-detection-of-malicious-robots/"
+    },
+    {
+      "path": "src/assets/publications/2025-reconfigurable-systems.webp",
+      "alt": "Examples of modular robot architectures: Polybot, Crystalline, modular robotic boats, and MTRAN III.",
+      "extractionDetails": "Complete Figure 1 from the author’s chapter source, confirmed by the identical caption and four systems in the publicly uploaded chapter. Resized to 1400px width; no crop.",
+      "width": 1400,
+      "height": 233,
+      "sourceLocalPath": "/Users/dav/Library/CloudStorage/Dropbox/Apps/Overleaf/Encyc. Reconfigurable Multi-Robots/imgs/fig1.png",
+      "evidenceLocalPath": "/Users/dav/Library/CloudStorage/Dropbox/Apps/Overleaf/Encyc. Reconfigurable Multi-Robots/root.tex",
+      "publisherURL": "https://link.springer.com/rwe/10.1007/978-3-642-41610-1_237-1",
+      "slug": "2025-reconfigurable-systems",
+      "sourceUrl": "https://www.researchgate.net/publication/389068241_Reconfigurable_Systems"
+    },
+    {
+      "slug": "2025-spinning-blimp",
+      "path": "src/assets/publications/2025-spinning-blimp.jpg",
+      "sourceUrl": "https://arxiv.org/pdf/2503.04112",
+      "alt": "The Spinning Blimp flying indoors with its red helium envelope and rotating wing.",
+      "method": "PDF figure extraction",
+      "page": 1,
+      "figure": "Figure 1",
+      "cropPoints": [
+        331.3,
+        156.9,
+        540.1,
+        288.6
+      ],
+      "width": 836,
+      "height": 528
+    },
+    {
+      "path": "src/assets/publications/2026-from-hitch-to-lift-autonomous-cable-interlacing-by-multi-uav-teams-for-aerial-grasping-and-transportation.webp",
+      "alt": "Four quadrotors lifting a cylindrical object secured by interlaced cables.",
+      "extractionDetails": "Frame at 3 seconds of the author-hosted cable-interlacing demonstration, linked from the exact From Hitch to Lift publication entry. No crop.",
+      "width": 960,
+      "height": 540,
+      "slug": "2026-from-hitch-to-lift-autonomous-cable-interlacing-by-multi-uav-teams-for-aerial-grasping-and-transportation",
+      "sourceUrl": "https://dmarslab.github.io/assets/img/hitches.mp4",
+      "sourcePage": "https://dmarslab.github.io/index.html"
+    }
+  ],
+  "withoutImages": [
+    {
+      "slug": "2012-improved-algorithm-for-perimeter-tracking-in-robotic-sensor-networks",
+      "title": "Improved algorithm for perimeter tracking in robotic sensor networks",
+      "status": "not-required",
+      "path": null,
+      "sourceURL": null,
+      "doi": "10.1109/CLEI.2012.6427231",
+      "checkedURLs": [
+        "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js",
+        "https://clei.org/proceedings-clei/",
+        "https://clei.org/clei2012/clei-ti.pdf",
+        "https://ieeexplore.ieee.org/ielx5/6418229/6426913/06427231.pdf?arnumber=6427231",
+        "https://www.researchgate.net/publication/261300278_Improved_algorithm_for_perimeter_tracking_in_robotic_sensor_networks"
+      ],
+      "sourceSearchNotes": "No exact-paper image or publicly accessible manuscript found. The author bibliography has only inactive generic image fields, insufficient to establish identity. Official conference program confirms the paper but contains a schedule, not figures. ResearchGate explicitly lists no full text. Publisher-linked PDF request returned HTTP 418 and HTML. Targeted local Overleaf directories (Robot Networks, Perimeter Surveillance, robotTracking-Article) contain different works.",
+      "reason": "Image intentionally omitted at the lab owner's request on 2026-11-08."
+    },
+    {
+      "slug": "2012-a-multi-agent-model-to-control-robotic-sensor-networks",
+      "title": "A multi-agent model to control robotic sensor networks",
+      "status": "not-required",
+      "path": null,
+      "sourceURL": null,
+      "doi": "10.1109/ColombianCC.2012.6398036",
+      "checkedURLs": [
+        "https://www.lehigh.edu/~das819/assets/jsmy/bibliography.js",
+        "https://clei.org/proceedings-clei/",
+        "https://clei.org/clei2012/7ccc.pdf",
+        "https://ieeexplore.ieee.org/ielx5/6387513/6397996/06398036.pdf?arnumber=6398036",
+        "https://www.researchgate.net/publication/269270105_A_multi-agent_model_to_control_robotic_sensor_networks"
+      ],
+      "sourceSearchNotes": "No exact-paper image or publicly accessible manuscript found. The author bibliography has only inactive generic image fields, insufficient to establish identity. Official conference program confirms the paper but contains a schedule, not figures. ResearchGate explicitly lists no full text. Publisher-linked PDF request returned HTTP 418 and HTML. Targeted local Overleaf directories (Robot Networks, Perimeter Surveillance, robotTracking-Article) contain different works.",
+      "reason": "Image intentionally omitted at the lab owner's request on 2026-11-08."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+---
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import PubList from '../components/PubList.astro';
+import { getPublications, RESEARCH_GROUPS, type AreaSlug } from '../lib/content';
+import { withBase } from '../lib/paths';
+import projects from '../data/projects.json';
+const pubs=await getPublications();
+const projectOrder=['aerial-manipulation','modular-robots','resilient-swarms'];
+const orderedProjects=[...projects].sort((a,b)=>projectOrder.indexOf(a.slug)-projectOrder.indexOf(b.slug));
+const furtherOrder=['environmental-monitoring','robotic-blimps'];
+const furtherAreas=RESEARCH_GROUPS[0].areas
+  .filter(a=>furtherOrder.includes(a.slug))
+  .sort((a,b)=>furtherOrder.indexOf(a.slug)-furtherOrder.indexOf(b.slug));
+const highlightedProjectPapers:Partial<Record<AreaSlug,string[]>>={
+  'modular-robots':[
+    '2018-modquad-the-flying-modular-structure-that-self-assembles-in-midair',
+  ],
+  'resilient-swarms':[
+    '2017-resilient-consensus-for-time-varying-networks-of-dynamic-agents',
+    '2017-resilient-flocking-for-mobile-robot-teams',
+  ],
+};
+const environmentalPaperIds=new Set([
+  '2021-estimating-boundary-dynamics-using-robotic-sensor-networks-with-pointwise-measurements',
+  '2017-cooperative-prediction-of-time-varying-boundaries-with-a-team-of-robots',
+  '2016-predicting-environmental-boundary-behaviors-with-a-mobile-robot',
+]);
+const environmentalPapers=pubs.filter(p=>environmentalPaperIds.has(p.id));
+function projectPublications(slug:string){
+  const related=pubs.filter(p=>p.data.areas.includes(slug as AreaSlug));
+  const selected=new Set(related.slice(0,2).map(p=>p.id));
+  for(const id of highlightedProjectPapers[slug as AreaSlug]??[])selected.add(id);
+  return related.filter(p=>selected.has(p.id));
+}
+---
+<BaseLayout title="Research" description="Cooperative aerial robots, modular flying systems, collaborative manipulation, and resilient robot swarms at Lehigh University.">
+  <PageHeader eyebrow="What we do" title="Research" lead="We work with cooperative multi-robot systems that can scale to robot swarms. Our projects cover aerial robots that cooperate through physical interaction and resilient multi-robot networks." />
+  <div class="container-page space-y-16 py-12">
+    {orderedProjects.map((p,i)=><section id={p.slug} class="scroll-mt-24 border-b border-slate-200 pb-14">
+      <div class="grid items-center gap-8 lg:grid-cols-2 lg:gap-14">
+        <div><p class="eyebrow">0{i+1} / {p.subtitle}</p><h2 class="mt-3 font-serif text-3xl sm:text-4xl">{p.title}</h2><p class="mt-5 leading-relaxed text-slate-600">{p.body}</p><a href={withBase('/publications/#'+p.slug)} class="mt-5 inline-block text-sm font-semibold text-primary-700 hover:underline">Explore related publications →</a></div>
+        <img src={withBase(p.image)} alt={p.title} loading="lazy" width="800" height="550" class="max-h-96 w-full rounded-xl border border-slate-200 bg-slate-50 object-contain" />
+      </div>
+      <div class="mt-8"><PubList pubs={projectPublications(p.slug)} /></div>
+    </section>)}
+    {furtherAreas.map(a=><section id={a.slug} class="scroll-mt-24"><p class="eyebrow">Further directions</p><h2 class="mt-3 font-serif text-3xl">{a.slug==='robotic-blimps'?'Robotic blimps':'Environmental monitoring'}</h2><p class="mt-4 max-w-3xl text-slate-600">{a.blurb}</p><PubList pubs={a.slug==='environmental-monitoring'?environmentalPapers:pubs.filter(p=>p.data.areas.includes(a.slug)).slice(0,3)} /><a href={withBase('/publications/#'+a.slug)} class="text-sm font-semibold text-primary-700 hover:underline">All related publications →</a></section>)}
+  </div>
+</BaseLayout>

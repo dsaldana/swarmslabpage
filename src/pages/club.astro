@@ -1,0 +1,35 @@
+---
+import { Image } from 'astro:assets';
+import BaseLayout from '../components/BaseLayout.astro';
+import PageHeader from '../components/PageHeader.astro';
+import team from '../../public/wp-content/uploads/2024/01/club2023.png';
+import competition from '../../public/wp-content/uploads/2023/05/DSC00097-1536x1024.jpg';
+import { withBase } from '../lib/paths';
+---
+<BaseLayout title="Lehigh Aerial Swarms Club" description="Join the Lehigh Aerial Swarms Club: an inclusive, hands-on community building autonomous aerial robots and competing in Defend the Republic.">
+  <PageHeader eyebrow="Learn by building" title="Lehigh Aerial Swarms Club" lead="An inclusive community for everyone interested in learning and collaborating in aerial robotics. Build robots, share ideas, and take on challenges together." />
+  <div class="container-page py-12">
+    <div class="mb-9 flex flex-wrap gap-3"><a href="https://forms.gle/TXAa4VziRYbTJkNC8" class="rounded-md bg-primary-700 px-5 py-3 text-sm font-semibold text-white hover:bg-primary-900">Apply to join ↗</a><a href="https://github.com/LehighBlimpGroup" class="rounded-md border border-slate-300 px-5 py-3 text-sm font-semibold text-primary-700 hover:bg-primary-50">Club GitHub ↗</a></div>
+    <Image src={team} alt="The Lehigh Swarms team at a robotics competition" widths={[700,1200]} sizes="95vw" class="max-h-[32rem] w-full rounded-xl object-cover" />
+    <div class="mt-12 grid gap-12 lg:grid-cols-[1.5fr_1fr]">
+      <div class="prose-content text-slate-600">
+        <h2>Student involvement</h2>
+        <p>We are building a self-sustaining community where undergraduate and graduate students learn algorithms and theoretical robotics through hands-on experience. Students share their goals and perspectives, participate in competitions, travel to events, and learn to manage technological resources.</p>
+        <p>Students get involved through robotics courses, club activities, or summer programs including NSF Research Experiences for Undergraduates (REU), the Mountaintop Summer Experience (MTSE), and SwarmsLab research programs.</p>
+        <p>Related courses include CSE360 Mobile Robotics, CSE398 Advanced Aerial Robotics, CSE398 Robot Swarms, and Independent Studies.</p>
+        <h2>Defend the Republic</h2>
+        <p>Our club participates in the national research robotics competition, Defend the Republic (DTR). Two teams deploy autonomous lighter-than-air vehicles to capture helium balloons and score in their opponents’ goals.</p>
+        <p>The challenge is to design and control autonomous robot swarms in difficult environments, with limited sensing, actuation, and computation. Students put perception, control, and teamwork into practice through a shared robotics challenge.</p>
+        <Image src={competition} alt="Lehigh Swarms participating in Defend the Republic Event 6" widths={[600,1000]} sizes="(min-width: 1024px) 60vw, 95vw" class="mt-6 w-full rounded-lg" />
+      </div>
+      <aside class="h-fit rounded-xl border border-primary-100 bg-primary-50 p-7">
+        <h2 class="font-serif text-2xl">Get in touch</h2><dl class="mt-6 space-y-6 text-sm">
+          <div><dt class="font-semibold text-slate-800">Club President</dt><dd class="mt-1 text-slate-600">Alice Peng<br /><a href="mailto:alp728@lehigh.edu" class="text-primary-700 hover:underline">alp728@lehigh.edu</a></dd></div>
+          <div><dt class="font-semibold text-slate-800">Vice President</dt><dd class="mt-1 text-slate-600">Vincent Zouras<br /><a href="mailto:viz227@lehigh.edu" class="text-primary-700 hover:underline">viz227@lehigh.edu</a></dd></div>
+          <div><dt class="font-semibold text-slate-800">Graduate Mentor</dt><dd class="mt-1 text-slate-600">Tony Wu<br /><a href="mailto:tow225@lehigh.edu" class="text-primary-700 hover:underline">tow225@lehigh.edu</a></dd></div>
+          <div><dt class="font-semibold text-slate-800">Faculty Mentor</dt><dd class="mt-1 text-slate-600"><a href={withBase('/people/david-saldana/')} class="hover:underline">David Saldaña</a><br /><a href="mailto:saldana@lehigh.edu" class="text-primary-700 hover:underline">saldana@lehigh.edu</a></dd></div>
+        </dl>
+      </aside>
+    </div>
+  </div>
+</BaseLayout>

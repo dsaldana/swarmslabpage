@@ -1,0 +1,1399 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message-version": "1.0.0",
+  "message": {
+    "facets": {},
+    "total-results": 7056341,
+    "items": [
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              6,
+              1
+            ]
+          ],
+          "date-time": "2025-06-01T04:11:56Z",
+          "timestamp": 1748751116736,
+          "version": "3.41.0"
+        },
+        "publisher-location": "Berlin, Heidelberg",
+        "reference-count": 22,
+        "publisher": "Springer Berlin Heidelberg",
+        "isbn-type": [
+          {
+            "type": "print",
+            "value": "9783662481332"
+          },
+          {
+            "type": "electronic",
+            "value": "9783662481349"
+          }
+        ],
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2015,
+                  1,
+                  1
+                ]
+              ],
+              "date-time": "2015-01-01T00:00:00Z",
+              "timestamp": 1420070400000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "http://www.springer.com/tdm"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "published-print": {
+          "date-parts": [
+            [
+              2015
+            ]
+          ]
+        },
+        "DOI": "10.1007/978-3-662-48134-9_1",
+        "type": "book-chapter",
+        "created": {
+          "date-parts": [
+            [
+              2015,
+              11,
+              30
+            ]
+          ],
+          "date-time": "2015-11-30T01:31:16Z",
+          "timestamp": 1448847076000
+        },
+        "page": "1-15",
+        "source": "Crossref",
+        "is-referenced-by-count": 1,
+        "title": [
+          "Searching for Regions Out of Normal Conditions Using a Team of Robots"
+        ],
+        "prefix": "10.1007",
+        "author": [
+          {
+            "given": "David",
+            "family": "Saldaña",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Luiz",
+            "family": "Chaimowicz",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Mario F. M.",
+            "family": "Campos",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2015,
+              12,
+              1
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "1_CR1",
+            "unstructured": "Bachmayer, R., Leonard, N.: Vehicle networks for gradient descent in a sampled environment. In: Procedings of 41st IEEE Conference on Decision and Control, December 2002"
+          },
+          {
+            "key": "1_CR2",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bertozzi, A., Kemp, M.: Determining environmental boundaries: asynchronous communication and physical scales. In: Proceedings of the Block Island Workshop Cooperative Control (2004)",
+            "DOI": "10.1007/978-3-540-31595-7_2"
+          },
+          {
+            "key": "1_CR3",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Bertozzi, A.L.: Environmental boundary tracking and estimation using multiple autonomous vehicles. In: 2007 46th IEEE Conference on Decision and Control, pp. 4918–4923 (2007)",
+            "DOI": "10.1109/CDC.2007.4434857"
+          },
+          {
+            "key": "1_CR4",
+            "unstructured": "Bruemmer, D.: A robotic swarm for spill finding and perimeter formation. In: Spectrum: International Conference on Nuclear and Hazardous Waste Management (2002)"
+          },
+          {
+            "key": "1_CR5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Clark, J., Fierro, R.: Cooperative hybrid control of robotic sensors for perimeter detection and tracking. In: Proceedings of the 2005, American Control Conference, pp. 3500–3505 (2005)",
+            "DOI": "10.1109/ACC.2005.1470515"
+          },
+          {
+            "issue": "1",
+            "key": "1_CR6",
+            "doi-asserted-by": "publisher",
+            "first-page": "3",
+            "DOI": "10.1016/j.isatra.2006.08.001",
+            "volume": "46",
+            "author": "J Clark",
+            "year": "2007",
+            "unstructured": "Clark, J., Fierro, R.: Mobile robotic sensors for perimeter detection and tracking. ISA Trans. 46(1), 3–13 (2007)",
+            "journal-title": "ISA Trans."
+          },
+          {
+            "key": "1_CR7",
+            "unstructured": "Fiorelli, E., Bhatta, P., Leonard, N.E.: Adaptive sampling using feedback control of an autonomous underwater glider fleet. In: Aerospace Engineering, August 2003"
+          },
+          {
+            "key": "1_CR8",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fiorelli, E., Leonard, N.E.: Exploring scalar fields using multiple sensor platforms: tracking level curves. In: 2007 46th IEEE Conference on Decision and Control, pp. 3579–3584 (2007)",
+            "DOI": "10.1109/CDC.2007.4434245"
+          },
+          {
+            "key": "1_CR9",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hol, J.D., Schon, T.B., Gustafsson, F.: On resampling algorithms for particle filters. In: 2006 IEEE Nonlinear Statistical Signal Processing Workshop, pp. 79–82. IEEE (2006)",
+            "DOI": "10.1109/NSSPW.2006.4378824"
+          },
+          {
+            "key": "1_CR10",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hsieh, C., Marthaler, D., Nguyen, B., Tung, D., Bertozzi, A.L., Murray, R.: Experimental validation of an algorithm for cooperative boundary tracking. In: Proceedings of the 2005, American Control Conference, pp. 1078–1083 (2005)",
+            "DOI": "10.1109/ACC.2005.1470104"
+          },
+          {
+            "key": "1_CR11",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Joshi, A., Ashley, T., Huang, Y.R., Bertozzi, A.L.: Experimental validation of cooperative environmental boundary tracking with on-board sensors. In: Control, pp. 2630–2635 (2009)",
+            "DOI": "10.1109/ACC.2009.5159837"
+          },
+          {
+            "key": "1_CR12",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kemp, M., Bertozzi, A., Marthaler, D.: Multi-UUV perimeter surveillance. In: IEEE OES Workshop on Multiple AUV Operations (2004)",
+            "DOI": "10.1109/AUV.2004.1431200"
+          },
+          {
+            "key": "1_CR13",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Li, S., Guo, Y., Bingham, B.: Multi-robot cooperative control for monitoring and tracking dynamic plumes. In: IEEE International Conference on Robotics and Automation, Proceedings, ICRA 2014. IEEE (2014)",
+            "DOI": "10.1109/ICRA.2014.6906591"
+          },
+          {
+            "key": "1_CR14",
+            "unstructured": "Marthaler, D., Bertozzi, A.: Collective motion algorithms for determining environmental boundaries. In: SIAM Conference on Applications of Dynamical Systems (2003)"
+          },
+          {
+            "key": "1_CR15",
+            "first-page": "2865",
+            "volume": "129",
+            "author": "D Marthaler",
+            "year": "2003",
+            "unstructured": "Marthaler, D., Bertozzi, A.: Tracking environmental level sets with autonomous vehicles. J. Electrochem. Soc. 129, 2865 (2003)",
+            "journal-title": "J. Electrochem. Soc."
+          },
+          {
+            "key": "1_CR16",
+            "unstructured": "Mottaghi, R., Vaughan, R.: An integrated particle filter and potential field method for cooperative robot target tracking. In: IEEE International Conference on Robotics and Automation, ICRA 2006. IEEE (2006)"
+          },
+          {
+            "issue": "8",
+            "key": "1_CR17",
+            "doi-asserted-by": "publisher",
+            "first-page": "1292",
+            "DOI": "10.1109/TAC.2004.832203",
+            "volume": "49",
+            "author": "P Ogren",
+            "year": "2004",
+            "unstructured": "Ogren, P., Fiorelli, E., Leonard, N.: Cooperative control of mobile sensor networks: adaptive gradient climbing in a distributed environment. IEEE Trans. Autom. Control 49(8), 1292–1302 (2004)",
+            "journal-title": "IEEE Trans. Autom. Control"
+          },
+          {
+            "key": "1_CR18",
+            "unstructured": "Ogren, P., Fiorelli, E., Leonard, N.E.: Formations with a mission: stable coordination of vehicle group maneuvers. In: Symposium on Mathematical Theory of Networks and Systems (2002)"
+          },
+          {
+            "key": "1_CR19",
+            "unstructured": "Quigley, M., Conley, K., Gerkey, B., Faust, J., Foote, T., Leibs, J., Wheeler, R., Ng, A.Y.: ROS: an open-source robot operating system. In: ICRA Workshop on Open Source Software (2009)"
+          },
+          {
+            "key": "1_CR20",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Saldana, D., Ovalle, D., Montoya, A.: Improved algorithm for perimeter tracking in robotic sensor networks. In: XXXVIII Latin American Conference on Informatics (CLEI), pp. 1–7. IEEE (2012)",
+            "DOI": "10.1109/CLEI.2012.6427231"
+          },
+          {
+            "key": "1_CR21",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sibley, G., Rahimi, M., Sukhatme, G.: Robomote: a tiny mobile robot platform for large-scale ad-hoc sensor networks. In: IEEE International Conference on Robotics and Automation, Proceedings, ICRA 2002, vol. 2, pp. 1143–1148. IEEE (2002)",
+            "DOI": "10.1109/ROBOT.2002.1014697"
+          },
+          {
+            "issue": "3",
+            "key": "1_CR22",
+            "doi-asserted-by": "publisher",
+            "first-page": "52",
+            "DOI": "10.1145/504729.504754",
+            "volume": "45",
+            "author": "S Thrun",
+            "year": "2002",
+            "unstructured": "Thrun, S.: Probabilistic robotics. Commun. ACM 45(3), 52–57 (2002)",
+            "journal-title": "Commun. ACM"
+          }
+        ],
+        "container-title": [
+          "Communications in Computer and Information Science",
+          "Robotics"
+        ],
+        "link": [
+          {
+            "URL": "http://link.springer.com/content/pdf/10.1007/978-3-662-48134-9_1",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              5,
+              31
+            ]
+          ],
+          "date-time": "2025-05-31T16:04:52Z",
+          "timestamp": 1748707492000
+        },
+        "score": 51.275665,
+        "resource": {
+          "primary": {
+            "URL": "http://link.springer.com/10.1007/978-3-662-48134-9_1"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2015
+            ]
+          ]
+        },
+        "ISBN": [
+          "9783662481332",
+          "9783662481349"
+        ],
+        "references-count": 22,
+        "URL": "https://doi.org/10.1007/978-3-662-48134-9_1",
+        "ISSN": [
+          "1865-0929",
+          "1865-0937"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1865-0929"
+          },
+          {
+            "type": "electronic",
+            "value": "1865-0937"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2015
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              12
+            ]
+          ],
+          "date-time": "2025-10-12T04:34:39Z",
+          "timestamp": 1760243679592,
+          "version": "build-2065373602"
+        },
+        "reference-count": 28,
+        "publisher": "MDPI AG",
+        "issue": "7",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2012,
+                  6,
+                  27
+                ]
+              ],
+              "date-time": "2012-06-27T00:00:00Z",
+              "timestamp": 1340755200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/3.0/"
+          }
+        ],
+        "content-domain": {
+          "domain": [],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Sensors"
+        ],
+        "abstract": "<jats:p>This paper presents a new algorithm that allows a team of robots to cooperatively search for a set of moving targets. An estimation of the areas of the environment that are more likely to hold a target agent is obtained using a grid-based Bayesian filter. The robot sensor readings and the maximum speed of the moving targets are used in order to update the grid. This representation is used in a search algorithm that commands the robots to those areas that are more likely to present target agents. This algorithm splits the environment in a tree of connected regions using dynamic programming. This tree is used in order to decide the destination for each robot in a coordinated manner. The algorithm has been successfully tested in known and unknown environments showing the validity of the approach.</jats:p>",
+        "DOI": "10.3390/s120708815",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2012,
+              6,
+              28
+            ]
+          ],
+          "date-time": "2012-06-28T11:17:49Z",
+          "timestamp": 1340882269000
+        },
+        "page": "8815-8831",
+        "update-policy": "https://doi.org/10.3390/mdpi_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 2,
+        "title": [
+          "Searching Dynamic Agents with a Team of Mobile Robots"
+        ],
+        "prefix": "10.3390",
+        "volume": "12",
+        "author": [
+          {
+            "given": "Miguel",
+            "family": "Juliá",
+            "sequence": "first",
+            "affiliation": [
+              {
+                "name": "Systems Engineering and Automation Department, Miguel Hernandez University of Elche, Avda. Universidad s/n. Edif. Quorum V, 03202 Elche, Alicante, Spain"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Arturo",
+            "family": "Gil",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Systems Engineering and Automation Department, Miguel Hernandez University of Elche, Avda. Universidad s/n. Edif. Quorum V, 03202 Elche, Alicante, Spain"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "ORCID": "https://orcid.org/0000-0002-1065-8944",
+            "authenticated-orcid": false,
+            "given": "Oscar",
+            "family": "Reinoso",
+            "sequence": "additional",
+            "affiliation": [
+              {
+                "name": "Systems Engineering and Automation Department, Miguel Hernandez University of Elche, Avda. Universidad s/n. Edif. Quorum V, 03202 Elche, Alicante, Spain"
+              }
+            ],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "1968",
+        "published-online": {
+          "date-parts": [
+            [
+              2012,
+              6,
+              27
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "ref_1",
+            "doi-asserted-by": "crossref",
+            "first-page": "247",
+            "DOI": "10.1007/s11370-009-0050-y",
+            "article-title": "Scalable and practical pursuit-evasion with networked robots",
+            "volume": "2",
+            "author": "Vieira",
+            "year": "2010",
+            "journal-title": "Intell. Serv. Robot."
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Annas, J., and Xiao, J. (2009, January 11–15). Intelligent Pursuit and Evasion in an Unknown Environment. St. Louis, MO, USA.",
+            "key": "ref_2",
+            "DOI": "10.1109/IROS.2009.5354246"
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Juliá, M., Gil, A., and Reinoso, O. (2012). A comparison of path planning strategies for autonomous exploration and mapping of unknown environments. Auton. Robot., in press.",
+            "key": "ref_3",
+            "DOI": "10.1007/s10514-012-9298-8"
+          },
+          {
+            "unstructured": "Buss, M., Carton, D., Gonsior, B., Kuehnlenz, K., Landsiedel, C., Mitsou, N., de Nijs, R., Zlotowski, J., Sosnowski, S., and Strasser, E. (2011, January 7–9). Towards Proactive Human-Robot Interaction in Human Environments. Budapest, Hungary.",
+            "key": "ref_4"
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Stachniss, C., Grisetti, G., and Burgard, W. (2005, January 8–11). Information Gain-Based Exploration Using Rao-Blackwellized Particle Filters. Cambridge, MA, USA.",
+            "key": "ref_5",
+            "DOI": "10.15607/RSS.2005.I.009"
+          },
+          {
+            "unstructured": "Yamauchi, B. (1997, January 10–11). A Frontier Based Approach for Autonomous Exploration. Monterey, CA, USA.",
+            "key": "ref_6"
+          },
+          {
+            "unstructured": "Amigoni, F., and Basilico, N. (2010, January 3). A Decision-Theoretic Framework to Select Effective Observation Locations in Robotic Search and Rescue Scenarios. Anchorage, AK, USA.",
+            "key": "ref_7"
+          },
+          {
+            "key": "ref_8",
+            "doi-asserted-by": "crossref",
+            "first-page": "829",
+            "DOI": "10.1177/0278364902021010834",
+            "article-title": "Navigation strategies for exploring indoor environments",
+            "volume": "21",
+            "author": "Latombe",
+            "year": "2002",
+            "journal-title": "Int. J. Robot. Res."
+          },
+          {
+            "unstructured": "Simmons, R., Apfelbaum, D., Burgard, W., Fox, D., Moors, M., Thrun, S., and Younes, H. (August, January 30). Coordination for Multi-Robot Exploration and Mapping. Austin, TX, USA.",
+            "key": "ref_9"
+          },
+          {
+            "key": "ref_10",
+            "doi-asserted-by": "crossref",
+            "first-page": "376",
+            "DOI": "10.1109/TRO.2004.839232",
+            "article-title": "Coordinated multi-robot exploration",
+            "volume": "21",
+            "author": "Burgard",
+            "year": "2005",
+            "journal-title": "IEEE Trans. Robot."
+          },
+          {
+            "key": "ref_11",
+            "doi-asserted-by": "crossref",
+            "first-page": "73",
+            "DOI": "10.1177/0278364906061160",
+            "article-title": "Market-Based Multirobot Coordination for Complex Tasks",
+            "volume": "25",
+            "author": "Zlot",
+            "year": "2006",
+            "journal-title": "Int. J. Robot. Res."
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Wurm, K.M., Stachniss, C., and Burgard, W. (2008, January 22–26). Coordinated Multi-Robot Exploration Using a Segmentation of the Environment. Nice, France.",
+            "key": "ref_12",
+            "DOI": "10.1109/IROS.2008.4650734"
+          },
+          {
+            "key": "ref_13",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1002/rob.20218",
+            "article-title": "Evolution and field performance of a rescue robot",
+            "volume": "25",
+            "author": "Micire",
+            "year": "2008",
+            "journal-title": "J. Field Robot."
+          },
+          {
+            "key": "ref_14",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1002/rob.20227",
+            "article-title": "Hough based terrain classification for realtime detection of drivable ground",
+            "volume": "25",
+            "author": "Poppinga",
+            "year": "2008",
+            "journal-title": "J. Field Robot."
+          },
+          {
+            "unstructured": "Amigoni, F., and Basilico, N. (2008, January 22). An Exploration Strategy Based on Multi-Criteria Decision Making for an Autonomous Mobile Robot. Nice, France.",
+            "key": "ref_15"
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Visser, A., and Slamet, B. (2008, January 1–3). Including Communication Success in the Estimation of Information Gain for Multi-Robot Exploration. Berlin, Germany.",
+            "key": "ref_16",
+            "DOI": "10.4108/ICST.WIOPT2008.3218"
+          },
+          {
+            "key": "ref_17",
+            "doi-asserted-by": "crossref",
+            "first-page": "299",
+            "DOI": "10.1177/0278364906065023",
+            "article-title": "Visibility-based pursuit-evasion with limited field of view",
+            "volume": "25",
+            "author": "Gerkey",
+            "year": "2006",
+            "journal-title": "Int. J. Robot. Res."
+          },
+          {
+            "key": "ref_18",
+            "doi-asserted-by": "crossref",
+            "first-page": "609",
+            "DOI": "10.1109/34.387507",
+            "article-title": "Moving-target search: A real-time search for changing goals",
+            "volume": "17",
+            "author": "Ishida",
+            "year": "1995",
+            "journal-title": "Patt. Anal. Mach. Intell. IEEE Trans."
+          },
+          {
+            "unstructured": "Katsilieris, F., Lindhé, M., Dimarogonas, D.V., Ogren, P., and Johansson, K.H. (2010, January 3). Demonstration of Multi-Robot Search and Secure. Anchorage, AK, USA.",
+            "key": "ref_19"
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Durham, J.W., Franchi, A., and Bullo, F. (2010, January 3–8). Distributed Pursuit-Evasion with Limited-Visibility Sensors via Frontier-Based Exploration. Anchorage, AK, USA.",
+            "key": "ref_20",
+            "DOI": "10.1109/ROBOT.2010.5509347"
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kolling, A., and Carpin, S. (2008, January 19–23). Multirobot Surveillance: An Improved Algorithm for the GRAPH-CLEAR Problem. Pasadena, CA, USA.",
+            "key": "ref_21",
+            "DOI": "10.1109/ROBOT.2008.4543566"
+          },
+          {
+            "key": "ref_22",
+            "doi-asserted-by": "crossref",
+            "first-page": "863",
+            "DOI": "10.1137/0221051",
+            "article-title": "Searching for a mobile intruder in a polygonal region",
+            "volume": "21",
+            "author": "Suzuki",
+            "year": "1992",
+            "journal-title": "SIAMJ. Comput."
+          },
+          {
+            "unstructured": "Moravec, H., and Elfes, A. (1985, January 25–28). High Resolution Maps from Wide Angle Sonar. St. Louis, MO, USA.",
+            "key": "ref_23"
+          },
+          {
+            "key": "ref_24",
+            "doi-asserted-by": "crossref",
+            "first-page": "473",
+            "DOI": "10.1016/j.engappai.2009.12.005",
+            "article-title": "A hybrid solution to the multi-robot integrated exploration problem",
+            "volume": "23",
+            "author": "Reinoso",
+            "year": "2010",
+            "journal-title": "Eng. Appl. Artif Intell."
+          },
+          {
+            "key": "ref_25",
+            "doi-asserted-by": "crossref",
+            "first-page": "100",
+            "DOI": "10.1109/TSSC.1968.300136",
+            "article-title": "A formal basis for the heuristic determination of minimum cost paths",
+            "volume": "4",
+            "author": "Hart",
+            "year": "1968",
+            "journal-title": "IEEE Trans. Syst. Sci. Cybern."
+          },
+          {
+            "doi-asserted-by": "crossref",
+            "unstructured": "Stachniss, C. (2009). Robotic Mapping and Exploration, Springer.",
+            "key": "ref_26",
+            "DOI": "10.1007/978-3-642-01097-2"
+          },
+          {
+            "key": "ref_27",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1016/S0004-3702(01)00069-8",
+            "article-title": "Robust monte carlo localization for mobile robots",
+            "volume": "128",
+            "author": "Thrun",
+            "year": "2000",
+            "journal-title": "Artif. Intell."
+          },
+          {
+            "key": "ref_28",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1109/70.938381",
+            "article-title": "A solution to the simultaneous localization and map building (SLAM) problem",
+            "volume": "17",
+            "author": "Dissanayake",
+            "year": "2001",
+            "journal-title": "Robot. Autom. IEEE Trans."
+          }
+        ],
+        "container-title": [
+          "Sensors"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://www.mdpi.com/1424-8220/12/7/8815/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              11
+            ]
+          ],
+          "date-time": "2025-10-11T21:51:00Z",
+          "timestamp": 1760219460000
+        },
+        "score": 25.81944,
+        "resource": {
+          "primary": {
+            "URL": "https://www.mdpi.com/1424-8220/12/7/8815"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2012,
+              6,
+              27
+            ]
+          ]
+        },
+        "references-count": 28,
+        "journal-issue": {
+          "issue": "7",
+          "published-online": {
+            "date-parts": [
+              [
+                2012,
+                7
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "s120708815"
+        ],
+        "URL": "https://doi.org/10.3390/s120708815",
+        "ISSN": [
+          "1424-8220"
+        ],
+        "issn-type": [
+          {
+            "type": "electronic",
+            "value": "1424-8220"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2012,
+              6,
+              27
+            ]
+          ]
+        }
+      },
+      {
+        "indexed": {
+          "date-parts": [
+            [
+              2025,
+              10,
+              11
+            ]
+          ],
+          "date-time": "2025-10-11T08:26:07Z",
+          "timestamp": 1760171167363,
+          "version": "3.37.3"
+        },
+        "reference-count": 33,
+        "publisher": "Springer Science and Business Media LLC",
+        "issue": "1",
+        "license": [
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2020,
+                  7,
+                  30
+                ]
+              ],
+              "date-time": "2020-07-30T00:00:00Z",
+              "timestamp": 1596067200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.springer.com/tdm"
+          },
+          {
+            "start": {
+              "date-parts": [
+                [
+                  2020,
+                  7,
+                  30
+                ]
+              ],
+              "date-time": "2020-07-30T00:00:00Z",
+              "timestamp": 1596067200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://www.springer.com/tdm"
+          }
+        ],
+        "funder": [
+          {
+            "DOI": "10.13039/501100001839",
+            "name": "University Grants Committee",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "UGC/FDS14/E03/17"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "UGC/FDS14/E03/17"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100001839",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          },
+          {
+            "DOI": "10.13039/501100001839",
+            "name": "University Grants Committee",
+            "doi-asserted-by": "publisher",
+            "award": [
+              "UGC/FDS14/E01/17"
+            ],
+            "award-info": [
+              {
+                "award-number": [
+                  "UGC/FDS14/E01/17"
+                ]
+              }
+            ],
+            "id": [
+              {
+                "id": "10.13039/501100001839",
+                "id-type": "DOI",
+                "asserted-by": "publisher"
+              }
+            ]
+          }
+        ],
+        "content-domain": {
+          "domain": [
+            "link.springer.com"
+          ],
+          "crossmark-restriction": false
+        },
+        "short-container-title": [
+          "Mobile Netw Appl"
+        ],
+        "published-print": {
+          "date-parts": [
+            [
+              2022,
+              2
+            ]
+          ]
+        },
+        "DOI": "10.1007/s11036-020-01628-x",
+        "type": "journal-article",
+        "created": {
+          "date-parts": [
+            [
+              2020,
+              7,
+              30
+            ]
+          ],
+          "date-time": "2020-07-30T08:04:38Z",
+          "timestamp": 1596096278000
+        },
+        "page": "249-265",
+        "update-policy": "https://doi.org/10.1007/springer_crossmark_policy",
+        "source": "Crossref",
+        "is-referenced-by-count": 7,
+        "title": [
+          "Effective Mobile Target Searching Using Robots"
+        ],
+        "prefix": "10.1007",
+        "volume": "27",
+        "author": [
+          {
+            "ORCID": "https://orcid.org/0000-0002-1255-3441",
+            "authenticated-orcid": false,
+            "given": "Wai Kit",
+            "family": "Wong",
+            "sequence": "first",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Shujin",
+            "family": "Ye",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Hai",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          },
+          {
+            "given": "Yue",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": [],
+            "role": [
+              {
+                "role": "author",
+                "vocabulary": "crossref"
+              }
+            ]
+          }
+        ],
+        "member": "297",
+        "published-online": {
+          "date-parts": [
+            [
+              2020,
+              7,
+              30
+            ]
+          ]
+        },
+        "reference": [
+          {
+            "key": "1628_CR1",
+            "unstructured": "(2015) DARPA Announces “Gremlins” UAS Program. http://www.unmannedsystemstechnology.com/2015/09/darpa-announces-gremlins-uas-program/"
+          },
+          {
+            "key": "1628_CR2",
+            "unstructured": "(2017) Department of Defense Announces Successful Micro-Drone Demonstration. https://www.defense.gov/News/News-Releases/News-Release-View/Article/1044811/department-of-defense-announces-successful-micro-drone-demonstration/"
+          },
+          {
+            "issue": "4",
+            "key": "1628_CR3",
+            "doi-asserted-by": "crossref",
+            "first-page": "1165",
+            "DOI": "10.1016/j.anbehav.2008.05.022",
+            "volume": "76",
+            "author": "G Dell’Ariccia",
+            "year": "2008",
+            "unstructured": "Dell’Ariccia G, Dell’Omo G, Wolfer D P, Lipp H P (2008) Flock flying improves pigeons? homing: Gps track analysis of individual flyers versus small groups. Animal Behaviour 76(4):1165–1172",
+            "journal-title": "Animal Behaviour"
+          },
+          {
+            "issue": "6",
+            "key": "1628_CR4",
+            "doi-asserted-by": "crossref",
+            "first-page": "2312",
+            "DOI": "10.1073/pnas.1007102108",
+            "volume": "108",
+            "author": "AJW Ward",
+            "year": "2011",
+            "unstructured": "Ward AJ W, Herbert-Read J E, Sumpter DJ T, Jens K (2011) Fast and accurate decisions through collective vigilance in fish shoals. Proc Natl Acad Sci USA 108(6):2312–2315",
+            "journal-title": "Proc Natl Acad Sci USA"
+          },
+          {
+            "key": "1628_CR5",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Ye S, Wong W K, Liu H (2019) Search planning and analysis for mobile targets with robots. In: Quality, Reliability , Security and Robustness in Heterogeneous Systems(QShine), vol 300, pp 3–21",
+            "DOI": "10.1007/978-3-030-38819-5_1"
+          },
+          {
+            "key": "1628_CR6",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Fu Y, Zhang Y, Yu Z, Liu Z (2019) A backstepping control strategy for fixed wing uav under actuator failure. In: 2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), pp. 423–427. IEEE, IEEE",
+            "DOI": "10.1109/ISIE.2019.8781232"
+          },
+          {
+            "issue": "6",
+            "key": "1628_CR7",
+            "doi-asserted-by": "crossref",
+            "first-page": "849",
+            "DOI": "10.1007/s00521-010-0355-y",
+            "volume": "19",
+            "author": "H Celikkanat",
+            "year": "2010",
+            "unstructured": "Celikkanat H, Sahin E (2010) Steering self-organized robot flocks through externally guided individuals. Neural Computing & Applications 19(6):849–865",
+            "journal-title": "Neural Computing & Applications"
+          },
+          {
+            "issue": "7025",
+            "key": "1628_CR8",
+            "doi-asserted-by": "crossref",
+            "first-page": "513",
+            "DOI": "10.1038/nature03236",
+            "volume": "433",
+            "author": "ID Couzin",
+            "year": "2005",
+            "unstructured": "Couzin I D, Jens K, Franks N R, Levin S A (2005) Effective leadership and decision-making in animal groups on the move. Nature 433(7025):513–6",
+            "journal-title": "Nature"
+          },
+          {
+            "issue": "5",
+            "key": "1628_CR9",
+            "doi-asserted-by": "crossref",
+            "first-page": "1238",
+            "DOI": "10.1109/TAC.2010.2042355",
+            "volume": "55",
+            "author": "F Cucker",
+            "year": "2010",
+            "unstructured": "Cucker F, Dong J G (2010) Avoiding collisions in flocks. IEEE Transactions on Automatic Control 55(5):1238–1243",
+            "journal-title": "IEEE Transactions on Automatic Control"
+          },
+          {
+            "issue": "2",
+            "key": "1628_CR10",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.1007/s11047-013-9390-9",
+            "volume": "13",
+            "author": "E Ferrante",
+            "year": "2014",
+            "unstructured": "Ferrante E, Turgut A E, Stranieri A, Pinciroli C, Birattari M, Dorigo M (2014) A self-adaptive communication strategy for flocking in stationary and non-stationary environments. Natural Computing 13(2):225–245",
+            "journal-title": "Natural Computing"
+          },
+          {
+            "issue": "3",
+            "key": "1628_CR11",
+            "doi-asserted-by": "crossref",
+            "first-page": "810",
+            "DOI": "10.1109/TASE.2015.2403253",
+            "volume": "12",
+            "author": "K Szwaykowska",
+            "year": "2015",
+            "unstructured": "Szwaykowska K, Romero L M, Schwartz I B (2015) Collective motions of heterogeneous swarms. IEEE Transactions on Automation Science and Engineering 12(3):810–818",
+            "journal-title": "IEEE Transactions on Automation Science and Engineering"
+          },
+          {
+            "issue": "4",
+            "key": "1628_CR12",
+            "doi-asserted-by": "crossref",
+            "first-page": "1533",
+            "DOI": "10.1109/TASE.2018.2840828",
+            "volume": "15",
+            "author": "H Zhao",
+            "year": "2018",
+            "unstructured": "Zhao H, Liu H, Leung Y-W, Chu X (2018) Self-adaptive collective motion of swarm robots. IEEE Transactions on Automation Science and Engineering 15(4):1533–1545",
+            "journal-title": "IEEE Transactions on Automation Science and Engineering"
+          },
+          {
+            "key": "1628_CR13",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dimidov C, Oriolo G, Trianni V (2016) Random walks in swarm robotics: An experiment with kilobots",
+            "DOI": "10.1007/978-3-319-44427-7_16"
+          },
+          {
+            "issue": "13",
+            "key": "1628_CR14",
+            "doi-asserted-by": "crossref",
+            "first-page": "4251",
+            "DOI": "10.1007/s00500-017-2819-9",
+            "volume": "22",
+            "author": "FD Rango",
+            "year": "2018",
+            "unstructured": "Rango F D, Palmieri N, Yang X-S, Marano S (2018) Swarm robotics in wireless distributed protocol design for coordinating robots involved in cooperative tasks. Soft Computing 22(13):4251–4266",
+            "journal-title": "Soft Computing"
+          },
+          {
+            "issue": "12",
+            "key": "1628_CR15",
+            "doi-asserted-by": "crossref",
+            "first-page": "1411",
+            "DOI": "10.1177/0278364913499085",
+            "volume": "32",
+            "author": "L Sabattini",
+            "year": "2013",
+            "unstructured": "Sabattini L, Chopra N, Secchi C (2013) Decentralized connectivity maintenance for cooperative control of mobile robotic systems. International Journal of Robotics Research 32(12):1411–1423",
+            "journal-title": "International Journal of Robotics Research"
+          },
+          {
+            "issue": "4",
+            "key": "1628_CR16",
+            "doi-asserted-by": "crossref",
+            "first-page": "3081",
+            "DOI": "10.1109/LRA.2018.2849610",
+            "volume": "3",
+            "author": "C Wang",
+            "year": "2018",
+            "unstructured": "Wang C, Cheng J, Wang J, Li X, Meng M Q-H (2018) Efficient object search with belief road map using mobile robot. IEEE Robotics Autom.Lett. 3(4):3081–3088",
+            "journal-title": "IEEE Robotics Autom.Lett."
+          },
+          {
+            "issue": "10",
+            "key": "1628_CR17",
+            "doi-asserted-by": "crossref",
+            "first-page": "9466",
+            "DOI": "10.1109/TVT.2019.2934509",
+            "volume": "68",
+            "author": "Y Zhang",
+            "year": "2019",
+            "unstructured": "Zhang Y, Tian G, Lu J, Zhang M, Zhang S (2019) Efficient dynamic object search in home environment by mobile robot: A priori knowledge-based approach. IEEE Trans. Vehicular Technology 68(10):9466–9477",
+            "journal-title": "IEEE Trans. Vehicular Technology"
+          },
+          {
+            "issue": "10",
+            "key": "1628_CR18",
+            "doi-asserted-by": "crossref",
+            "first-page": "2609",
+            "DOI": "10.1109/TAC.2012.2190184",
+            "volume": "57",
+            "author": "R Olfati-Saber",
+            "year": "2012",
+            "unstructured": "Olfati-Saber R, Jalalkamali P (2012) Coupled distributed estimation and control for mobile sensor networks. IEEE Transactions on Automatic Control 57(10):2609–2614",
+            "journal-title": "IEEE Transactions on Automatic Control"
+          },
+          {
+            "key": "1628_CR19",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Vásárhelyi G, Virágh C, Somorjai G, Tarcai N, Szörényi T, Nepusz T, Vicsek T (2014) Outdoor flocking and formation flight with autonomous aerial robots. In: 2014 IEEE/RSJ International Conference on Intelligent Robots and Systems, pp. 3866?3873 (2014)",
+            "DOI": "10.1109/IROS.2014.6943105"
+          },
+          {
+            "issue": "2",
+            "key": "1628_CR20",
+            "doi-asserted-by": "crossref",
+            "first-page": "025012",
+            "DOI": "10.1088/1748-3182/9/2/025012",
+            "volume": "9",
+            "author": "C Virágh",
+            "year": "2013",
+            "unstructured": "Virágh C, Vásárhelyi G, Tarcai N, Szörényi T, Somorjai G, Nepusz T, Vicsek T (2013) Flocking algorithm for autonomous flying robots. Bioinspiration & Biomimetics 9(2):025012",
+            "journal-title": "Bioinspiration & Biomimetics"
+          },
+          {
+            "issue": "3",
+            "key": "1628_CR21",
+            "doi-asserted-by": "crossref",
+            "first-page": "684",
+            "DOI": "10.1109/TRO.2016.2559511",
+            "volume": "32",
+            "author": "H Garcia de Marina",
+            "year": "2016",
+            "unstructured": "Garcia de Marina H, Jayawardhana B, Cao M (2016) Distributed rotational and translational maneuvering of rigid formations and their applications. IEEE Transactions on Robotics 32(3):684–697",
+            "journal-title": "IEEE Transactions on Robotics"
+          },
+          {
+            "issue": "6198",
+            "key": "1628_CR22",
+            "doi-asserted-by": "crossref",
+            "first-page": "795",
+            "DOI": "10.1126/science.1254295",
+            "volume": "345",
+            "author": "M Rubenstein",
+            "year": "2014",
+            "unstructured": "Rubenstein M, Cornejo A, Nagpal R (2014) Robotics. programmable self-assembly in a thousand-robot swarm. Science 345(6198):795–9",
+            "journal-title": "Science"
+          },
+          {
+            "issue": "4",
+            "key": "1628_CR23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1488",
+            "DOI": "10.1109/TCST.2015.2487864",
+            "volume": "24",
+            "author": "H Zhang",
+            "year": "2016",
+            "unstructured": "Zhang H, Chen Z, Fan M (2016) Collaborative control of multivehicle systems in diverse motion patterns. IEEE Transactions on Control Systems Technology 24(4):1488–1494",
+            "journal-title": "IEEE Transactions on Control Systems Technology"
+          },
+          {
+            "key": "1628_CR24",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Delight M, Ramakrishnan S, Zambrano T, MacCready T (2016) Developing robotic swarms for ocean surface mapping. In: 2016 IEEE International Conference on Robotics and Automation (ICRA), pp. 5309?5315",
+            "DOI": "10.1109/ICRA.2016.7487742"
+          },
+          {
+            "issue": "1",
+            "key": "1628_CR25",
+            "doi-asserted-by": "crossref",
+            "first-page": "129",
+            "DOI": "10.1109/TCYB.2014.2328659",
+            "volume": "45",
+            "author": "SH Semnani",
+            "year": "2015",
+            "unstructured": "Semnani S H, Basir O A (2015) Semi-flocking algorithm for motion control of mobile sensors in large-scale surveillance systems. IEEE Transactions on Cybernetics 45(1):129–137",
+            "journal-title": "IEEE Transactions on Cybernetics"
+          },
+          {
+            "issue": "9",
+            "key": "1628_CR26",
+            "doi-asserted-by": "crossref",
+            "first-page": "2015",
+            "DOI": "10.1109/JSAC.2018.2864376",
+            "volume": "36",
+            "author": "H Zhao",
+            "year": "2018",
+            "unstructured": "Zhao H, Wang H, Wu W, Wei J (2018) Deployment algorithms for uav airborne networks toward on-demand coverage. IEEE Journal on Selected Areas in Communications 36(9):2015–2031",
+            "journal-title": "IEEE Journal on Selected Areas in Communications"
+          },
+          {
+            "issue": "7",
+            "key": "1628_CR27",
+            "doi-asserted-by": "crossref",
+            "first-page": "994",
+            "DOI": "10.1109/JSAC.2010.100904",
+            "volume": "28",
+            "author": "H Liu",
+            "year": "2010",
+            "unstructured": "Liu H, Chu X, Leung Y-W, Du R (2010) Simple movement control algorithm for bi-connectivity in robotic sensor networks. IEEE Journal on Selected Areas in Communications 28(7):994–1005",
+            "journal-title": "IEEE Journal on Selected Areas in Communications"
+          },
+          {
+            "issue": "6",
+            "key": "1628_CR28",
+            "first-page": "1371",
+            "volume": "18",
+            "author": "D Fredette",
+            "year": "2017",
+            "unstructured": "Fredette D, Őzguner Ü (2017) Swarm-inspired modeling of a highway system with stability analysis. IEEE Transactions on Intelligent Transportation Systems 18(6):1371–1379",
+            "journal-title": "IEEE Transactions on Intelligent Transportation Systems"
+          },
+          {
+            "issue": "8",
+            "key": "1628_CR29",
+            "doi-asserted-by": "crossref",
+            "first-page": "2015",
+            "DOI": "10.1109/TAC.2015.2400664",
+            "volume": "60",
+            "author": "T Han",
+            "year": "2015",
+            "unstructured": "Han T, Ge S S (2015) Styled-velocity flocking of autonomous vehicles: A systematic design. IEEE Transactions on Automatic Control 60(8):2015–2030",
+            "journal-title": "IEEE Transactions on Automatic Control"
+          },
+          {
+            "issue": "4",
+            "key": "1628_CR30",
+            "doi-asserted-by": "crossref",
+            "first-page": "1067",
+            "DOI": "10.1109/TCYB.2016.2537307",
+            "volume": "47",
+            "author": "H Fang",
+            "year": "2017",
+            "unstructured": "Fang H, Wei Y, Chen J, Xin B (2017) Flocking of second-order multiagent systems with connectivity preservation based on algebraic connectivity estimation. IEEE Transactions on Cybernetics 47(4):1067–1077",
+            "journal-title": "IEEE Transactions on Cybernetics"
+          },
+          {
+            "key": "1628_CR31",
+            "unstructured": "Qiang W, Li W, Cao X, Meng Y (2016) Distributed flocking with biconnected topology for multi-agent systems. In: International Conference on Human System Interactions"
+          },
+          {
+            "key": "1628_CR32",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Sakthivelmurugan E, Senthilkumar G, Prithiviraj KG, Devraj KR T (2018) Foraging behavior analysis of swarm robotics system. In: MATEC Web of Conferences, vol. 144, p. 01013. EDP Sciences",
+            "DOI": "10.1051/matecconf/201814401013"
+          },
+          {
+            "issue": "3",
+            "key": "1628_CR33",
+            "doi-asserted-by": "crossref",
+            "first-page": "56",
+            "DOI": "10.1007/s00502-010-0717-2",
+            "volume": "127",
+            "author": "M Quaritsch",
+            "year": "2010",
+            "unstructured": "Quaritsch M, Kruggl K, Wischounig-Strucl D, Bhattacharya S, Shah M, Rinner B (2010) Networked uavs as aerial sensor network for disaster management applications. e & i Elektrotechnik und Informationstechnik 127(3):56–63",
+            "journal-title": "e & i Elektrotechnik und Informationstechnik"
+          }
+        ],
+        "container-title": [
+          "Mobile Networks and Applications"
+        ],
+        "language": "en",
+        "link": [
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s11036-020-01628-x.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/article/10.1007/s11036-020-01628-x/fulltext.html",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+          },
+          {
+            "URL": "https://link.springer.com/content/pdf/10.1007/s11036-020-01628-x.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+          }
+        ],
+        "deposited": {
+          "date-parts": [
+            [
+              2022,
+              3,
+              25
+            ]
+          ],
+          "date-time": "2022-03-25T17:57:28Z",
+          "timestamp": 1648231048000
+        },
+        "score": 24.199364,
+        "resource": {
+          "primary": {
+            "URL": "https://link.springer.com/10.1007/s11036-020-01628-x"
+          }
+        },
+        "issued": {
+          "date-parts": [
+            [
+              2020,
+              7,
+              30
+            ]
+          ]
+        },
+        "references-count": 33,
+        "journal-issue": {
+          "issue": "1",
+          "published-print": {
+            "date-parts": [
+              [
+                2022,
+                2
+              ]
+            ]
+          }
+        },
+        "alternative-id": [
+          "1628"
+        ],
+        "URL": "https://doi.org/10.1007/s11036-020-01628-x",
+        "ISSN": [
+          "1383-469X",
+          "1572-8153"
+        ],
+        "issn-type": [
+          {
+            "type": "print",
+            "value": "1383-469X"
+          },
+          {
+            "type": "electronic",
+            "value": "1572-8153"
+          }
+        ],
+        "published": {
+          "date-parts": [
+            [
+              2020,
+              7,
+              30
+            ]
+          ]
+        },
+        "assertion": [
+          {
+            "value": "30 July 2020",
+            "order": 1,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+              "name": "ArticleHistory",
+              "label": "Article History"
+            }
+          }
+        ]
+      }
+    ],
+    "items-per-page": 3,
+    "query": {
+      "start-index": 0,
+      "search-terms": null
+    }
+  }
+}

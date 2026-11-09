@@ -1,0 +1,16 @@
+---
+title: "Toward Fine Contact Interactions: Learning to Control Normal Contact Force with Limited Information"
+authors: ["Jinda Cui", "Jiawei Xu", "David Saldaña", "Jeffrey Trinkle"]
+year: 2023
+journal: "40th IEEE International Conference on Robotics and Automation"
+publicationType: "conference"
+areas: ["aerial-manipulation"]
+resources: []
+abstract: "Dexterous manipulation of objects through fine control of physical contacts is essential for many important tasks of daily living. A fundamental ability underlying fine contact control is compliant control, i.e., controlling the contact forces while moving. For robots, the most widely explored approaches heavily depend on models of manipulated objects and expensive sensors to gather contact location and force information needed for real-time control. The models are difficult to obtain, and the sensors are costly, hindering personal robots' adoption in our homes and businesses. This study performs model-free reinforcement learning of a normal contact force controller on a robotic manipulation system built with a low-cost, information-poor tactile sensor. Despite the limited sensing capability, our force controller can be combined with a motion controller to enable fine contact interactions during object manipulation. Promising results are demonstrated in non-prehensile, dexterous manipulation experiments."
+bibtex: "@inproceedings{jinda2023toward,\n\ntitle = {Toward Fine Contact Interactions: Learning to Control Normal Contact Force with Limited Information},\n\nauthor = {Jinda Cui and Jiawei Xu and David Saldaña and Jeffrey Trinkle},\n\nyear  = {2023},\n\ndate = {2023-05-29},\n\nurldate = {2023-05-29},\n\nbooktitle = {40th IEEE International Conference on Robotics and Automation},\n\norganization = {IEEE Robotics and Automation Society},\n\nabstract = {Dexterous manipulation of objects through fine control of physical contacts is essential for many important tasks of daily living. A fundamental ability underlying fine contact control is compliant control, i.e., controlling the contact forces while moving. For robots, the most widely explored approaches heavily depend on models of manipulated objects and expensive sensors to gather contact location and force information needed for real-time control. The models are difficult to obtain, and the sensors are costly, hindering personal robots' adoption in our homes and businesses. This study performs model-free reinforcement learning of a normal contact force controller on a robotic manipulation system built with a low-cost, information-poor tactile sensor. Despite the limited sensing capability, our force controller can be combined with a motion controller to enable fine contact interactions during object manipulation. Promising results are demonstrated in non-prehensile, dexterous manipulation experiments.},\n\nkeywords = {manipulation, robot arm},\n\npubstate = {forthcoming},\n\ntppubtype = {inproceedings}\n\n}"
+image: "../../../public/wp-content/uploads/2023/05/60320-640x542.jpg"
+imageAlt: "Robot arm experiments for learning normal contact forces with limited sensing."
+imageSource: "https://swarmslab.com/wp-content/uploads/2023/05/60320-640x542.jpg"
+---
+
+
