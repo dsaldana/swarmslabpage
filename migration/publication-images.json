@@ -601,6 +601,33 @@
       "slug": "2026-from-hitch-to-lift-autonomous-cable-interlacing-by-multi-uav-teams-for-aerial-grasping-and-transportation",
       "sourceUrl": "https://dmarslab.github.io/assets/img/hitches.mp4",
       "sourcePage": "https://dmarslab.github.io/index.html"
+    },
+    {
+      "slug": "2026-from-ellipsoids-to-midair-control-of-dynamic-hitches",
+      "path": "src/assets/publications/2026-from-ellipsoids-to-midair-control-of-dynamic-hitches.png",
+      "alt": "Four aerial robots connected by interlacing cables, with ellipsoids illustrating the hitch constraints.",
+      "extractionDetails": "Figure 1 from the author-submitted arXiv paper. Downloaded without alteration.",
+      "evidenceURLs": [
+        "https://arxiv.org/abs/2602.08116"
+      ],
+      "width": 1059,
+      "height": 850,
+      "bytes": 209917,
+      "sourceUrl": "https://arxiv.org/html/2602.08116v2/history_snapshots_isometric_3d_comp.png"
+    },
+    {
+      "slug": "2026-tying-knots-in-the-air-reducing-the-number-of-quadrotors-for-aerial-knot-formation",
+      "path": "src/assets/publications/2026-tying-knots-in-the-air-reducing-the-number-of-quadrotors-for-aerial-knot-formation.jpg",
+      "alt": "Diagram from the knot-formation demonstration showing cable turning points and force directions.",
+      "extractionDetails": "Representative paper image from the coauthor lab publication list. Downloaded without alteration.",
+      "evidenceURLs": [
+        "https://api.crossref.org/works/10.1109/ICRA57385.2026.11697504",
+        "https://dmarslab.github.io/index.html"
+      ],
+      "width": 480,
+      "height": 360,
+      "bytes": 13374,
+      "sourceUrl": "https://dmarslab.github.io/assets/img/tying-knots-paper.jpg"
     }
   ],
   "withoutImages": [
