@@ -1,102 +1,236 @@
 [
   {
     "id": "DKE3uISUxdg",
-    "title": "Lehigh Engineering: Using robots to help people"
-  },
-  {
-    "id": "rJcHjy3pBa0",
-    "title": "The Spinning Blimp: Design and Control of a Novel Minimalist Aerial Vehicle"
-  },
-  {
-    "id": "75gfIlPtrBU",
-    "title": "MochiSwarm: A testbed for robotic micro-blimps in realistic environments"
-  },
-  {
-    "id": "u06ulNz4thk",
-    "title": "Swarmslab welcomes middle-school girls from CHOICES program by Creatives of Lehigh , hosting a hands-on mini competition using our robotic blimps"
-  },
-  {
-    "id": "4Y6CqFRhODg",
-    "title": "“Defend the Republic” competition Event 8, Spring 2024 Lehigh highlights"
-  },
-  {
-    "id": "4HuQvzdmefU",
-    "title": "“Defend the Republic” competition, covered by Lehigh Media"
-  },
-  {
-    "id": "ytyUnlL1rPA",
-    "title": "SBlimp: Design, Model, and Translational Motion Control for a Swing-Blimp by Jiawei Xu, Diego S. D’Antonio, Dominic J. Ammirato, and David Saldaña"
-  },
-  {
-    "id": "kxAeH-AIGAg",
-    "title": "Finding Optimal Modular Robots for Aerial Tasks by Jiawei Xu and David Saldaña"
-  },
-  {
-    "id": "EFig0cOaFZ4",
-    "title": "Forming and Controlling Hitches in Midair Using Aerial Robots by Diego S. D’Antonio, Subhrajit Bhattacharya, and David Saldaña"
-  },
-  {
-    "id": "JtSZSkYx_Rg",
-    "title": "Finding Optimal Modular Robots for Aerial Tasks"
-  },
-  {
-    "id": "olKYuWPWxHo",
-    "title": "H-ModQuad: Modular Multi-Rotors with 4, 5, and 6 Controllable DOF"
-  },
-  {
-    "id": "Ou6DPlXPE7A",
-    "title": "Non-Prehensile Manipulation of Cuboid Objects Using a Catenary Robot"
+    "title": "Using robots to help people",
+    "originalTitle": "Lehigh Engineering: Using robots to help people",
+    "category": "featured",
+    "project": "Lab overview",
+    "youtubeTitle": "Using robots to help people"
   },
   {
     "id": "3SaKKjl6os0",
-    "title": "The Catenary Robot: Design and Control of a Cable Propelled by Two Quadrotors"
+    "title": "Two quadrotors, one cable",
+    "originalTitle": "The Catenary Robot: Design and Control of a Cable Propelled by Two Quadrotors",
+    "category": "aerial-manipulation",
+    "project": "Catenary Robot",
+    "robot": "catenary-robot",
+    "youtubeTitle": "The Catenary Robot: Design and Control of a Cable Propelled by Two Quadrotors",
+    "paper": "2021-the-catenary-robot-design-and-control-of-a-cable-propelled-by-two-quadrotors"
   },
   {
-    "id": "TRceQUiTnik",
-    "title": "Resilient Task Allocation in Heterogeneous Multi-Robot Systems"
+    "id": "Ou6DPlXPE7A",
+    "title": "Moving cuboid objects with a cable",
+    "originalTitle": "Non-Prehensile Manipulation of Cuboid Objects Using a Catenary Robot",
+    "category": "aerial-manipulation",
+    "project": "Catenary Robot",
+    "robot": "catenary-robot",
+    "youtubeTitle": "Non-Prehensile Manipulation of Cuboid Objects Using a Catenary Robot",
+    "paper": "2021-non-prehensile-manipulation-of-cuboid-objects-using-a-catenary-robot"
   },
   {
     "id": "MeEGL_PUBx4",
-    "title": "Adaptive Control for Cooperative Aerial Transportation Using Catenary Robots"
-  },
-  {
-    "id": "dj2afGyhBB4",
-    "title": "Resilient Consensus in Robot Swarms With Periodic Motion and Intermittent Communication"
+    "title": "Cooperative aerial transportation",
+    "originalTitle": "Adaptive Control for Cooperative Aerial Transportation Using Catenary Robots",
+    "category": "aerial-manipulation",
+    "project": "Catenary Robot",
+    "robot": "catenary-robot",
+    "youtubeTitle": "Adaptive Control for Cooperative Aerial Transportation Using Catenary Robots.",
+    "paper": "2021-adaptive-control-for-cooperative-aerial-transportation-using-catenary-robots"
   },
   {
     "id": "43RSgWRLhJc",
-    "title": "A Flying Gripper Based on Cuboid Modular Robots"
-  },
-  {
-    "id": "t9kXrhDwXf0",
-    "title": "ModQuad: The Flying Modular Structure that Self-Assembles in Midair"
-  },
-  {
-    "id": "OgBylpC3t38",
-    "title": "Using robots to help people"
-  },
-  {
-    "id": "N80_sG0gjhE",
-    "title": "H-ModQuad: Modular Multi-Rotors with 4, 5, and 6 Controllable DOF"
-  },
-  {
-    "id": "KQoHU3PjyBU",
-    "title": "Inflight Self-disassembly"
+    "title": "A flying gripper built from modular robots",
+    "originalTitle": "A Flying Gripper Based on Cuboid Modular Robots",
+    "category": "aerial-manipulation",
+    "project": "Flying Gripper",
+    "robot": "flying-gripper",
+    "youtubeTitle": "A Flying Gripper Based on Cuboid Modular Robots",
+    "paper": "2018-a-flying-gripper-based-on-cuboid-modular-robots"
   },
   {
     "id": "DGsEHHnHi1c",
-    "title": "ModQuad"
+    "title": "ModQuad gripper in action",
+    "originalTitle": "ModQuad",
+    "category": "aerial-manipulation",
+    "project": "Flying Gripper",
+    "youtubeTitle": "ModQuad Gripper - ICRA 2018",
+    "robot": "flying-gripper",
+    "paper": "2018-a-flying-gripper-based-on-cuboid-modular-robots"
+  },
+  {
+    "id": "EFig0cOaFZ4",
+    "title": "Forming and controlling hitches in midair",
+    "originalTitle": "Forming and Controlling Hitches in Midair Using Aerial Robots by Diego S. D’Antonio, Subhrajit Bhattacharya, and David Saldaña",
+    "category": "aerial-manipulation",
+    "project": "Aerial Hitch Robot",
+    "robot": "aerial-hitch-robot",
+    "youtubeTitle": "Forming and Controlling Hitches in Midair Using Aerial Robots [ICRA 2023, London]",
+    "paper": "2023-forming-and-controlling-hitches-in-midair-using-aerial-robots"
+  },
+  {
+    "id": "t9kXrhDwXf0",
+    "title": "Self-assembling structures in midair",
+    "originalTitle": "ModQuad: The Flying Modular Structure that Self-Assembles in Midair",
+    "category": "modular-robots",
+    "project": "ModQuad",
+    "robot": "modquad",
+    "youtubeTitle": "ModQuad: The Flying Modular Structure that Self-Assembles in Midair",
+    "paper": "2018-modquad-the-flying-modular-structure-that-self-assembles-in-midair"
+  },
+  {
+    "id": "KQoHU3PjyBU",
+    "title": "Self-assembly: ICRA 2018 video",
+    "originalTitle": "Inflight Self-disassembly",
+    "category": "modular-robots",
+    "project": "ModQuad",
+    "youtubeTitle": "ModQuad: The Flying Modular Structure that Self-Assembles in Midair (ICRA18)",
+    "robot": "modquad",
+    "paper": "2018-modquad-the-flying-modular-structure-that-self-assembles-in-midair"
+  },
+  {
+    "id": "N80_sG0gjhE",
+    "title": "In-flight self-disassembly",
+    "originalTitle": "H-ModQuad: Modular Multi-Rotors with 4, 5, and 6 Controllable DOF",
+    "category": "modular-robots",
+    "project": "ModQuad",
+    "youtubeTitle": "Design and Control of Aerial Modules for Inflight Self-disassembly",
+    "robot": "modquad",
+    "paper": "2019-design-and-control-of-aerial-modules-for-inflight-self-disassembly"
+  },
+  {
+    "id": "olKYuWPWxHo",
+    "title": "Modular flight with 4, 5, and 6 controllable DOF",
+    "originalTitle": "H-ModQuad: Modular Multi-Rotors with 4, 5, and 6 Controllable DOF",
+    "category": "modular-robots",
+    "project": "H-ModQuad",
+    "robot": "h-modquad",
+    "youtubeTitle": "H-ModQuad: Modular Multi-Rotors with 4, 5, and 6 Controllable DOF",
+    "paper": "2021-h-modquad-modular-multi-rotors-with-4-5-and-6-controllable-dof"
+  },
+  {
+    "id": "kxAeH-AIGAg",
+    "title": "Optimal modular robots: paper trailer",
+    "originalTitle": "Finding Optimal Modular Robots for Aerial Tasks by Jiawei Xu and David Saldaña",
+    "category": "modular-robots",
+    "project": "H-ModQuad",
+    "youtubeTitle": "Finding Optimal Modular Robots for Aerial Tasks - paper trailer",
+    "robot": "h-modquad",
+    "paper": "2023-finding-optimal-modular-robots-for-aerial-tasks"
+  },
+  {
+    "id": "JtSZSkYx_Rg",
+    "title": "Optimal modular robots: research presentation",
+    "originalTitle": "Finding Optimal Modular Robots for Aerial Tasks",
+    "category": "modular-robots",
+    "project": "H-ModQuad",
+    "youtubeTitle": "Finding Optimal Modular Robots for Aerial Tasks by Jiawei Xu and David Saldaña, presentation video",
+    "robot": "h-modquad",
+    "paper": "2023-finding-optimal-modular-robots-for-aerial-tasks"
   },
   {
     "id": "Wuh-ocUlaP4",
-    "title": "ModQuad Gripper"
+    "title": "Assembling an L-shape with ground-modrotors",
+    "originalTitle": "ModQuad Gripper",
+    "category": "modular-robots",
+    "project": "Modular assembly",
+    "youtubeTitle": "Assembling an L-shape with ground-modrotors"
+  },
+  {
+    "id": "75gfIlPtrBU",
+    "title": "A testbed for micro-blimp swarms",
+    "originalTitle": "MochiSwarm: A testbed for robotic micro-blimps in realistic environments",
+    "category": "robotic-blimps",
+    "project": "MochiSwarm",
+    "robot": "mochiswarm",
+    "youtubeTitle": "MochiSwarm: A testbed for robotic micro-blimps in realistic environments",
+    "paper": "2025-mochiswarm"
+  },
+  {
+    "id": "rJcHjy3pBa0",
+    "title": "A minimalist spinning blimp",
+    "originalTitle": "The Spinning Blimp: Design and Control of a Novel Minimalist Aerial Vehicle",
+    "category": "robotic-blimps",
+    "project": "Spinning Blimp",
+    "robot": "spinning-blimp",
+    "youtubeTitle": "ICRA 2025: The Spinning Blimp: Design and Control of a Novel Minimalist Aerial Vehicle",
+    "paper": "2025-spinning-blimp"
+  },
+  {
+    "id": "ytyUnlL1rPA",
+    "title": "Flight through swinging motion",
+    "originalTitle": "SBlimp: Design, Model, and Translational Motion Control for a Swing-Blimp by Jiawei Xu, Diego S. D’Antonio, Dominic J. Ammirato, and David Saldaña",
+    "category": "robotic-blimps",
+    "project": "SBlimp",
+    "robot": "sblimp",
+    "youtubeTitle": "SBlimp: Design, Model, and Translational Motion Control for a Swing-Blimp",
+    "paper": "2023-sblimp-design-model-and-translational-motion-control-for-a-swing-blimp"
+  },
+  {
+    "id": "dj2afGyhBB4",
+    "title": "Modular robot formation and routing",
+    "originalTitle": "Resilient Consensus in Robot Swarms With Periodic Motion and Intermittent Communication",
+    "category": "resilient-swarms",
+    "project": "Resilient consensus",
+    "youtubeTitle": "Modular Robot Formation and Routing for Resilient Consensus",
+    "paper": "2020-modular-robot-formation-and-routing-for-resilient-consensus"
+  },
+  {
+    "id": "TRceQUiTnik",
+    "title": "Resilient task allocation in robot teams",
+    "originalTitle": "Resilient Task Allocation in Heterogeneous Multi-Robot Systems",
+    "category": "resilient-swarms",
+    "project": "Task allocation",
+    "youtubeTitle": "Resilient Task Allocation in Heterogeneous Multi-Robot Systems",
+    "paper": "2021-resilient-task-allocation-in-heterogeneous-multi-robot-systems"
   },
   {
     "id": "1bF9U3nbXJ8",
-    "title": "Assembling an L-shape with ground-modrotors"
+    "title": "Predicting environmental boundary behaviors",
+    "originalTitle": "Assembling an L-shape with ground-modrotors",
+    "category": "environmental-monitoring",
+    "project": "Boundary prediction",
+    "youtubeTitle": "Predicting Environmental Boundary Behaviors with a Mobile Robot",
+    "paper": "2016-predicting-environmental-boundary-behaviors-with-a-mobile-robot"
   },
   {
     "id": "Zwc6vNuUFDw",
-    "title": "Predicting Environmental Boundary Behaviors with a Mobile Robot"
+    "title": "Predicting changing boundaries with robot teams",
+    "originalTitle": "Predicting Environmental Boundary Behaviors with a Mobile Robot",
+    "category": "environmental-monitoring",
+    "project": "Cooperative prediction",
+    "youtubeTitle": "Cooperative Prediction of Time-Varying Boundaries with a Team of Robots",
+    "paper": "2017-cooperative-prediction-of-time-varying-boundaries-with-a-team-of-robots"
+  },
+  {
+    "id": "u06ulNz4thk",
+    "title": "Hands-on robotics with middle-school students",
+    "originalTitle": "Swarmslab welcomes middle-school girls from CHOICES program by Creatives of Lehigh , hosting a hands-on mini competition using our robotic blimps",
+    "category": "outreach",
+    "project": "CHOICES program",
+    "youtubeTitle": "CHOICES Program at the Swarms lab"
+  },
+  {
+    "id": "4Y6CqFRhODg",
+    "title": "Spring 2024 competition highlights",
+    "originalTitle": "“Defend the Republic” competition Event 8, Spring 2024 Lehigh highlights",
+    "category": "outreach",
+    "project": "Defend the Republic",
+    "youtubeTitle": "DTR Spring 2024 at George Mason University - Highlights"
+  },
+  {
+    "id": "4HuQvzdmefU",
+    "title": "The competition through Lehigh Media",
+    "originalTitle": "“Defend the Republic” competition, covered by Lehigh Media",
+    "category": "outreach",
+    "project": "Defend the Republic",
+    "youtubeTitle": "Lehigh University Drone Swarm Competition 2023"
+  },
+  {
+    "id": "OgBylpC3t38",
+    "title": "Research highlights from 2021",
+    "originalTitle": "Using robots to help people",
+    "category": "outreach",
+    "project": "Lab highlights",
+    "youtubeTitle": "Swams lab - papers 2021"
   }
 ]

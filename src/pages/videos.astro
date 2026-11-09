@@ -1,13 +1,54 @@
 ---
 import BaseLayout from '../components/BaseLayout.astro';
 import PageHeader from '../components/PageHeader.astro';
+import VideoCard from '../components/VideoCard.astro';
 import videos from '../data/videos.json';
+import { getPublications } from '../lib/content';
+const categories=[
+  {slug:'aerial-manipulation',title:'Collaborative Manipulation',description:'Cables, grippers, and aerial teams that move objects together.'},
+  {slug:'modular-robots',title:'Modular Aerial Robots',description:'Flying modules that assemble, separate, and adapt to the task.'},
+  {slug:'robotic-blimps',title:'Lighter Than Air (LTA) Swarms',description:'Micro-blimp swarms, spinning flight, and swinging motion.'},
+  {slug:'resilient-swarms',title:'Resilient Robot Swarms',description:'Reliable coordination and task allocation in multi-robot teams.'},
+  {slug:'environmental-monitoring',title:'Environmental Monitoring',description:'Robots that predict and track changing environmental boundaries.'},
+  {slug:'outreach',title:'Outreach & Competitions',description:'Hands-on robotics, competition highlights, and stories from the lab.'},
+];
+const publications=await getPublications();
+const publicationMap=new Map(publications.map(p=>[p.id,p]));
+const paperForVideo=new Map<string,{title:string;url:string}>();
+for(const video of videos){
+  if(!('paper' in video)||!video.paper)continue;
+  const paper=publicationMap.get(video.paper);
+  if(!paper)throw new Error(`Missing paper for video: ${video.id}`);
+  const d=paper.data;
+  const url=d.doi?`https://doi.org/${d.doi}`:d.resources.find(r=>r.label==='PDF')?.url??d.scholarUrl;
+  if(!url)throw new Error(`Missing paper link for video: ${video.id}`);
+  paperForVideo.set(video.id,{title:d.title,url});
+}
+const featured=videos.find(v=>v.category==='featured')!;
+const sections=categories.map(c=>({...c,videos:videos.filter(v=>v.category===c.slug)}));
+if(videos.some(v=>v.category!=='featured'&&!categories.some(c=>c.slug===v.category)))throw new Error('Uncategorized video');
 ---
-<BaseLayout title="Videos" description="Watch SwarmsLab robots in action: modular aerial robots, robotic blimps, cable manipulation, and competition highlights.">
-  <PageHeader eyebrow="Robots in action" title="Videos" lead="Research demonstrations, competition highlights, and a closer look at the robots we build." />
-  <div class="container-page grid gap-x-8 gap-y-12 py-12 md:grid-cols-2">
-    {videos.map(v=><article><div class="overflow-hidden rounded-xl border border-slate-200 bg-slate-100">
-      <iframe src={`https://www.youtube-nocookie.com/embed/${v.id}`} title={v.title} loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="aspect-video w-full border-0"></iframe>
-      </div><h2 class="mt-4 font-serif text-xl leading-snug">{v.title}</h2><a href={`https://www.youtube.com/watch?v=${v.id}`} target="_blank" rel="noopener noreferrer" class="mt-2 inline-block text-xs font-semibold text-primary-700 hover:underline">Watch on YouTube ↗</a></article>)}
+<BaseLayout title="Videos" description="Explore SwarmsLab videos by project: collaborative manipulation, modular aerial robots, LTA swarms, resilient teams, and outreach.">
+  <PageHeader eyebrow="Robots in action" title="Videos" lead="Explore our robots in action, from research demonstrations to competition highlights. Choose a research area or start with a look inside the lab." />
+  <div class="container-page pb-16">
+    <section aria-label="Featured video" class="border-b border-slate-200 py-10">
+      <VideoCard video={featured} featured />
+    </section>
+    <nav aria-label="Video categories" class="py-8">
+      <p class="eyebrow mb-4">Browse by research area</p>
+      <div class="flex flex-wrap gap-2">
+        {sections.map(c=><a href={`#${c.slug}`} class="rounded-full border border-slate-200 bg-white px-4 py-2 text-sm font-medium text-slate-700 transition-colors hover:border-primary-300 hover:bg-primary-50 hover:text-primary-700">{c.title}<span class="ml-2 text-xs text-slate-400">{c.videos.length}</span></a>)}
+      </div>
+    </nav>
+    {sections.map((c,i)=><section id={c.slug} data-video-category class="scroll-mt-24 border-t border-slate-200 py-10 sm:py-12" aria-labelledby={`${c.slug}-title`}>
+      <div class="mb-7">
+        <p class="eyebrow">0{i+1} / {c.videos.length} {c.videos.length===1?'video':'videos'}</p>
+        <h2 id={`${c.slug}-title`} class="mt-2 font-serif text-3xl sm:text-4xl">{c.title}</h2>
+        <p class="mt-3 max-w-2xl text-slate-600">{c.description}</p>
+      </div>
+      <div class="grid gap-x-8 gap-y-10 md:grid-cols-2 lg:grid-cols-3">
+        {c.videos.map(v=><VideoCard video={v} paper={paperForVideo.get(v.id)} />)}
+      </div>
+    </section>)}
   </div>
 </BaseLayout>
