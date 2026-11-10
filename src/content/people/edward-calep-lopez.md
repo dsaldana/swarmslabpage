@@ -1,5 +1,5 @@
 ---
-name: "Edward Calep Lopez"
+name: "Edward Caleb Lopez"
 status: "current"
 group: "Students"
 role: "Ph.D. Student"
