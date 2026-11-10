@@ -1,5 +1,11 @@
 [
   {
+    "title": "Resolve Magazine Fall 2025: Next-gen robotics",
+    "url": "https://engineering.lehigh.edu/research/resolve/volume-2-2025/next-gen-robotics-two-paths-one-shared-vision",
+    "body": "Resolve features David Saldaña and Cristian-Ioan Vasile’s NSF CAREER research. Saldaña’s project combines adaptive control and reinforcement learning to help aerial robots manipulate flexible objects such as cables, rods, hoses, and sheets.",
+    "image": "/media/engineering-lehigh-edu/resolve-fall-2025-saldana-vasile.jpg"
+  },
+  {
     "title": "NSF CAREER Award: From nature to complex aerial manipulation",
     "url": "https://engineering.lehigh.edu/news/article/engineering-smarter-drones-nature-complex-aerial-manipulation",
     "body": "PI David Saldaña receives the NSF CAREER Award to advance aerial robotics capable of manipulating flexible objects and adapting to shifting forces in midair.",
@@ -16,6 +22,12 @@
     "url": "https://engineering.lehigh.edu/choices",
     "body": "A hands-on introduction to robotics engineering for middle-school girls through the Lehigh CHOICES program.",
     "image": "/wp-content/uploads/2024/09/240620_CHOICES_UCPA_MLS325-21-640x480.jpg"
+  },
+  {
+    "title": "Resolve Magazine Spring 2024: Advancing Autonomy",
+    "url": "https://engineering.lehigh.edu/research/resolve/volume-1-2024/advancing-autonomy",
+    "body": "Resolve explores SwarmsLab’s research on aerial manipulation using cables, knots, and hitches, alongside the lab’s role in the Defend the Republic competition and opportunities for students in aerial robotics.",
+    "image": "/media/engineering-lehigh-edu/resolve-spring-2024-saldana-team.jpg"
   },
   {
     "title": "Defend the Republic Spring 2024",
