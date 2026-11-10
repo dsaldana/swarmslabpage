@@ -43,7 +43,7 @@ export const site: SiteConfig = {
   phone: "",
   address: ["SwarmsLab · Building C", "113 Research Drive", "Mountaintop Campus, Lehigh University", "Bethlehem, PA 18015"],
   mapQuery: "113 Research Drive, Bethlehem, PA 18015",
-  social: { scholar: "https://scholar.google.com/citations?user=VU1s_Z8AAAAJ", twitter: "https://twitter.com/dsaldana1", github: "https://github.com/LehighBlimpGroup" },
+  social: { scholar: "https://scholar.google.com/citations?user=VU1s_Z8AAAAJ", github: "https://github.com/LehighBlimpGroup" },
   nav: [
     { label: "Research", href: "/research/" },
     { label: "Our Robots", href: "/robots/" },

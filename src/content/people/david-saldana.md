@@ -5,7 +5,7 @@ group: "Faculty"
 role: "Associate Professor"
 order: 0
 headshot: "../../../public/wp-content/uploads/2021/11/index3-copy.jpeg"
-links: {"scholar": "https://scholar.google.com/citations?user=VU1s_Z8AAAAJ", "email": "saldana@lehigh.edu", "twitter": "https://twitter.com/dsaldana1", "linkedin": "https://www.linkedin.com/in/david-salda%C3%B1a-65200419"}
+links: {"scholar": "https://scholar.google.com/citations?user=VU1s_Z8AAAAJ", "email": "saldana@lehigh.edu", "linkedin": "https://www.linkedin.com/in/david-salda%C3%B1a-65200419"}
 ---
 
 David Saldaña leads SwarmsLab in the Department of Computer Science and Engineering at Lehigh University. His research focuses on flying modular robots, cooperative multi-robot systems, and resilient robot swarms.
