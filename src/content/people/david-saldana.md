@@ -16,7 +16,7 @@ Before joining Lehigh, he worked as a postdoctoral researcher in the [GRASP Labo
 
 - **2025–present:** Associate Professor, Computer Science & Engineering, Lehigh University.
 - **2019–2025:** Assistant Professor, Computer Science & Engineering, Lehigh University.
-- **Courtesy appointment:** [Mechanical Engineering & Mechanics](https://engineering.lehigh.edu/meche), Lehigh University.
+- **2026–present:** Courtesy appointment, [Mechanical Engineering & Mechanics](https://engineering.lehigh.edu/meche), Lehigh University.
 - **2017–2019:** Postdoctoral researcher, GRASP Laboratory, University of Pennsylvania.
 - **2015–2017:** Visiting research scholar, GRASP Laboratory, University of Pennsylvania.
 - **2013–2017:** PhD in Computer Science, Federal University of Minas Gerais, Brazil.
