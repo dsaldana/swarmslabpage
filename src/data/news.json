@@ -80,5 +80,19 @@
     "url": "https://engineering.lehigh.edu/research/resolve/volume-1-2021",
     "body": "Resolve Magazine visits the Autonomous and Intelligent Robotics Laboratory on Lehigh’s Mountaintop campus.",
     "image": "/wp-content/uploads/2022/03/E2VQYO5WQAMwnC_-640x773.jpeg"
+  },
+  {
+    "title": "Communications of the ACM: Saving lives with aerial drones",
+    "url": "https://cacm.acm.org/news/saving-lives-with-aerial-drones/",
+    "body": "Communications of the ACM features ModQuad, our modular aerial robots that dock and self-assemble in midair.",
+    "image": "/wp-content/uploads/2022/01/modquad_lowres.jpg",
+    "imageAlt": "ModQuad modules flying together in connected formations"
+  },
+  {
+    "title": "ModQuad on Discovery Channel",
+    "url": "https://www.youtube.com/watch?v=FBfTVM0NLOU",
+    "body": "Our research team demonstrates ModQuad on Discovery Channel Canada’s Daily Planet. Watch the trailer featuring our self-assembling modular aerial robots.",
+    "image": "/media/youtube/modquad-discovery-channel.jpg",
+    "imageAlt": "Thumbnail from the ModQuad Discovery Channel trailer"
   }
 ]
