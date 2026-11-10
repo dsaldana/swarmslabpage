@@ -6,15 +6,22 @@
     "image": "/media/engineering-lehigh-edu/resolve-fall-2025-saldana-vasile.jpg"
   },
   {
+    "title": "NSF Discovery Files: A new world of collaborative aerial robots",
+    "url": "https://www.nsf.gov/news/podcast-new-world-collaborative-aerial-robots",
+    "body": "David Saldaña joins NSF’s Discovery Files podcast to discuss resilient and adaptive aerial robots and how they can collaborate with people and other robots.",
+    "image": "/media/nsf-gov/collaborative-aerial-robots-podcast.jpg",
+    "imageAlt": "NSF Discovery Files podcast: Collaborative Aerial Robots"
+  },
+  {
     "title": "NSF CAREER Award: From nature to complex aerial manipulation",
     "url": "https://engineering.lehigh.edu/news/article/engineering-smarter-drones-nature-complex-aerial-manipulation",
     "body": "PI David Saldaña receives the NSF CAREER Award to advance aerial robotics capable of manipulating flexible objects and adapting to shifting forces in midair.",
     "image": "/media/engineering-lehigh-edu/title_bendable-lowres.jpg"
   },
   {
-    "title": "Lehigh Swarms winning DTR Fall 2024 at Indiana University",
+    "title": "Lehigh robotics team soars to victory at Defend the Republic",
     "url": "https://engineering.lehigh.edu/news/article/lehigh-robotics-team-soars-victory-defend-republic-drone-competition",
-    "body": "Team Lehigh Swarms wins at Indiana University, where the team first joined the competition two and a half years earlier.",
+    "body": "Lehigh Swarms wins the Fall 2024 Defend the Republic drone competition at Indiana University, demonstrating the team’s progress in autonomous robotic blimps.",
     "image": "/wp-content/uploads/2025/08/MG_4783-640x427.jpg"
   },
   {
@@ -22,6 +29,21 @@
     "url": "https://engineering.lehigh.edu/choices",
     "body": "A hands-on introduction to robotics engineering for middle-school girls through the Lehigh CHOICES program.",
     "image": "/wp-content/uploads/2024/09/240620_CHOICES_UCPA_MLS325-21-640x480.jpg"
+  },
+  {
+    "title": "NSF funds a cable-based approach to aerial robotics",
+    "url": "https://engineering.lehigh.edu/news/article/nsf-funds-project-exploring-innovative-cable-based-approach-aerial-robotics",
+    "body": "David Saldaña and Subhrajit Bhattacharya receive a three-year, nearly $600,000 NSF grant to develop aerial robots that use cables, knots, and hitches to grasp and transport objects.",
+    "image": "/media/engineering-lehigh-edu/nsf-aerial-hitches-saldana-xu.jpg",
+    "imageAlt": "David Saldaña and Jiawei Xu working with aerial robots in Lehigh’s AIR Lab"
+  },
+  {
+    "title": "Our robotic blimp on the cover of Resolve",
+    "url": "https://engineering.lehigh.edu/research/resolve/volume-1-2024",
+    "body": "SwarmsLab’s robotic blimp appears on the cover of Resolve’s Spring 2024 issue, Taking Flight, which highlights robotics research and student opportunities at Lehigh.",
+    "image": "/media/engineering-lehigh-edu/resolve-spring-2024-cover.jpg",
+    "imageAlt": "Spring 2024 Resolve magazine cover, Taking Flight, featuring a SwarmsLab robotic blimp",
+    "imageFit": "contain"
   },
   {
     "title": "Resolve Magazine Spring 2024: Advancing Autonomy",
