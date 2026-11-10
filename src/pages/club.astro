@@ -2,6 +2,7 @@
 import { Image } from 'astro:assets';
 import BaseLayout from '../components/BaseLayout.astro';
 import PageHeader from '../components/PageHeader.astro';
+import VideoCard from '../components/VideoCard.astro';
 import team from '../../public/wp-content/uploads/2024/01/club2023.png';
 import competition from '../../public/wp-content/uploads/2023/05/DSC00097-1536x1024.jpg';
 import { withBase } from '../lib/paths';
@@ -31,5 +32,8 @@ import { withBase } from '../lib/paths';
         </dl>
       </aside>
     </div>
+    <section aria-label="Club competition video" class="mt-12 border-t border-slate-200 pt-12">
+      <VideoCard video={{ id: '4HuQvzdmefU', title: 'Lehigh University Drone Swarm Competition 2023', project: 'Defend the Republic' }} featured />
+    </section>
   </div>
 </BaseLayout>
