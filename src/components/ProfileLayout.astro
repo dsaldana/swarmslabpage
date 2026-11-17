@@ -87,7 +87,7 @@ const ICONS: Record<LinkType, { d: string; color?: string }> = {
         </div>
 
         <div>
-          <h1 class="font-serif text-3xl text-slate-900 sm:text-4xl">{name}</h1>
+          <h1 class:list={["font-serif text-3xl text-slate-900 sm:text-4xl", person.id === "david-saldana" && "font-bold"]}>{name}</h1>
           <p class="mt-1 text-lg text-primary-700">{role}</p>
           {title && <p class="mt-1 max-w-2xl text-slate-600">{title}</p>}
           {
